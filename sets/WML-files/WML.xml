@@ -11,7 +11,7 @@
 	<cards>
 		<card>
 			<name>Eager Cake Smasher</name>
-			<text>When this creature enter, each player creates a Food token.
+			<text>When this creature enters, each player creates a Food token.
 Whenever an artifact leaves the battlefield, this creature gets +1/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/0.png" num="12">WML</set>
 			<prop>
@@ -169,15 +169,15 @@ Surprise {1}{W} (You may pay {1}{W} to put this card onto the battlefield from y
 		<card>
 			<name>Collaborate</name>
 			<text>Draw a card.
-Creatures you control get +1/+0 until end of turn for each card you&apos;ve drawn this turn.</text>
+Creatures you control get +1/+1 until end of turn for each card you&apos;ve drawn this turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/9.png" num="8">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3W</manacost>
-				<cmc>4</cmc>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -434,17 +434,16 @@ When this creature enters or leaves the battlefield, each player discards a card
 		</card>
 		<card>
 			<name>Behavioral Analysis</name>
-			<text>You may cast this spell as though it had flash if it is your turn.
-Target creature gets -4/-0 until end of turn.
-Draw a card.</text>
+			<text>Up to two different target creatures get -2/-0 until end of turn.
+Then if you targeted one or fewer creatures this way, draw a card.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/24.png" num="43">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -505,7 +504,7 @@ Whenever enchanted creature becomes tapped, you may discard a card. If you do, s
 			<name>Puddle Diver</name>
 			<text>As an additional cost to cast this spell, tap an untapped creature you control.
 When this creature enters, Nurture a Fish. (Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/28.png" num="66">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/28.png" num="65">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -554,9 +553,9 @@ When this creature enters, you may tap target creature and put two stun counters
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Precise Planner</name>
-			<text>Whenever a creature you control enters from exile or you cast a spell from exile, scry 1, then draw a card.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/31.png" num="65">WML</set>
+			<name>Role-Call Leader</name>
+			<text>The first time a creature you control enters on each of your turns, you may pay {1}. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/31.png" num="69">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1042,7 +1041,7 @@ When this creature enters, if it is your combat phase, it enters tapped and atta
 		</card>
 		<card>
 			<name>A Little Too Loud</name>
-			<text>Target creature you control gets +1/+0 until end of turn and deals 1 damage to any two different targets.</text>
+			<text>Target creature you control gets +1/+0 until end of turn and deals 1 damage to up to two different targets.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/59.png" num="144">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2205,7 +2204,7 @@ Whenever this creature attacks, untap target attacking creature you control. It 
 		<card>
 			<name>Put In Timeout</name>
 			<text>Exile target creature. It gains &quot;Timeout — A creature you own has not been exiled this turn.&quot; as long as it is in exile. (As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/127.png" num="67">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/127.png" num="66">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2273,7 +2272,7 @@ Gain control of target creature an opponent controls with mana value X or less u
 			<name>Refresh</name>
 			<text>If a land you control entered this turn, you may cast this spell without paying its mana cost.
 Target permanent gains hexproof and indestructible until end of turn. Untap it.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/131.png" num="68">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/131.png" num="67">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2461,7 +2460,7 @@ Destroy up to X target creatures, where X is the number of cards you&apos;ve dis
 		<card>
 			<name>Deceitful Generosity</name>
 			<text>{1}{B}: Each player loses 1 life and draws a card. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/142.png" num="86">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/142.png" num="87">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2475,11 +2474,11 @@ Destroy up to X target creatures, where X is the number of cards you&apos;ve dis
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Disingenuous Friend</name>
+			<name>Carla&apos;s Backup</name>
 			<text>Deathtouch, haste
 When this creature attacks, target opponent may discard a card. If they do not, this creature gains menace until end of turn.
 Timeout — No player has discarded a card this turn. (If you discard this card, you may discard it into exile. As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/143.png" num="87">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/143.png" num="83">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2957,7 +2956,7 @@ The first time each turn another nonland, nontoken permanent you control enters 
 		</card>
 		<card>
 			<name>Party Planner</name>
-			<text>The first time a creature you control enters on each of your turns, you may pay {1}. If you do, draw a card.</text>
+			<text>Whenever a creature you control enters from exile or you cast a spell from exile, scry 1, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/171.png" num="246">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3620,7 +3619,7 @@ When this creature leaves the battlefield, put the top card of target player&apo
 		<card>
 			<name>Regifting Guest</name>
 			<text>{4}{U}, {T}: Return up to one target artifact or enchantment card from your graveyard to the top of your library. At the beginning of your next end step, draw a card.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/208.png" num="69">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/208.png" num="68">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3692,7 +3691,7 @@ When this creature enters, you may pay {1}. If you do, create a copy of another 
 		<card>
 			<name>Kukkyonan Moatguard</name>
 			<text>Vigilance, ward {1}
-Other creatures you control have ward {1}.
+Other creatures you control have vigilance and ward {1}.
 If this creature would leave the battlefield, exile it instead. You may cast it as long as it remains in exile.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/212.png" num="57">WML</set>
 			<prop>
@@ -3764,7 +3763,7 @@ If this creature would leave the battlefield, exile it instead. You may cast it 
 			<name>Clumsy Admirer</name>
 			<text>When this creature leaves the battlefield, if it entered this turn, search your library for an artifact or creature card, reveal it, put it into your hand, then shuffle.
 Surprise {3}{B}</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/216.png" num="83">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/216.png" num="84">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4647,7 +4646,7 @@ If you have beaten the dare, creatures you control with deathtouch have trample.
 			<text>When this creature enters, choose target opponent. Until the beginning of your next upkeep, whenever the chosen opponent draws a card, they lose 2 life.
 When this creature leaves the battlefield, each player draws a card.
 Surprise {B}</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/265.png" num="85">WML</set>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/265.png" num="86">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4666,7 +4665,7 @@ Surprise {B}</text>
 			<text>Sharing {2}{B} (When this creature enters, if you paid the Sharing cost while casting, each other creature you control&apos;s text box is replaced with this creature&apos;s text box until end of turn.)
 Deathtouch, menace
 Whenever another creature dies, target opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/266.png" num="84">WML</set>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/266.png" num="85">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4790,7 +4789,7 @@ If you control five or more other creatures, this creature gets +5/+5 and may at
 			<text>Ward {2}
 At the beginning of each upkeep, scry 2.
 Whenever an opponent draws their second card each turn, you draw a card.
-{3}: Put a nonland permanent card from your hand onto the battlefield. If you do, shuffle it into your library.</text>
+{3}: Put a nonland permanent card from your hand onto the battlefield. When you do, shuffle it into your library.</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/273.png" num="235">WML</set>
 			<prop>
 				<layout>normal</layout>

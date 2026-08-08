@@ -93,7 +93,7 @@
 		{
 			"name": "Collaborate",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Instant",
 			"collector_number": "8",
 			"image_uris": {
@@ -243,8 +243,8 @@
 		{
 			"name": "Behavioral Analysis",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
+			"mana_cost": "{U}",
+			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/24.png"
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Elemental Fish",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/28.png"
 			}
@@ -311,11 +311,11 @@
 			}
 		},
 		{
-			"name": "Precise Planner",
+			"name": "Role-Call Leader",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "65",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/31.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/127.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/131.png"
 			}
@@ -1425,17 +1425,17 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/142.png"
 			}
 		},
 		{
-			"name": "Disingenuous Friend",
+			"name": "Carla's Backup",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Figment",
-			"collector_number": "87",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/143.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Reveler",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/208.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Figment",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/216.png"
 			}
@@ -2655,7 +2655,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Devil",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/265.png"
 			}
@@ -2665,7 +2665,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Horror Figment",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/266.png"
 			}
@@ -2976,7 +2976,7 @@
 	4 Shadowy Remnant
 	4 Gregarious Garcon
 	4 Indecisive Sampler
-	4 Disingenuous Friend
+	4 Carla's Backup
 	4 Face Your Fears
 	4 Lightning-Breathing Dragon
 	4 Adaman Scrounger
@@ -3058,7 +3058,7 @@
 	8 Puddle Diver
 	8 Muddy Mystic
 	8 Dazzling Opulence
-	8 Precise Planner
+	8 Role-Call Leader
 	8 Sweet Dreams
 	8 Treehome Lullaby
 	8 Antagonizing Acquaintance
@@ -3174,7 +3174,7 @@
 	8 Puddle Diver
 	8 Muddy Mystic
 	8 Dazzling Opulence
-	8 Precise Planner
+	8 Role-Call Leader
 	8 Sweet Dreams
 	8 Treehome Lullaby
 	8 Antagonizing Acquaintance
@@ -3294,7 +3294,7 @@
 	12 Puddle Diver
 	12 Muddy Mystic
 	12 Dazzling Opulence
-	12 Precise Planner
+	12 Role-Call Leader
 	12 Sweet Dreams
 	12 Treehome Lullaby
 	6 Slippery Muckfry
@@ -3406,7 +3406,7 @@
 	6 Gregarious Garcon
 	6 Indecisive Sampler
 	12 Deceitful Generosity
-	6 Disingenuous Friend
+	6 Carla's Backup
 	6 Face Your Fears
 	6 Lightning-Breathing Dragon
 	6 Adaman Scrounger
@@ -3576,7 +3576,7 @@
 	6 Puddle Diver
 	6 Muddy Mystic
 	6 Dazzling Opulence
-	6 Precise Planner
+	6 Role-Call Leader
 	6 Sweet Dreams
 	6 Treehome Lullaby
 	15 Slippery Muckfry
@@ -3688,7 +3688,7 @@
 	15 Gregarious Garcon
 	15 Indecisive Sampler
 	6 Deceitful Generosity
-	15 Disingenuous Friend
+	15 Carla's Backup
 	15 Face Your Fears
 	15 Lightning-Breathing Dragon
 	15 Adaman Scrounger

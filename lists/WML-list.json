@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Concept of the Monster",
-        "number": 84,
+        "number": 85,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Cruel Prankster",
-        "number": 85,
+        "number": 86,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Clumsy Admirer",
-        "number": 83,
+        "number": 84,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -369,7 +369,7 @@
     },
     {
         "card_name": "Regifting Guest",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -496,8 +496,8 @@
         "position": "129"
     },
     {
-        "card_name": "Disingenuous Friend",
-        "number": 87,
+        "card_name": "Carla's Backup",
+        "number": 83,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -897,7 +897,7 @@
     },
     {
         "card_name": "Deceitful Generosity",
-        "number": 86,
+        "number": 87,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1168,12 +1168,12 @@
         "position": "18"
     },
     {
-        "card_name": "Precise Planner",
+        "card_name": "Puddle Diver",
         "number": 65,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "31"
+        "position": "28"
     },
     {
         "card_name": "Guided Dissection",
@@ -1208,12 +1208,12 @@
         "position": "7"
     },
     {
-        "card_name": "Puddle Diver",
+        "card_name": "Put In Timeout",
         "number": 66,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "28"
+        "position": "127"
     },
     {
         "card_name": "Hamfisted Hogger",
@@ -1248,12 +1248,12 @@
         "position": "1"
     },
     {
-        "card_name": "Put In Timeout",
+        "card_name": "Refresh",
         "number": 67,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "127"
+        "position": "131"
     },
     {
         "card_name": "Infested Guest",
@@ -1288,12 +1288,12 @@
         "position": "15"
     },
     {
-        "card_name": "Refresh",
-        "number": 68,
+        "card_name": "Role-Call Leader",
+        "number": 69,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "131"
+        "position": "31"
     },
     {
         "card_name": "Jagged Memories",

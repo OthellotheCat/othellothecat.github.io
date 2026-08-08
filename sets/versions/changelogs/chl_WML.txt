@@ -1,4 +1,55 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Role-Call Leader added.
+Carla's Backup added.
+
+Precise Planner removed.
+Disingenuous Friend removed.
+
+Eager Cake Smasher
+rules_text: When this creature enter, each player creates a Food token.
+Whenever an artifact leaves the battlefield, this creature gets +1/+0 until end of turn. => When this creature enters, each player creates a Food token.
+Whenever an artifact leaves the battlefield, this creature gets +1/+0 until end of turn.
+
+Collaborate
+cost: {3}{W} => {4}{W}
+rules_text: Draw a card.
+Creatures you control get +1/+0 until end of turn for each card you've drawn this turn. => Draw a card.
+Creatures you control get +1/+1 until end of turn for each card you've drawn this turn.
+
+Behavioral Analysis
+type: Sorcery => Instant
+cost: {1}{U} => {U}
+rules_text: You may cast this spell as though it had flash if it is your turn.
+Target creature gets -4/-0 until end of turn.
+Draw a card. => Up to two different target creatures get -2/-0 until end of turn.
+Then if you targeted one or fewer creatures this way, draw a card.
+
+A Little Too Loud
+rules_text: Target creature you control gets +1/+0 until end of turn and deals 1 damage to any two different targets. => Target creature you control gets +1/+0 until end of turn and deals 1 damage to up to two different targets.
+
+Party Planner
+rules_text: The first time a creature you control enters on each of your turns, you may pay {1}. If you do, draw a card. => Whenever a creature you control enters from exile or you cast a spell from exile, scry 1, then draw a card.
+
+Kukkyonan Moatguard
+rules_text: Vigilance, ward {1}
+Other creatures you control have ward {1}.
+If this creature would leave the battlefield, exile it instead. You may cast it as long as it remains in exile. => Vigilance, ward {1}
+Other creatures you control have vigilance and ward {1}.
+If this creature would leave the battlefield, exile it instead. You may cast it as long as it remains in exile.
+
+Tsukon, Prideful Monarch
+rules_text: Ward {2}
+At the beginning of each upkeep, scry 2.
+Whenever an opponent draws their second card each turn, you draw a card.
+{3}: Put a nonland permanent card from your hand onto the battlefield. If you do, shuffle it into your library. => Ward {2}
+At the beginning of each upkeep, scry 2.
+Whenever an opponent draws their second card each turn, you draw a card.
+{3}: Put a nonland permanent card from your hand onto the battlefield. When you do, shuffle it into your library.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Eager Cake Smasher added.
