@@ -1766,7 +1766,7 @@
     },
     {
         "card_name": "Gain The Edge",
-        "number": 242,
+        "number": 243,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1909,7 +1909,7 @@
     },
     {
         "card_name": "Imperfection Repurposer",
-        "number": 243,
+        "number": 244,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1924,8 +1924,8 @@
         "position": "181"
     },
     {
-        "card_name": "Lethargic Glutton",
-        "number": 244,
+        "card_name": "Food-Driven Centipede",
+        "number": 242,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -2088,20 +2088,20 @@
         "position": "242"
     },
     {
-        "card_name": "Absent-Minded Acquaintance",
-        "number": 248,
-        "shape": "normal",
-        "set": "WML",
-        "rotated": false,
-        "position": "165"
-    },
-    {
         "card_name": "Cardboard Fortress",
         "number": 250,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
         "position": "167"
+    },
+    {
+        "card_name": "Faded Memory",
+        "number": 252,
+        "shape": "normal",
+        "set": "WML",
+        "rotated": false,
+        "position": "99"
     },
     {
         "card_name": "Figmatog",
@@ -2128,12 +2128,12 @@
         "position": "169"
     },
     {
-        "card_name": "Faded Memory",
-        "number": 252,
+        "card_name": "Absent-Minded Acquaintance",
+        "number": 248,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "99"
+        "position": "165"
     },
     {
         "card_name": "Great Stick",

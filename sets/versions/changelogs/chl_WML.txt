@@ -1,4 +1,95 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Food-Driven Centipede added.
+
+Lethargic Glutton removed.
+
+Dangerous Idea
+cost: {3}{R} => {4}{R}
+rules_text: Dangerous Idea deals 1 damage to target player, 3 damage to target creature, and 5 damage to up to one other target creature token or face-down creature. => Dangerous Idea deals 5 damage to target creature and 2 damage to up to one target creature token or face-down creature.
+
+Brash Buddy
+rules_text: {1}: Add {W}, {R} or {G}. Activate only once each turn.
+{3}, {T}: Target creature you control gets first strike until end of turn. If it's a face-down creature, it also gets +2/+0. => {1}: Add {W}, {R} or {G}. Activate only once each turn.
+{3}, {T}: Target attacking creature you control gains first strike until end of turn. If it's a face-down creature, it also gets +2/+0.
+
+Leafage Lineup
+rules_text: When this creature enters, another target creature you control gets +X/+X and trample until end of turn, where X is the number of creatures you control. => When this creature enters, another target creature you control gets +X/+X and gains trample until end of turn, where X is the number of creatures you control.
+
+Treehome Greenhouse
+rules_text: When this artifact enters, target land you control becomes a 1/1 green Elemental creature. [i](It's still a land.)[/i]
+{G}, Sacrifice this artifact: Target creature gets +3/+3 until end of turn. => When this artifact enters, put a +1/+1 counter on target land you control. It becomes a 1/1 green Elemental creature. [i](It's still a land.)[/i]
+{G}, Sacrifice this artifact: Target creature gets +3/+3 until end of turn.
+
+Faded Memory
+
+Adaman Rockstomper
+type: Creature — -Elemental => Creature — Elemental
+
+Absent-Minded Acquaintance
+
+Pocket Sand
+rules_text: When this Equipment enters, you may attach it to target creature you control.
+{3}: Remove Equipped creature from combat. Pocket Sand deals 1 damage to target attacking or blocking creature
+Equip {1}
+Surprise {0} [i](You may pay {0} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this Equipment enters, you may attach it to target creature you control.
+{3}: Remove Equipped creature from combat and tap it. Pocket Sand deals 1 damage to target attacking or blocking creature
+Equip {1}
+Surprise {0} [i](You may pay {0} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Push Yourself
+rules_text: As an additional cost to cast this spell, pay X life.
+Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Put a +1/+1 counter on up to X creatures you control. If you have beaten the dare, creatures you control with counters on them gain menace until end of turn. => As an additional cost to cast this spell, pay X life.
+Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Put a +1/+1 counter on up to X creatures you control. Then if you have beaten the dare, creatures you control with counters on them gain menace until end of turn.
+
+Augusta, Vigilant Chaperone
+cost: {1}{W} => {W}
+pt: 2/2 => 2/1
+
+Yelena, Gift-Giver
+rules_text: Whenever another nontoken nonland face-up permanent you control enters, if it was not cast, each player may create a token copy of it.
+At the start of each opponent's combat phase, that opponent may pay {X}, where X is the number of nonland permanents they control with the same name as a permanent you control. If they do not, that opponent cannot attack you until the start of their next turn. => Whenever another nontoken nonland permanent you control enters, if it was not cast, each player may create a token copy of it.
+At the start of each opponent's combat phase, that opponent may pay {X}, where X is the number of nonland permanents they control with the same name as a permanent you control. If they do not, that opponent cannot attack you until the start of their next turn.
+
+Jaax, Excitable Prodigy
+type: Legendary Creature — Orc Sorceror => Legendary Creature — Orc Sorcerer
+rules_text: Prowess
+Whenever you cast a spell from anywhere other than your hand, creatures you control get +1/+0 until end of turn. If it was a noncreature spell, you may copy it and choose new targets for the copies. [i](Copies of permanents become tokens.)[/i] => Prowess
+Whenever you cast a spell from anywhere other than your hand, creatures you control get +1/+0 until end of turn. If it was a noncreature spell, you may copy it. You may choose new targets for the copies. [i](Copies of permanents become tokens.)[/i]
+
+Minia, Crashing Through
+rules_text: Deathtouch, trample
+Dare [i](If it is your turn and creatures you control have dealt 10 or more combat damage this turn, you have beaten the dare for the rest of the game.)[/i]
+Minia has indestructible if you have beaten the dare.
+Whenever Minia becomes blocked by one or more creatures with greater power than her, choose a creature she is being blocked by. Minia gets +X/+0 until end of turn, where X is the chosen creature's power. => Deathtouch, trample
+Dare
+Minia has indestructible if you have beaten the dare.
+Whenever Minia becomes blocked by one or more creatures with greater power than her, choose a creature she is being blocked by. Minia gets +X/+0 until end of turn, where X is the chosen creature's power.
+
+Iron Stomach
+cost: {3}{G}{G} => {2}{G}{G}{G}
+
+Sean, Caroling Protector
+rules_text: The first time you draw a card each turn, you may reveal it. If you do and it is a land card, put it onto the battlefield tapped and draw a card.
+{G}{W}{U}: Creatures you control get +X+1/+X+1 until end of turn, where X is the number of lands you control that entered this turn. => The first time you draw a card each turn, you may reveal it. If you do and it is a land card, put it onto the battlefield tapped and draw a card.
+{G}{W}{U}: Creatures you control get +X/+X until end of turn, where X is the number of lands you control that entered this turn plus one.
+
+Shavida, Friend-Maker
+rules_text: Whenever a Figment you control enters, put a friend counter on Shavida.
+At the beginning of your first postcombat main phase on each of your turns, if Shavida has three or more friend counters, remove them. If you do, untap each creature that attacked this turn, and there is another combat phase and postcombat main phase after this phase.
+{R}{G}{W}, {T}: Imagine 3. Activate only as a sorcery. => Whenever a Figment you control enters, put a friend counter on Shavida.
+At the beginning of your first postcombat main phase on each of your turns, if Shavida has three or more friend counters, remove them,ntap each creature that attacked this turn, and there is another combat phase and postcombat main phase after this phase.
+{R}{G}{W}, {T}: Imagine 3.
+pt: 4/6 => 4/5
+
+Carla, Head of the Cliques
+type: Legendary Creature — - Human Devil Advisor => Legendary Creature — Human Devil Advisor
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Role-Call Leader added.

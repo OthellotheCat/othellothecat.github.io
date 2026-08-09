@@ -673,7 +673,7 @@
 		{
 			"name": "Dangerous Idea",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
@@ -992,7 +992,7 @@
 		},
 		{
 			"name": "Faded Memory",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Creature — Figment",
 			"collector_number": "252",
@@ -1514,7 +1514,7 @@
 			"name": "Adaman Rockstomper",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — -Elemental",
+			"type": "Creature — Elemental",
 			"collector_number": "122",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/151.png"
@@ -1652,7 +1652,7 @@
 		},
 		{
 			"name": "Absent-Minded Acquaintance",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Creature — Figment",
 			"collector_number": "248",
@@ -1735,7 +1735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Creature — Figment",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/173.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/W}{G/W}",
 			"type": "Sorcery",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/176.png"
 			}
@@ -1871,11 +1871,11 @@
 			}
 		},
 		{
-			"name": "Lethargic Glutton",
+			"name": "Food-Driven Centipede",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B/G}{B/G}",
-			"type": "Creature — Figment",
-			"collector_number": "244",
+			"type": "Creature — Insect",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/187.png"
 			}
@@ -2073,7 +2073,7 @@
 		{
 			"name": "Augusta, Vigilant Chaperone",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Legendary Creature — Spirit Advisor",
 			"collector_number": "3",
 			"image_uris": {
@@ -2454,7 +2454,7 @@
 			"name": "Jaax, Excitable Prodigy",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Orc Sorceror",
+			"type": "Legendary Creature — Orc Sorcerer",
 			"collector_number": "215",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/245.png"
@@ -2703,7 +2703,7 @@
 		{
 			"name": "Iron Stomach",
 			"rarity": "mythic",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "180",
 			"image_uris": {
@@ -2764,7 +2764,7 @@
 			"name": "Carla, Head of the Cliques",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
-			"type": "Legendary Creature — - Human Devil Advisor",
+			"type": "Legendary Creature — Human Devil Advisor",
 			"collector_number": "207",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/276.png"
@@ -2957,6 +2957,7 @@
 	4 Scarred Braggart
 	4 Leafage Lineup
 	4 Earthen Admiration
+	4 Faded Memory
 	4 Well-Meaning Mastiff
 	4 Pristine Collector
 	4 Feathered Escort
@@ -2995,7 +2996,6 @@
 	4 Treehome Sunreacher
 	4 Sneaky Beetle
 	4 Unwanted Reminder
-	4 Absent-Minded Acquaintance
 	4 Figmatog
 	4 Cardboard Fortress
 	4 Pocket Sand
@@ -3017,7 +3017,7 @@
 	4 Taunting Jockey
 	4 Explosive Entrance
 	4 Plump Bloatfly
-	4 Lethargic Glutton
+	4 Food-Driven Centipede
 	4 Lost Hatchling
 	4 Adaman Tyrannosaur
 	4 Improvising Accountant
@@ -3118,7 +3118,6 @@
 	8 Great Stick
 	8 Unlucky Kite-Flier
 	8 Telekaleidoscope
-	8 Faded Memory
 	8 Cloudscape
 	8 Seascape
 	8 Murkscape
@@ -3146,6 +3145,7 @@
 	8 Desperate Brawl
 	8 Knock Some Sense Into You
 	8 Distraction Tactics
+	8 Absent-Minded Acquaintance
 [common | masterpiece(1)]
 	8 Silly Goose
 	8 Sneak a Peek
@@ -3234,7 +3234,6 @@
 	8 Great Stick
 	8 Unlucky Kite-Flier
 	8 Telekaleidoscope
-	8 Faded Memory
 	8 Cloudscape
 	8 Seascape
 	8 Murkscape
@@ -3262,6 +3261,7 @@
 	8 Desperate Brawl
 	8 Knock Some Sense Into You
 	8 Distraction Tactics
+	8 Absent-Minded Acquaintance
 [foil(1)]
 	6 Eager Cake Smasher
 	12 Silly Goose
@@ -3362,7 +3362,7 @@
 	12 Great Stick
 	12 Unlucky Kite-Flier
 	12 Telekaleidoscope
-	12 Faded Memory
+	6 Faded Memory
 	12 Cloudscape
 	12 Seascape
 	12 Murkscape
@@ -3428,7 +3428,7 @@
 	6 Treehome Sunreacher
 	6 Sneaky Beetle
 	6 Unwanted Reminder
-	6 Absent-Minded Acquaintance
+	12 Absent-Minded Acquaintance
 	6 Figmatog
 	6 Cardboard Fortress
 	6 Pocket Sand
@@ -3450,7 +3450,7 @@
 	6 Taunting Jockey
 	6 Explosive Entrance
 	6 Plump Bloatfly
-	6 Lethargic Glutton
+	6 Food-Driven Centipede
 	6 Lost Hatchling
 	6 Adaman Tyrannosaur
 	6 Improvising Accountant
@@ -3644,7 +3644,7 @@
 	6 Great Stick
 	6 Unlucky Kite-Flier
 	6 Telekaleidoscope
-	6 Faded Memory
+	15 Faded Memory
 	6 Cloudscape
 	6 Seascape
 	6 Murkscape
@@ -3710,7 +3710,7 @@
 	15 Treehome Sunreacher
 	15 Sneaky Beetle
 	15 Unwanted Reminder
-	15 Absent-Minded Acquaintance
+	6 Absent-Minded Acquaintance
 	15 Figmatog
 	15 Cardboard Fortress
 	15 Pocket Sand
@@ -3732,7 +3732,7 @@
 	15 Taunting Jockey
 	15 Explosive Entrance
 	15 Plump Bloatfly
-	15 Lethargic Glutton
+	15 Food-Driven Centipede
 	15 Lost Hatchling
 	15 Adaman Tyrannosaur
 	15 Improvising Accountant
