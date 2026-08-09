@@ -451,7 +451,7 @@ Then if you targeted one or fewer creatures this way, draw a card.</text>
 		</card>
 		<card>
 			<name>Swell Rider</name>
-			<text>If you have an odd number of cards in hand, this creature can&apos;t be blocked. Otherwise, it has +1/+1.</text>
+			<text>If you have an odd number of cards in hand, this creature can&apos;t be blocked. Otherwise, it has +1/+1. (Zero is even.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/25.png" num="75">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1025,7 +1025,7 @@ When this creature enters, if it is your combat phase, it enters tapped and atta
 		<card>
 			<name>Rambunctious Blastfire</name>
 			<text>{1}{R}, {T}: Target creature you control gains haste until end of turn. If you cast an instant or sorcery spell this turn, that creature also gets +2/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/58.png" num="152">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/58.png" num="151">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1041,7 +1041,7 @@ When this creature enters, if it is your combat phase, it enters tapped and atta
 		</card>
 		<card>
 			<name>A Little Too Loud</name>
-			<text>Target creature you control gets +1/+0 until end of turn and deals 1 damage to up to two different targets.</text>
+			<text>Target creature you control gets +2/+0 until end of turn and deals 1 damage to up to two different targets.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/59.png" num="144">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1056,16 +1056,16 @@ When this creature enters, if it is your combat phase, it enters tapped and atta
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Overstuffed Cannon</name>
-			<text>{1}{R}, {T}, Sacrifice this artifact: Destroy target nonbasic land. If you have five or more cards in your hand, instead, destroy target land.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/60.png" num="148">WML</set>
+			<name>Scrapwork Cannon</name>
+			<text>{1}{R}, {T}, Sacrifice this artifact: Destroy target artifact. If you have an odd number of cards in hand, destroy up to one other target artifact. Otherwise, Scrapwork Cannon deals 2 damage to that artifact&apos;s controller. (Zero is even.)</text>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/60.png" num="155">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -1073,7 +1073,7 @@ When this creature enters, if it is your combat phase, it enters tapped and atta
 		</card>
 		<card>
 			<name>Capricious Greedmonger</name>
-			<text>If you have an odd number of cards in hand, this creature has trample. Otherwise, this creature has menace.</text>
+			<text>If you have an odd number of cards in hand, this creature has trample. Otherwise, this creature has menace. (Zero is even.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/61.png" num="128">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1091,9 +1091,9 @@ When this creature enters, if it is your combat phase, it enters tapped and atta
 		<card>
 			<name>Heavy-Handing</name>
 			<text>This spell costs {2} less if it is cast from exile.
-Heavy-Handing deals 3 damage to target creature or planeswalker.
+Heavy-Handing deals 3 damage to any target.
 Timeout — You have three or more cards in hand. (If you discard this card, you may discard it into exile. As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/62.png" num="139">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/62.png" num="140">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1126,7 +1126,7 @@ This creature gets +2/+1 if you have beaten the dare.</text>
 		</card>
 		<card>
 			<name>Titan Goader</name>
-			<text>Whenever this creature becomes blocked, another attacking creature gets +2/+0 until end of turn.</text>
+			<text>When this creature becomes blocked, another attacking creature gets +2/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/64.png" num="158">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1137,7 +1137,7 @@ This creature gets +2/+1 if you have beaten the dare.</text>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1160,8 +1160,7 @@ This creature gets +2/+1 if you have beaten the dare.</text>
 		</card>
 		<card>
 			<name>Aspiring Tyrant</name>
-			<text>As an additional cost to cast this spell, discard a card.
-When this creature enters, imagine 1. (Put the top card of your library face down as a 1/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
+			<text>When this creature enters, imagine 1. (Put the top card of your library face down as a 1/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/66.png" num="124">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1172,7 +1171,7 @@ When this creature enters, imagine 1. (Put the top card of your library face dow
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1213,7 +1212,7 @@ This creature gets +3/+3 if you have beaten the dare.</text>
 		</card>
 		<card>
 			<name>Bonk!</name>
-			<text>Bonk deals 5 damage to target creature. Another target creature can&apos;t block until end of turn.</text>
+			<text>Bonk! deals 5 damage to target creature. Another target creature can&apos;t block until end of turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/69.png" num="125">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1228,17 +1227,16 @@ This creature gets +3/+3 if you have beaten the dare.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Hypocrisy</name>
-			<text>As an additional cost to cast this spell, discard a card.
-Draw two cards. If you discarded a creature card this way, target opponent discards a creature card.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/70.png" num="140">WML</set>
+			<name>Grind the Heel</name>
+			<text>Grind the Heel deals 3 damage to target creature or planeswalker. If that permanent dies this turn, you may draw a card. If you do, discard a card.</text>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/70.png" num="138">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -1247,12 +1245,12 @@ Draw two cards. If you discarded a creature card this way, target opponent disca
 		<card>
 			<name>Mocking Musician</name>
 			<text>Haste
-{T}, Sacrifice this creature: Target player discards a card. Activate only as a sorcery.</text>
+{R}, {T}, Sacrifice this creature: Draw a card. If a player discarded a card this turn, instead, draw two cards.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/71.png" num="147">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Lizard Devil Pirate Bard</type>
+				<type>Creature — Figment Pirate Bard</type>
 				<maintype>Creature</maintype>
 				<manacost>3R</manacost>
 				<cmc>4</cmc>
@@ -1264,8 +1262,8 @@ Draw two cards. If you discarded a creature card this way, target opponent disca
 		</card>
 		<card>
 			<name>Bribed Authority</name>
-			<text>Menace, reach
-When this creature enters, it deals 2 damage to target player. That player discards a card.</text>
+			<text>Menace
+When this creature enters, it deals 2 damage to target player. If a player discarded a card this turn, instead, it deals 4 damage to target player.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/72.png" num="127">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1276,14 +1274,14 @@ When this creature enters, it deals 2 damage to target player. That player disca
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/5</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Scarred Braggart</name>
 			<text>{T}: Scarred Braggart deals 1 damage to target creature and to you.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/73.png" num="155">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/73.png" num="154">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1301,7 +1299,7 @@ When this creature enters, it deals 2 damage to target player. That player disca
 			<name>Rad Stunts</name>
 			<text>Enchant creature
 Enchanted creature has haste and first strike.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/74.png" num="151">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/74.png" num="150">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1317,7 +1315,7 @@ Enchanted creature has haste and first strike.</text>
 		<card>
 			<name>Brash Buddy</name>
 			<text>{1}: Add {W}, {R} or {G}. Activate only once each turn.
-{3}, {T}: Target attacking creature you control gains first strike until end of turn. If it&apos;s a face-down creature, it also gets +2/+0.</text>
+{3}, {T}: Target creature you control gains haste until end of turn. If it&apos;s a face-down creature, it also gets +2/+0.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/75.png" num="126">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2220,7 +2218,7 @@ Whenever this creature attacks, untap target attacking creature you control. It 
 		<card>
 			<name>Pentapunk</name>
 			<text>When this creature enters, draw a card.
-As long as you have five or more cards in hand, whenever this creature attacks, tap target creature an opponent controls and put two stun counters on it.</text>
+At the beginning of combat on your turn, if you have an odd number of cards in hand, tap target creature an opponent controls and put a stun counter on it. Otherwise, this creature gains vigilance until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/128.png" num="63">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2670,7 +2668,7 @@ When this creature becomes blocked, until end of turn, it gets +1/+1 and gains t
 		<card>
 			<name>Headway</name>
 			<text>Target creature gains &quot;When this creature deals combat damage to an opponent, it deals damage equal to its power to any target&quot; until end of turn.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/154.png" num="138">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/154.png" num="139">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3905,7 +3903,7 @@ Surprise {B}</text>
 			<name>Pestering Fiddler</name>
 			<text>Reach
 Discard a card: This creature deals 1 damage to any target. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/224.png" num="149">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/224.png" num="148">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3997,7 +3995,7 @@ Whenever you cast a creature spell for less mana than its mana value, it enters 
 Whenever damage would be dealt to this creature, you may discard a card. If you do not, the damage is dealt to you instead.
 {T}: Add {R}.
 Timeout — You have fewer lands than your opponent.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/229.png" num="154">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/229.png" num="153">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4032,7 +4030,7 @@ Timeout — You have fewer lands than your opponent.</text>
 			<text>Haste
 Other creatures you control have haste.
 During your postcombat main phase, instant and sorcery spells you cast cost {X} less, where X is the number of tapped creatures you control.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/231.png" num="150">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/231.png" num="149">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4379,7 +4377,7 @@ Whenever Minia becomes blocked by one or more creatures with greater power than 
 				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>1/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4682,7 +4680,7 @@ Whenever another creature dies, target opponent loses 1 life and you gain 1 life
 		<card>
 			<name>Remember Everything</name>
 			<text>Name a nonland card, then search your hand, graveyard and library for up to four cards with that name. Exile them, then shuffle your library. Until the end of your next turn, you may cast those cards and they cost {2} less to cast.</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/267.png" num="153">WML</set>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/267.png" num="152">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

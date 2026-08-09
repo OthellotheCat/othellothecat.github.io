@@ -585,7 +585,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/58.png"
 			}
@@ -601,11 +601,11 @@
 			}
 		},
 		{
-			"name": "Overstuffed Cannon",
+			"name": "Scrapwork Cannon",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "148",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/60.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/62.png"
 			}
@@ -701,11 +701,11 @@
 			}
 		},
 		{
-			"name": "Hypocrisy",
+			"name": "Grind the Heel",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "140",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/70.png"
 			}
@@ -714,7 +714,7 @@
 			"name": "Mocking Musician",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Lizard Devil Pirate Bard",
+			"type": "Creature — Figment Pirate Bard",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/71.png"
@@ -735,7 +735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/73.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/74.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/154.png"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Crab Pirate Bard",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/224.png"
 			}
@@ -2295,7 +2295,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Devil",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/229.png"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Orc Shaman",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/231.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{R}",
 			"type": "Instant",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/267.png"
 			}
@@ -3082,7 +3082,7 @@
 	8 Think, Think!
 	8 Rambunctious Blastfire
 	8 A Little Too Loud
-	8 Overstuffed Cannon
+	8 Scrapwork Cannon
 	8 Capricious Greedmonger
 	8 Heavy-Handing
 	8 Tryharding Tumbler
@@ -3092,7 +3092,7 @@
 	8 Dangerous Idea
 	8 Dynamite Dino
 	8 Bonk!
-	8 Hypocrisy
+	8 Grind the Heel
 	8 Mocking Musician
 	8 Bribed Authority
 	8 Rad Stunts
@@ -3198,7 +3198,7 @@
 	8 Think, Think!
 	8 Rambunctious Blastfire
 	8 A Little Too Loud
-	8 Overstuffed Cannon
+	8 Scrapwork Cannon
 	8 Capricious Greedmonger
 	8 Heavy-Handing
 	8 Tryharding Tumbler
@@ -3208,7 +3208,7 @@
 	8 Dangerous Idea
 	8 Dynamite Dino
 	8 Bonk!
-	8 Hypocrisy
+	8 Grind the Heel
 	8 Mocking Musician
 	8 Bribed Authority
 	8 Rad Stunts
@@ -3323,7 +3323,7 @@
 	12 Think, Think!
 	12 Rambunctious Blastfire
 	12 A Little Too Loud
-	12 Overstuffed Cannon
+	12 Scrapwork Cannon
 	12 Capricious Greedmonger
 	12 Heavy-Handing
 	12 Tryharding Tumbler
@@ -3333,7 +3333,7 @@
 	12 Dangerous Idea
 	12 Dynamite Dino
 	12 Bonk!
-	12 Hypocrisy
+	12 Grind the Heel
 	12 Mocking Musician
 	12 Bribed Authority
 	6 Scarred Braggart
@@ -3605,7 +3605,7 @@
 	6 Think, Think!
 	6 Rambunctious Blastfire
 	6 A Little Too Loud
-	6 Overstuffed Cannon
+	6 Scrapwork Cannon
 	6 Capricious Greedmonger
 	6 Heavy-Handing
 	6 Tryharding Tumbler
@@ -3615,7 +3615,7 @@
 	6 Dangerous Idea
 	6 Dynamite Dino
 	6 Bonk!
-	6 Hypocrisy
+	6 Grind the Heel
 	6 Mocking Musician
 	6 Bribed Authority
 	15 Scarred Braggart

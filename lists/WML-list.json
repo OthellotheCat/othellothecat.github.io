@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Remember Everything",
-        "number": 153,
+        "number": 152,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Pestering Fiddler",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Plargg, Still Spry",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -425,7 +425,7 @@
     },
     {
         "card_name": "Ruthless Exploiter",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -625,7 +625,7 @@
     },
     {
         "card_name": "Headway",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -785,7 +785,7 @@
     },
     {
         "card_name": "Scarred Braggart",
-        "number": 155,
+        "number": 154,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1184,12 +1184,12 @@
         "position": "41"
     },
     {
-        "card_name": "Heavy-Handing",
-        "number": 139,
+        "card_name": "Grind the Heel",
+        "number": 138,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "62"
+        "position": "70"
     },
     {
         "card_name": "Fragrant Stinkbug",
@@ -1224,12 +1224,12 @@
         "position": "38"
     },
     {
-        "card_name": "Hypocrisy",
+        "card_name": "Heavy-Handing",
         "number": 140,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "70"
+        "position": "62"
     },
     {
         "card_name": "Growing Trike",
@@ -1344,12 +1344,12 @@
         "position": "40"
     },
     {
-        "card_name": "Overstuffed Cannon",
-        "number": 148,
+        "card_name": "Rad Stunts",
+        "number": 150,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "60"
+        "position": "74"
     },
     {
         "card_name": "Leafy Launcher",
@@ -1384,12 +1384,12 @@
         "position": "43"
     },
     {
-        "card_name": "Rad Stunts",
+        "card_name": "Rambunctious Blastfire",
         "number": 151,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "74"
+        "position": "58"
     },
     {
         "card_name": "Make Something New",
@@ -1424,12 +1424,12 @@
         "position": "52"
     },
     {
-        "card_name": "Rambunctious Blastfire",
-        "number": 152,
+        "card_name": "Scrapwork Cannon",
+        "number": 155,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "58"
+        "position": "60"
     },
     {
         "card_name": "Natural Green Thumb",
