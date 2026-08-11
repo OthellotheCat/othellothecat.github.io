@@ -1,4 +1,163 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Leaping Muckfry added.
+Treehome Streamfisher added.
+Hand Smasher added.
+Enduring Superstition added.
+Rampant Restoration added.
+
+Slippery Muckfry removed.
+Cooperative Builder removed.
+Ruthless Bully removed.
+Storied Superstition removed.
+Growing Home removed.
+
+Antsy Showboater
+rules_text: Deathtouch
+Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+{5}{B}: This creature must be blocked each combat this turn if able. Activate only if you have beaten the dare. => Deathtouch
+Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+{5}{B}: This creature must be blocked each combat this turn if able. Activate only if you have beaten the dare.
+
+A Little Too Loud
+rules_text: Target creature you control gets +2/+0 until end of turn and deals 1 damage to up to two different targets. => Target creature you control gets +3/+0 until end of turn and deals 1 damage to target creature.
+
+Tryharding Tumbler
+rules_text: Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+This creature gets +2/+1 if you have beaten the dare. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +2/+1 if you have beaten the dare.
+
+Dynamite Dino
+rules_text: Trample
+Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+This creature gets +3/+3 if you have beaten the dare. => Trample
+Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +3/+3 if you have beaten the dare.
+
+Bonk!
+rules_text: Bonk! deals 5 damage to target creature. Another target creature can't block until end of turn. => Bonk! deals 2 damage to each of two target creatures. Those creatures can't block until end of turn.
+
+Scarred Braggart
+rules_text: {T}: Scarred Braggart deals 1 damage to target creature and to you. => {T}: Scarred Braggart deals 1 damage to each player.
+
+Believe In Yourself
+rules_text: Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+Target creature gets +3/+3 until end of turn. If you have beaten the dare, instead, put three +1/+1 counters on target creature. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Target creature gets +3/+3 until end of turn. If you have beaten the dare, instead, put three +1/+1 counters on target creature.
+
+Unlucky Kite-Flier
+rules_text: {1}, {T}, Sacrifice this creature: This creature deals 3 damage to target creature with flying. => Flying
+{1}, {T}, Sacrifice this creature: This creature deals 3 damage to target creature with flying.
+pt: 1/1 => 0/1
+
+Face Your Fears
+rules_text: Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Until end of turn, target creature gains deathtouch and indestructible.
+• Until end of turn, target creature gets +2/+2 and gains lifelink. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Until end of turn, target creature gains deathtouch and indestructible.
+• Until end of turn, target creature gets +2/+2 and gains lifelink.
+
+Face the Flames
+rules_text: Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Face the Flames deals 3 damage to target creature.
+• Face the Flames deals 1 damage to up to two different target creatures. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Face the Flames deals 3 damage to target creature.
+• Face the Flames deals 1 damage to up to two different target creatures.
+
+Make It Faster
+rules_text: Imagine 3. Then, creatures you control gain first strike until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”. That creature deals combat damage before creatures without first strike.)[/i] => Imagine 3. Then, creatures you control gain first strike until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Face the Feast
+rules_text: Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• You gain 3 life.
+• You gain X life, where X is the number of creatures you control. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• You gain 3 life.
+• You gain X life, where X is the number of creatures you control.
+
+Sneaky Beetle
+rules_text: Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
+{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
+{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.
+
+Pocket Sand
+rules_text: When this Equipment enters, you may attach it to target creature you control.
+{3}: Remove Equipped creature from combat and tap it. Pocket Sand deals 1 damage to target attacking or blocking creature
+Equip {1}
+Surprise {0} [i](You may pay {0} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => When this Equipment enters, you may attach it to target creature you control.
+{1}: Remove Equipped creature from combat and tap it.
+Equip {1}
+Surprise {0} [i](You may pay {0} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Campfire Mystic
+rules_text: Whenever you cast an instant or sorcery spell, this creature deals 1 damage to up to one target creature and you gain 1 life. => Whenever you cast an instant or sorcery spell, this creature deals 1 damage to target player and you gain 1 life.
+
+Taunting Jockey
+rules_text: Haste
+When this creature enters, untap target creature an opponent controls. That creature must block each combat this turn if able. => Haste
+When this creature enters, untap target creature an opponent controls. That creature must block this creature each combat this turn if able.
+
+Improvising Accountant
+rules_text: Whenever a nontoken creature you control enters without being cast, create a Treasure token. => Whenever a nontoken creature you control enters, if it was not cast, create a Treasure token.
+
+Push Yourself
+rules_text: As an additional cost to cast this spell, pay X life.
+Dare [i](You have beaten the dare for the rest of the game when attacking creatures you control have dealt 10 or more combat damage to permanents and/or players in a single turn.)[/i]
+Put a +1/+1 counter on up to X creatures you control. Then if you have beaten the dare, creatures you control with counters on them gain menace until end of turn. => As an additional cost to cast this spell, pay X life.
+Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Put a +1/+1 counter on up to X creatures you control. Then if you have beaten the dare, creatures you control with counters on them gain menace until end of turn.
+
+Golodoff Wanderer
+pt: 2/3 => 3/3
+
+Hulking Repairdoll
+rules_text: Lifelink
+When this creature leaves the battlefield, draw cards equal to the amount of life you've gained this turn.
+{2}{W}, {T}, Sacrifice this creature: Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+Surprise {1}{W} => Lifelink
+When this creature leaves the battlefield, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+{4}{W}, {T}, Sacrifice this creature: Draw cards equal to the amount of life you've gained this turn.
+Surprise {2}{W}
+
+Play-Worn Soldier
+rules_text: Whenever this creature attacks, other attacking creatures with power 2 or less get +X/+0 until end of turn, where X is this creature's power. => Whenever this creature attacks, other attacking creatures with base power 2 or less get +X/+0 until end of turn, where X is this creature's power.
+
+Clumsy Admirer
+rules_text: When this creature leaves the battlefield, if it entered this turn, search your library for an artifact or creature card, reveal it, put it into your hand, then shuffle.
+Surprise {3}{B} => When this creature leaves the battlefield, if it entered this turn, search your library for an artifact or creature card, reveal it, put it into your hand, then shuffle.
+Surprise {2}{B}
+
+Harold, the Un-Forgotten
+rules_text: When this creature enters, each player loses 3 life.
+When this creature leaves the battlefield, you may sacrifice a creature. If you do, exile Harold. When you do, draw a card and put Harold on the top of your library.
+Surprise {B} => When this creature enters, Harold deals 2 damage to each player.
+When this creature leaves the battlefield, you may sacrifice a creature. If you do, exile Harold. When you do, draw a card and put Harold on the top of your library.
+Surprise {B}
+
+Pestering Fiddler
+rules_text: Reach
+Discard a card: This creature deals 1 damage to any target. Activate only as a sorcery. => Reach
+Discard a card: This creature deals 1 damage each opponent. Activate only as a sorcery.
+
+Thoughtful Triceratops
+rules_text: Whenever you imagine, put your choice of a trample, reach or +1/+1 counter on target creature you control. => Reach, trample
+Whenever you imagine, put your choice of a trample, reach or +1/+1 counter on target creature you control.
+
+Jaax, Excitable Prodigy
+rules_text: Prowess
+Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on each creature you control. If it was an instant or sorcery spell, you may copy it. You may choose new targets for the copies. [i](Copies of permanents become tokens.)[/i] => Prowess
+Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on each creature you control. If it was an instant or sorcery spell, you may copy it. You may choose new targets for the copies.
+
+
+VERSION 23 CHANGELOG
 ====================
 
 
