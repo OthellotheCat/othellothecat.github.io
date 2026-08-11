@@ -111,7 +111,7 @@
 			}
 		},
 		{
-			"name": "Unnecessary Protectors",
+			"name": "Valiant Protector",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Artifact Creature — Toy Soldier",
@@ -854,7 +854,7 @@
 			"name": "Honeypot",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/85.png"
@@ -924,7 +924,7 @@
 			"name": "Make Something New",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/92.png"
@@ -3041,7 +3041,7 @@
 	8 Kick Sand
 	8 Collaborate
 	8 Walkie-Talkie
-	8 Unnecessary Protectors
+	8 Valiant Protector
 	8 Clueless Tax Collector
 	8 Frightened Steed
 	8 Tactical Falcon
@@ -3157,7 +3157,7 @@
 	8 Kick Sand
 	8 Collaborate
 	8 Walkie-Talkie
-	8 Unnecessary Protectors
+	8 Valiant Protector
 	8 Clueless Tax Collector
 	8 Frightened Steed
 	8 Tactical Falcon
@@ -3274,7 +3274,7 @@
 	12 Kick Sand
 	12 Collaborate
 	12 Walkie-Talkie
-	12 Unnecessary Protectors
+	12 Valiant Protector
 	12 Clueless Tax Collector
 	12 Frightened Steed
 	12 Tactical Falcon
@@ -3556,7 +3556,7 @@
 	6 Kick Sand
 	6 Collaborate
 	6 Walkie-Talkie
-	6 Unnecessary Protectors
+	6 Valiant Protector
 	6 Clueless Tax Collector
 	6 Frightened Steed
 	6 Tactical Falcon
