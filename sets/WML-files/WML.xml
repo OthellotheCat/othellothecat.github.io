@@ -187,7 +187,7 @@ Creatures you control get +1/+1 until end of turn for each card you&apos;ve draw
 			<name>Walkie-Talkie</name>
 			<text>When this Equipment enters if it is not a token, create a token copy of it.
 Equipped creature gets +1/+1 for each other creature you control with an Equipment named Walkie-Talkie attached to it.
-Equip {2}
+Equip {1}
 A deck can have any number of cards named Walkie-Talkie in it.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/10.png" num="39">WML</set>
 			<prop>
@@ -205,12 +205,12 @@ A deck can have any number of cards named Walkie-Talkie in it.</text>
 		<card>
 			<name>Valiant Protector</name>
 			<text>Flash
-When this creature enters, this creature and another target creature or artifact you control gain indestructible until end of turn.</text>
+When this creature enters, this creature and another target creature you control gain indestructible until end of turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/11.png" num="38">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Toy Soldier</type>
+				<type>Creature — Human</type>
 				<maintype>Creature</maintype>
 				<manacost>4W</manacost>
 				<cmc>5</cmc>
@@ -1403,7 +1403,7 @@ When this creature enters, the next land you tap for mana this turn adds an addi
 			<name>Earthen Admiration</name>
 			<text>Choose one —
 • Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
-• Create two tapped 1/1 green Forest Elemental land creature tokens.</text>
+• Put a +1/+1 counter on each creature token you control.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/80.png" num="171">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3079,7 +3079,7 @@ Crew 4</text>
 		</card>
 		<card>
 			<name>Pull At The Legs</name>
-			<text>You and target opponent each discard up to X cards, then mill cards equal to the difference between X and the number of cards you each discarded this way.</text>
+			<text>Target player mills X cards. Then, you may put up to one target nonland permanent card from a graveyard with mana value 3 or less onto the battlefield under your control.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/178.png" num="247">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3131,7 +3131,7 @@ Timeout — You have no cards in hand. (If you discard this card, you may discar
 		<card>
 			<name>Flyby Razer</name>
 			<text>Flying
-Whenever this creature deals combat damage to an opponent, if you have an odd number of cards in hand, the defending opponent discards a card. Otherwise, this creature deals 3 damage to target creature.</text>
+Whenever this creature deals combat damage to an opponent, if you have an odd number of cards in hand, return up to one nonland, noncreature permanent to its owner&apos;s hand. Otherwise, this creature deals 3 damage to target creature.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/181.png" num="241">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3248,11 +3248,11 @@ This creature can&apos;t attack or block unless your life total changed this tur
 				<side>front</side>
 				<type>Creature — Insect</type>
 				<maintype>Creature</maintype>
-				<manacost>3B/GB/G</manacost>
-				<cmc>5</cmc>
+				<manacost>1B/GB/G</manacost>
+				<cmc>3</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>7/7</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3351,7 +3351,7 @@ Whenever you scry or surveil, put a +1/+1 counter on this creature.</text>
 			<name>Cooperative Builder</name>
 			<text>Affinity for creature tokens.
 When this creature enters, choose one —
-• Untap two target lands.
+• Untap up to two target lands.
 • Nurture a Fish twice. (Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token. Then do it again.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/193.png" num="238">WML</set>
 			<prop>
@@ -4272,7 +4272,7 @@ At the start of each opponent&apos;s combat phase, that opponent may pay {X}, wh
 		<card>
 			<name>Jaax, Excitable Prodigy</name>
 			<text>Prowess
-Whenever you cast a spell from anywhere other than your hand, creatures you control get +1/+0 until end of turn. If it was a noncreature spell, you may copy it. You may choose new targets for the copies. (Copies of permanents become tokens.)</text>
+Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on each creature you control. If it was an instant or sorcery spell, you may copy it. You may choose new targets for the copies. (Copies of permanents become tokens.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/245.png" num="215">WML</set>
 			<prop>
 				<layout>normal</layout>

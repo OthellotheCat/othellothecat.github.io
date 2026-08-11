@@ -114,7 +114,7 @@
 			"name": "Valiant Protector",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Artifact Creature — Toy Soldier",
+			"type": "Creature — Human",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/11.png"
@@ -1873,7 +1873,7 @@
 		{
 			"name": "Food-Driven Centipede",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B/G}{B/G}",
+			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Insect",
 			"collector_number": "242",
 			"image_uris": {

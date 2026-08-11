@@ -1,4 +1,58 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+Walkie-Talkie
+rules_text: When this Equipment enters if it is not a token, create a token copy of it.
+Equipped creature gets +1/+1 for each other creature you control with an Equipment named Walkie-Talkie attached to it.
+Equip {2}
+A deck can have any number of cards named Walkie-Talkie in it. => When this Equipment enters if it is not a token, create a token copy of it.
+Equipped creature gets +1/+1 for each other creature you control with an Equipment named Walkie-Talkie attached to it.
+Equip {1}
+A deck can have any number of cards named Walkie-Talkie in it.
+
+Valiant Protector
+type: Artifact Creature — Toy Soldier => Creature — Human
+rules_text: Flash
+When this creature enters, this creature and another target creature or artifact you control gain indestructible until end of turn. => Flash
+When this creature enters, this creature and another target creature you control gain indestructible until end of turn.
+
+Earthen Admiration
+rules_text: Choose one —
+• Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
+• Create two tapped 1/1 green Forest Elemental land creature tokens. => Choose one —
+• Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
+• Put a +1/+1 counter on each creature token you control.
+
+Pull At The Legs
+rules_text: You and target opponent each discard up to X cards, then mill cards equal to the difference between X and the number of cards you each discarded this way. => Target player mills X cards. Then, you may put up to one target nonland permanent card from a graveyard with mana value 3 or less onto the battlefield under your control.
+
+Flyby Razer
+rules_text: Flying
+Whenever this creature deals combat damage to an opponent, if you have an odd number of cards in hand, the defending opponent discards a card. Otherwise, this creature deals 3 damage to target creature. => Flying
+Whenever this creature deals combat damage to an opponent, if you have an odd number of cards in hand, return up to one nonland, noncreature permanent to its owner's hand. Otherwise, this creature deals 3 damage to target creature.
+
+Food-Driven Centipede
+cost: {3}{BG}{BG} => {1}{BG}{BG}
+pt: 7/7 => 5/5
+
+Cooperative Builder
+rules_text: Affinity for creature tokens.
+When this creature enters, choose one —
+• Untap two target lands.
+• Nurture a Fish twice. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token. Then do it again.)[/i] => Affinity for creature tokens.
+When this creature enters, choose one —
+• Untap up to two target lands.
+• Nurture a Fish twice. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token. Then do it again.)[/i]
+
+Jaax, Excitable Prodigy
+rules_text: Prowess
+Whenever you cast a spell from anywhere other than your hand, creatures you control get +1/+0 until end of turn. If it was a noncreature spell, you may copy it. You may choose new targets for the copies. [i](Copies of permanents become tokens.)[/i] => Prowess
+Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on each creature you control. If it was an instant or sorcery spell, you may copy it. You may choose new targets for the copies. [i](Copies of permanents become tokens.)[/i]
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Valiant Protector added.
