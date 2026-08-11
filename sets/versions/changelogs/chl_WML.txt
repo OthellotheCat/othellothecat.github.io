@@ -1,4 +1,119 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+
+
+Unstable Jitterer
+rules_text: Ward {2}
+When this creature enters or leaves the battlefield, each player discards a card. => Ward {2}
+When this creature enters or leaves the battlefield, target opponent mills five cards.
+
+Jeering Backup
+pt: 3/4 => 4/4
+
+Think, Think!
+rules_text: Choose one —
+• Creatures target player controls get +2/+0 until end of turn.
+• Imagine 1, then imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for X less, where X is this creature's power”. Then do it again.)[/i] => Choose one —
+• Creatures target player controls get +2/+0 until end of turn.
+• Imagine 1, then imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for X less, where X is this creature's power. Activate only as a sorcery.” Then do it again.)[/i]
+
+Bursting Sac
+rules_text: Defender
+When this creature dies, create two 1/1 black and green Insect creature tokens with deathtouch. => Defender
+When this creature dies, create two 1/1 black and green Insect creature tokens.
+
+Blueprint Messenger
+rules_text: Flying, vigilance
+Whenever this creature attacks, untap target attacking creature you control. It gains flying until end of turn. => Flying, vigilance
+When this creature attacks, if you control an artifact, creatures you control get +1/+1 until end of turn.
+
+Insidious Idea
+rules_text: Draw two cards, then discard a card unless an opponent has discarded a card this turn. => Draw two cards, then discard a card unless a player has discarded a card this turn.
+
+Big Imagination
+rules_text: Imagine X, then imagine X. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power”. Then do it again.)[/i] => Imagine X, then imagine X. [i](Put the top card of your library face down as a X/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.” Then do it again.)[/i]
+
+Toy Catapult
+rules_text: Affinity for creature tokens.
+Trample, vigilance
+When this creature attacks, it deals X damage divided between any number of targets, where X is the number of creatures that crewed it this turn.
+Crew 4 => Affinity for creature tokens.
+Trample, vigilance
+When this creature attacks, put a +1/+1 counter on each creature that crewed it this turn.
+Crew 4
+
+Muckspitter
+rules_text: This spell costs {2} less if two or more lands you control entered this turn.
+When this creature enters, shuffle target creature into its owner's library, then its controller draws a card. => This spell costs {2} less if you control two or more creatures with one or more counters on them.
+When this creature enters, shuffle target creature into its owner's library, then its controller draws a card.
+
+Taunting Jockey
+pt: 2/3 => 3/2
+
+Improvising Accountant
+rules_text: Whenever you scry or surveil, create a Treasure token. This ability only triggers once each turn.
+{3}, {T}: Scry 2. => Whenever a nontoken creature you control enters without being cast, create a Treasure token.
+
+Kukkyonan Throneguard
+rules_text: Lifelink
+When this creature enters, if one or more permanents you controlled left the battlefield this turn, surveil 2.
+Whenever you scry or surveil, put a +1/+1 counter on this creature. => Lifelink
+Whenever a nontoken artifact you control leaves the battlefield, surveil 2.
+Whenever you scry or surveil, put a +1/+1 counter on this creature.
+
+Storied Superstition
+rules_text: Flash
+Enchant creature
+When this Aura becomes attached to a creature, enchanted creature gains indestructible until end of turn.
+{5}{W}: Attach this Aura to another target creature. => Flash
+Enchant creature
+When this Aura becomes attached to a creature, enchanted creature gains indestructible until end of turn.
+Remove a counter from enchanted creature: Attach this Aura to another target creature. Activate only as a sorcery.
+
+Reassuring Pat
+rules_text: Whenever a spell you cast is countered or exiled, untap target land you control. => Whenever a creature you control leaves the battlefield, you gain life equal to its power. This ability only triggers once each turn.
+
+Humiliating Demand
+rules_text: Until end of turn, whenever you cast a noncreature spell, each player discards a card. If a player cannot, that player mills a card instead. => Until end of turn, whenever you cast a noncreature spell, each player discards a card. If a player can't, that player mills a card instead.
+
+Sadistic Assistant
+rules_text: Deathtouch
+When this creature attacks, target player discards a card. Then if you discarded a card this turn, you may return up to one nonland card from your graveyard to the top of your library.
+Timeout — One or more creatures have died this turn. => Deathtouch
+When this creature attacks, you may discard a card. Then if a player has discarded a card this turn, return up to one nonland, noncreature card from your graveyard to your hand.
+Timeout — One or more creatures have died this turn.
+
+Megamuckfish
+rules_text: Trample
+Land creatures you control get +3/+3 and have trample and vigilance.
+Whenever a noncreature land you control enters, Nurture a Forest. => Trample
+Land creatures you control get +3/+3 and have vigilance and trample.
+Whenever a noncreature land you control enters, Nurture a Forest.
+
+Golodoff Broodmother
+rules_text: Trample
+When this creature enters, you gain 2 life.
+At the beginning of each end step, if your life total changed this turn, you gain 2 life and create a 1/1 black and green Insect creature token. => Trample
+When this creature enters, you gain 3 life.
+At the beginning of each end step, if your life total changed this turn, create a 1/1 black and green Insect creature token.
+
+Shavida, Friend-Maker
+rules_text: Whenever a Figment you control enters, put a friend counter on Shavida.
+At the beginning of your first postcombat main phase on each of your turns, if Shavida has three or more friend counters, remove them,ntap each creature that attacked this turn, and there is another combat phase and postcombat main phase after this phase.
+{R}{G}{W}, {T}: Imagine 3. => Whenever a Figment you control enters, put a friend counter on Shavida.
+At the beginning of your first postcombat main phase on each of your turns, if Shavida has three or more friend counters, remove them,ntap each creature that attacked this turn, and there is another combat phase and postcombat main phase after this phase.
+{R}{G}{W}, {T}: Imagine 3. Activate only on your turn.
+
+Gene, Surrounded by Terror
+rules_text: Lifelink
+Whenever a creature you control with equal or greater power than Gene enters, you may shuffle it into its owner's library. If you do not, you lose 3 life and put a +1/+1 counter on Gene.
+The first time your life total changes each turn, create a 1/1 black and green Insect creature token. => Lifelink
+At the beginning of each end step, if your life total changed this turn, you may put a +1/+1 counter on Gene.
+Gene can't attack or block if an opponent controls a creature with greater or equal power than him.
+
+
+VERSION 22 CHANGELOG
 ====================
 
 
