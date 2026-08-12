@@ -1,4 +1,72 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Octopunk added.
+
+Pentapunk removed.
+
+Eager Cake Smasher
+rules_text: When this creature enters, each player creates a Food token.
+Whenever an artifact leaves the battlefield, this creature gets +1/+0 until end of turn. => When this creature enters, create a Food token.
+This creature gets +1/+1 until end of turn whenever an artifact you control leaves the battlefield.
+pt: 1/2 => 1/1
+
+Pristine Collector
+rules_text: {T}: The next time a nonland permanent you control enters, exile it.
+{3}, {T}, Sacrifice this creature: Return all permanents exiled with this artifact to the battlefield under their owners' control. => Whenever a nontoken creature you control leaves the battlefield without dying, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i]
+
+Feathered Escort
+rules_text: Flying
+Attacking creature tokens and face-down creatures you control have flying.
+{1}{W}, {T}: Target creature you control gains first strike until end of turn. If you cast an instant or sorcery spell this turn, that creature gets double strike instead. Activate only as a sorcery. => Flying
+When this creature deals combat damage to an opponent, you may pay {2}{W}. If you do, exile target face-down creature you control. You may play it without paying its mana cost until end of turn.
+
+Head In The Clouds
+rules_text: Creature tokens you control gain flying until end of turn. If you control six or more creature token, instead, put a flying counter on each creature token you control. => Creature tokens you control gain flying until end of turn. If you control four or more creature token, instead, put a flying counter on each creature token you control.
+
+Head In The Mud
+rules_text: Creature tokens you control have hexproof until end of turn. If you control six or more creature tokens, instead, put a hexproof counter on each creature token you control. => Creature tokens you control have hexproof until end of turn. If you control four or more creature tokens, instead, put a hexproof counter on each creature token you control.
+
+Amused Onlooker
+pt: 1/2 => 1/4
+
+Sentimental Mainstay
+pt: 4/5 => 5/6
+
+Gregarious Garcon
+rules_text: {2}, {T}: Search your library for a card named Appetizer Course or Entree Course, reveal it, put it into your hand, then shuffle.
+{5}, {T}, Sacrifice an enchantment named Appetizer Course and an enchantment named Entree Course: Create an 8/8 black and green Insect Horror creature token with deathtouch and lifelink. It gains haste until end of turn. => {2}, {T}: Search your library for a card named Appetizer Course or Entree Course, reveal it, put it into your hand, then shuffle.
+{5}, {T}, Sacrifice an enchantment named Appetizer Course and an enchantment named Entree Course: Create an 8/8 black and green Insect Horror creature token with deathtouch and lifelink.
+
+Lightning-Breathing Dragon
+pt: 3/3 => 3/4
+
+Headway
+rules_text: Target creature gains “When this creature deals combat damage to an opponent, it deals damage equal to its power to any target” until end of turn. => Target creature gains “When this creature deals combat damage to an opponent, it deals damage equal to its power to any other target” until end of turn.
+
+Head In The Trees
+rules_text: Creature tokens you control gain trample until end of turn. If you control six or more creature tokens, instead, put a trample counter on each creature token you control. => Creature tokens you control gain trample until end of turn. If you control four or more creature tokens, instead, put a trample counter on each creature token you control.
+
+Each Treehouse A Home
+rules_text: For each untapped land you control, Nurture a Toy. => For each untapped land you control, create a 1/1 white and green Toy Soldier artifact creature token.
+
+Golodoff Broodmother
+type: Creature — Insect => Creature — Spider
+rules_text: Trample
+When this creature enters, you gain 3 life.
+At the beginning of each end step, if your life total changed this turn, create a 1/1 black and green Insect creature token. => Reach, trample
+When this creature enters, you gain 3 life.
+At the beginning of each end step, if your life total changed this turn, create a 1/2 black and green Spider creature token with reach.
+
+Gene, Surrounded by Terror
+rules_text: Lifelink
+At the beginning of each end step, if your life total changed this turn, you may put a +1/+1 counter on Gene.
+Gene can't attack or block if an opponent controls a creature with greater or equal power than him. => Vigilance, lifelink
+At the beginning of each end step, if your life total changed this turn, you may put a +1/+1 counter on Gene.
+Gene can't attack or block if an opponent controls a creature with greater or equal power than him.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Leaping Muckfry added.

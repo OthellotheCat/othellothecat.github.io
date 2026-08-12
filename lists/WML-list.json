@@ -728,8 +728,8 @@
         "position": "117"
     },
     {
-        "card_name": "Pentapunk",
-        "number": 64,
+        "card_name": "Octopunk",
+        "number": 63,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1129,7 +1129,7 @@
     },
     {
         "card_name": "Party Popper",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "WML",
         "rotated": false,

@@ -5,14 +5,14 @@
 			<name>WML</name>
 			<longname>Whimsaland: World of Wonder</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-11</releasedate>
+			<releasedate>2026-08-12</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Eager Cake Smasher</name>
-			<text>When this creature enters, each player creates a Food token.
-Whenever an artifact leaves the battlefield, this creature gets +1/+0 until end of turn.</text>
+			<text>When this creature enters, create a Food token.
+This creature gets +1/+1 until end of turn whenever an artifact you control leaves the battlefield.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/0.png" num="12">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -23,7 +23,7 @@ Whenever an artifact leaves the battlefield, this creature gets +1/+0 until end 
 				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -346,7 +346,7 @@ Create two 2/2 green Dinosaur creature tokens.</text>
 			<name>Party Popper</name>
 			<text>When this creature enters or leaves the battlefield, tap or untap up to one target creature or artifact.
 Surprise {1}{U} (You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/19.png" num="63">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/19.png" num="64">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2033,8 +2033,7 @@ Surprise {W} (You may pay {W} to put this card onto the battlefield from your ha
 		</card>
 		<card>
 			<name>Pristine Collector</name>
-			<text>{T}: The next time a nonland permanent you control enters, exile it.
-{3}, {T}, Sacrifice this creature: Return all permanents exiled with this artifact to the battlefield under their owners&apos; control.</text>
+			<text>Whenever a nontoken creature you control leaves the battlefield without dying, Nurture a Toy. (Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/117.png" num="27">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2052,8 +2051,7 @@ Surprise {W} (You may pay {W} to put this card onto the battlefield from your ha
 		<card>
 			<name>Feathered Escort</name>
 			<text>Flying
-Attacking creature tokens and face-down creatures you control have flying.
-{1}{W}, {T}: Target creature you control gains first strike until end of turn. If you cast an instant or sorcery spell this turn, that creature gets double strike instead. Activate only as a sorcery.</text>
+When this creature deals combat damage to an opponent, you may pay {2}{W}. If you do, exile target face-down creature you control. You may play it without paying its mana cost until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/118.png" num="14">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2104,7 +2102,7 @@ When this creature enters, Nurture a Toy. (Put a +1/+1 counter on target Toy you
 		</card>
 		<card>
 			<name>Head In The Clouds</name>
-			<text>Creature tokens you control gain flying until end of turn. If you control six or more creature token, instead, put a flying counter on each creature token you control.</text>
+			<text>Creature tokens you control gain flying until end of turn. If you control four or more creature token, instead, put a flying counter on each creature token you control.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/121.png" num="19">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2218,20 +2216,20 @@ When this creature attacks, if you control an artifact, creatures you control ge
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Pentapunk</name>
+			<name>Octopunk</name>
 			<text>When this creature enters, draw a card.
 At the beginning of combat on your turn, if you have an odd number of cards in hand, tap target creature an opponent controls and put a stun counter on it. Otherwise, this creature gains vigilance until end of turn.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/128.png" num="64">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/128.png" num="63">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Squid Pirate</type>
+				<type>Creature — Octopus Pirate</type>
 				<maintype>Creature</maintype>
 				<manacost>4U</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>5/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2254,7 +2252,7 @@ Gain control of target creature an opponent controls with mana value X or less u
 		</card>
 		<card>
 			<name>Head In The Mud</name>
-			<text>Creature tokens you control have hexproof until end of turn. If you control six or more creature tokens, instead, put a hexproof counter on each creature token you control.</text>
+			<text>Creature tokens you control have hexproof until end of turn. If you control four or more creature tokens, instead, put a hexproof counter on each creature token you control.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/130.png" num="53">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2332,7 +2330,7 @@ Whenever one or more players discards one or more cards, put a +1/+1 counter on 
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2365,7 +2363,7 @@ Whenever one or more players discards one or more cards, put a +1/+1 counter on 
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/5</pt>
+				<pt>5/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2424,7 +2422,7 @@ Destroy up to X target creatures, where X is the number of cards you&apos;ve dis
 		<card>
 			<name>Gregarious Garcon</name>
 			<text>{2}, {T}: Search your library for a card named Appetizer Course or Entree Course, reveal it, put it into your hand, then shuffle.
-{5}, {T}, Sacrifice an enchantment named Appetizer Course and an enchantment named Entree Course: Create an 8/8 black and green Insect Horror creature token with deathtouch and lifelink. It gains haste until end of turn.</text>
+{5}, {T}, Sacrifice an enchantment named Appetizer Course and an enchantment named Entree Course: Create an 8/8 black and green Insect Horror creature token with deathtouch and lifelink.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/140.png" num="97">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2525,7 +2523,7 @@ Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, this 
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2669,7 +2667,7 @@ When this creature becomes blocked, until end of turn, it gets +1/+1 and gains t
 		</card>
 		<card>
 			<name>Headway</name>
-			<text>Target creature gains &quot;When this creature deals combat damage to an opponent, it deals damage equal to its power to any target&quot; until end of turn.</text>
+			<text>Target creature gains &quot;When this creature deals combat damage to an opponent, it deals damage equal to its power to any other target&quot; until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/154.png" num="139">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2789,7 +2787,7 @@ When this creature enters, if your life total changed this turn, it fights up to
 		</card>
 		<card>
 			<name>Head In The Trees</name>
-			<text>Creature tokens you control gain trample until end of turn. If you control six or more creature tokens, instead, put a trample counter on each creature token you control.</text>
+			<text>Creature tokens you control gain trample until end of turn. If you control four or more creature tokens, instead, put a trample counter on each creature token you control.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/161.png" num="177">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3549,7 +3547,7 @@ Remove a counter from enchanted creature: Attach this Aura to another target cre
 		</card>
 		<card>
 			<name>Each Treehouse A Home</name>
-			<text>For each untapped land you control, Nurture a Toy.</text>
+			<text>For each untapped land you control, create a 1/1 white and green Toy Soldier artifact creature token.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/204.png" num="11">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4083,14 +4081,14 @@ Whenever a noncreature land you control enters, Nurture a Forest.</text>
 		</card>
 		<card>
 			<name>Golodoff Broodmother</name>
-			<text>Trample
+			<text>Reach, trample
 When this creature enters, you gain 3 life.
-At the beginning of each end step, if your life total changed this turn, create a 1/1 black and green Insect creature token.</text>
+At the beginning of each end step, if your life total changed this turn, create a 1/2 black and green Spider creature token with reach.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/234.png" num="174">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Insect</type>
+				<type>Creature — Spider</type>
 				<maintype>Creature</maintype>
 				<manacost>5G</manacost>
 				<cmc>6</cmc>
@@ -4862,7 +4860,7 @@ Remove three collection counters from Carla: Target player gets an emblem with &
 		</card>
 		<card>
 			<name>Gene, Surrounded by Terror</name>
-			<text>Lifelink
+			<text>Vigilance, lifelink
 At the beginning of each end step, if your life total changed this turn, you may put a +1/+1 counter on Gene.
 Gene can&apos;t attack or block if an opponent controls a creature with greater or equal power than him.</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/277.png" num="211">WML</set>

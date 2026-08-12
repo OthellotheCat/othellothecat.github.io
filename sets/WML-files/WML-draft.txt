@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Cat Reveler",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/19.png"
 			}
@@ -1281,11 +1281,11 @@
 			}
 		},
 		{
-			"name": "Pentapunk",
+			"name": "Octopunk",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Squid Pirate",
-			"collector_number": "64",
+			"type": "Creature — Octopus Pirate",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/128.png"
 			}
@@ -2344,7 +2344,7 @@
 			"name": "Golodoff Broodmother",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
-			"type": "Creature — Insect",
+			"type": "Creature — Spider",
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/234.png"
@@ -2966,7 +2966,7 @@
 	4 Underwhelming Surprise
 	4 Blueprint Messenger
 	4 Pleasant Surprise
-	4 Pentapunk
+	4 Octopunk
 	4 Blatant Bribery
 	4 Head In The Mud
 	4 Mine To Keep
@@ -3391,7 +3391,7 @@
 	6 Pleasant Surprise
 	12 Insidious Idea
 	12 Put In Timeout
-	6 Pentapunk
+	6 Octopunk
 	6 Blatant Bribery
 	6 Head In The Mud
 	12 Refresh
@@ -3673,7 +3673,7 @@
 	15 Pleasant Surprise
 	6 Insidious Idea
 	6 Put In Timeout
-	15 Pentapunk
+	15 Octopunk
 	15 Blatant Bribery
 	15 Head In The Mud
 	6 Refresh
