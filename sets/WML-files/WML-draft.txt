@@ -231,11 +231,11 @@
 			}
 		},
 		{
-			"name": "Meek Assistant",
+			"name": "Inspired Symphonist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Scientist",
-			"collector_number": "59",
+			"type": "Creature — Elf Bard",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/23.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elemental Fish",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/34.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Figment",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/36.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/76.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Toy Soldier",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/77.png"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/78.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Plant",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/79.png"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/80.png"
 			}
@@ -825,7 +825,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Plant Shaman",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/82.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/86.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/88.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Figment",
-			"collector_number": "194",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/91.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/92.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/155.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/156.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/158.png"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Spider",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/159.png"
 			}
@@ -1605,7 +1605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/160.png"
 			}
@@ -1615,7 +1615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/161.png"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/163.png"
 			}
@@ -2063,7 +2063,7 @@
 		{
 			"name": "Isolating Decree",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
@@ -2113,7 +2113,7 @@
 		{
 			"name": "Gunk Swimmer",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Creature — Elemental Fish",
 			"collector_number": "52",
 			"image_uris": {
@@ -2125,7 +2125,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Figment Knight",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/212.png"
 			}
@@ -2223,7 +2223,7 @@
 		{
 			"name": "Life-Saving Warning",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "105",
 			"image_uris": {
@@ -2303,7 +2303,7 @@
 		{
 			"name": "Energizing Cheer",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{5}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
@@ -2325,7 +2325,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Fractal",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/232.png"
 			}
@@ -2335,7 +2335,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elemental Fish",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/233.png"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Spider",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/234.png"
 			}
@@ -2355,17 +2355,17 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/235.png"
 			}
 		},
 		{
-			"name": "Dino Rodeo",
+			"name": "Toybox Training",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "168",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/236.png"
 			}
@@ -2375,7 +2375,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Horror Figment",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/237.png"
 			}
@@ -2383,9 +2383,9 @@
 		{
 			"name": "Rising Chorus",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/238.png"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/239.png"
 			}
@@ -2705,7 +2705,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/270.png"
 			}
@@ -2715,7 +2715,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/271.png"
 			}
@@ -2899,7 +2899,7 @@
 	2 Megamuckfish
 	2 Golodoff Broodmother
 	2 Thoughtful Triceratops
-	2 Dino Rodeo
+	2 Toybox Training
 	2 Lasting Trauma
 	2 Rising Chorus
 	2 Pir, Wielder Of Whimsy
@@ -2948,7 +2948,7 @@
 	4 Eager Cake Smasher
 	4 Aggressive Calming
 	4 Caring Company
-	4 Meek Assistant
+	4 Inspired Symphonist
 	4 Leaping Muckfry
 	4 Shut Up
 	4 Jeering Backup
@@ -3286,7 +3286,7 @@
 	12 Cake Inspector
 	12 Scold
 	12 Unstable Jitterer
-	6 Meek Assistant
+	6 Inspired Symphonist
 	12 Behavioral Analysis
 	12 Swell Rider
 	12 Careless Wayfaring
@@ -3499,7 +3499,7 @@
 	2 Megamuckfish
 	2 Golodoff Broodmother
 	2 Thoughtful Triceratops
-	2 Dino Rodeo
+	2 Toybox Training
 	2 Lasting Trauma
 	2 Rising Chorus
 	2 Pir, Wielder Of Whimsy
@@ -3568,7 +3568,7 @@
 	6 Cake Inspector
 	6 Scold
 	6 Unstable Jitterer
-	15 Meek Assistant
+	15 Inspired Symphonist
 	6 Behavioral Analysis
 	6 Swell Rider
 	6 Careless Wayfaring
@@ -3781,7 +3781,7 @@
 	7 Megamuckfish
 	7 Golodoff Broodmother
 	7 Thoughtful Triceratops
-	7 Dino Rodeo
+	7 Toybox Training
 	7 Lasting Trauma
 	7 Rising Chorus
 	7 Pir, Wielder Of Whimsy

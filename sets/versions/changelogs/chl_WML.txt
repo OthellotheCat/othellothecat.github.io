@@ -1,4 +1,57 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Inspired Symphonist added.
+Toybox Training added.
+
+Meek Assistant removed.
+Dino Rodeo removed.
+
+Huggable Goofball
+rules_text: Defender, lifelink => Defender, reach, lifelink
+pt: 2/6 => 1/7
+
+Put In Timeout
+rules_text: Exile target creature. It gains “Timeout — A creature you own has not been exiled this turn.” as long as it is in exile. [i](As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => Exile target creature. Its owner may cast it for as long as it remains in exile.
+Until end of turn, spells cast from anywhere other than a player's hand cost {1} more.
+
+Muckspitter
+rules_text: This spell costs {2} less if you control two or more creatures with one or more counters on them.
+When this creature enters, shuffle target creature into its owner's library, then its controller draws a card. => This spell costs {2} less if you control a creature with mana value 4 or greater.
+When this creature enters, shuffle target creature into its owner's library, then its controller draws a card.
+
+Isolating Decree
+cost: {1}{W}{W} => {2}{W}{W}
+
+Gunk Swimmer
+cost: {2}{U} => {4}{U}
+rules_text: Ward {1}
+When this creature enters, you may pay {1}. If you do, create a copy of another target token permanent. Otherwise, Nurture a Fish. => Ward {1}
+Whenever you cast a spell with mana value 4 or greater, Nurture a Fish.
+Whenever a creature you control with mana value 4 or greater enters, Nurture a Fish.
+pt: 3/2 => 1/1
+
+Humiliating Demand
+rules_text: Until end of turn, whenever you cast a noncreature spell, each player discards a card. If a player can't, that player mills a card instead. => Until end of turn, whenever you cast a spell, each player discards a card. If an opponent can't, that player mills a card instead.
+
+Life-Saving Warning
+cost: {2}{B}{B} => {1}{B}{B}
+
+Energizing Cheer
+cost: {4}{R}{R} => {5}{R}{R}
+
+Megamuckfish
+rules_text: Trample
+Land creatures you control get +3/+3 and have vigilance and trample.
+Whenever a noncreature land you control enters, Nurture a Forest. => Trample
+Creatures you control with mana value 2 or less get +3/+3 and have trample.
+Whenever a noncreature land you control enters, Nurture a Forest.
+
+Rising Chorus
+cost: {3}{G}{G} => {4}{G}{G}
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Octopunk added.
