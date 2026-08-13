@@ -1492,7 +1492,7 @@
 		},
 		{
 			"name": "Competitive Headbutter",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "129",
@@ -1513,7 +1513,7 @@
 		{
 			"name": "Adaman Rockstomper",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
 			"collector_number": "122",
 			"image_uris": {
@@ -2262,8 +2262,8 @@
 		},
 		{
 			"name": "Adaman Nestguard",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "121",
 			"image_uris": {
@@ -2863,6 +2863,7 @@
 	]
 
 [rare(1)]
+	2 Competitive Headbutter
 	2 Artsy Giftmaker
 	2 Hulking Repairdoll
 	2 Play-Worn Soldier
@@ -2889,7 +2890,6 @@
 	2 Harold, the Un-Forgotten
 	2 Pestering Fiddler
 	2 Fight Rigger
-	2 Adaman Nestguard
 	2 Dreaming Dino
 	2 Imagine Anything
 	2 Ruthless Exploiter
@@ -2982,7 +2982,6 @@
 	4 Lightning-Breathing Dragon
 	4 Adaman Screecher
 	4 Mine To Burn
-	4 Competitive Headbutter
 	4 Face the Flames
 	4 Adaman Rockstomper
 	4 Make It Faster
@@ -3030,6 +3029,7 @@
 	4 Cajoled Accomplice
 	4 Push Yourself
 	4 Golodoff Wanderer
+	4 Adaman Nestguard
 [common(6)]
 	8 Silly Goose
 	8 Sneak a Peek
@@ -3412,7 +3412,7 @@
 	6 Adaman Screecher
 	6 Mine To Burn
 	12 Desperate Brawl
-	6 Competitive Headbutter
+	2 Competitive Headbutter
 	6 Face the Flames
 	6 Adaman Rockstomper
 	6 Make It Faster
@@ -3489,7 +3489,7 @@
 	2 Harold, the Un-Forgotten
 	2 Pestering Fiddler
 	2 Fight Rigger
-	2 Adaman Nestguard
+	6 Adaman Nestguard
 	2 Dreaming Dino
 	2 Imagine Anything
 	2 Ruthless Exploiter
@@ -3694,7 +3694,7 @@
 	15 Adaman Screecher
 	15 Mine To Burn
 	6 Desperate Brawl
-	15 Competitive Headbutter
+	7 Competitive Headbutter
 	15 Face the Flames
 	15 Adaman Rockstomper
 	15 Make It Faster
@@ -3771,7 +3771,7 @@
 	7 Harold, the Un-Forgotten
 	7 Pestering Fiddler
 	7 Fight Rigger
-	7 Adaman Nestguard
+	15 Adaman Nestguard
 	7 Dreaming Dino
 	7 Imagine Anything
 	7 Ruthless Exploiter

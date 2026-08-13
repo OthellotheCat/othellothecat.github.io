@@ -144,12 +144,12 @@
         "position": "216"
     },
     {
-        "card_name": "Adaman Nestguard",
-        "number": 121,
+        "card_name": "Competitive Headbutter",
+        "number": 129,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "226"
+        "position": "149"
     },
     {
         "card_name": "Golodoff Broodmother",
@@ -464,12 +464,12 @@
         "position": "48"
     },
     {
-        "card_name": "Adaman Rockstomper",
-        "number": 122,
+        "card_name": "Adaman Nestguard",
+        "number": 121,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "151"
+        "position": "226"
     },
     {
         "card_name": "Earthen Admiration",
@@ -504,12 +504,12 @@
         "position": "143"
     },
     {
-        "card_name": "Adaman Screecher",
-        "number": 123,
+        "card_name": "Adaman Rockstomper",
+        "number": 122,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "146"
+        "position": "151"
     },
     {
         "card_name": "Face the Feast",
@@ -544,12 +544,12 @@
         "position": "144"
     },
     {
-        "card_name": "Competitive Headbutter",
-        "number": 129,
+        "card_name": "Adaman Screecher",
+        "number": 123,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
-        "position": "149"
+        "position": "146"
     },
     {
         "card_name": "Golodoff Glutton",

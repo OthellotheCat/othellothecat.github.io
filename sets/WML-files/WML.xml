@@ -2387,7 +2387,7 @@ Draw two cards, then target opponent discards a card.</text>
 		<card>
 			<name>Shadowy Remnant</name>
 			<text>Flying
-Whenever you discard one or more nonland, noncreature cards, put a -1/-1 counter on up to one target creature.</text>
+Whenever you discard one or more nonland, noncreature cards, target creature an opponent controls gets -1/-1 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/138.png" num="112">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2512,7 +2512,7 @@ Choose one. If you have beaten the dare, you may choose both —
 		<card>
 			<name>Lightning-Breathing Dragon</name>
 			<text>Flying, haste
-Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, this creature deals 3 damage to target creature.</text>
+Whenever you cast an instant or sorcery spell, you may pay {1}{R}. If you do, this creature deals 3 damage to target creature.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/145.png" num="143">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2529,7 +2529,7 @@ Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, this 
 		</card>
 		<card>
 			<name>Adaman Screecher</name>
-			<text>When this creature attacks, it gains +X/+0 until end of turn, where X is the number of face-down creatures you control.
+			<text>When this creature attacks, it gets +X/+0 until end of turn, where X is the number of face-down creatures you control.
 This creature can&apos;t be blocked by creatures with less power than it.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/146.png" num="123">WML</set>
 			<prop>
@@ -2548,7 +2548,7 @@ This creature can&apos;t be blocked by creatures with less power than it.</text>
 		<card>
 			<name>Mine To Burn</name>
 			<text>As an additional cost to cast this spell, discard a card.
-Draw two cards. Up to two target creatures you control get +1/+0 and can&apos;t be blocked until end of turn.</text>
+Draw two cards. Up to two target creatures you control get +1/+0 and gain menace until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/147.png" num="146">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2581,7 +2581,7 @@ Draw two cards. Up to two target creatures you control get +1/+0 and can&apos;t 
 		<card>
 			<name>Competitive Headbutter</name>
 			<text>Whenever a creature you control deals exactly 1 damage to one or more permanents and/or players, you may put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/149.png" num="129">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/149.png" num="129">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2616,7 +2616,8 @@ Choose one. If you have beaten the dare, you may choose both —
 		</card>
 		<card>
 			<name>Adaman Rockstomper</name>
-			<text>You may cast this spell for {1}{R}. If you do, it enters with three additional -1/-1 counters on it.
+			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+When this creature enters, if it was kicked, put three +1/+1 counters on it.
 Menace, trample</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/151.png" num="122">WML</set>
 			<prop>
@@ -2624,11 +2625,11 @@ Menace, trample</text>
 				<side>front</side>
 				<type>Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>4R</manacost>
-				<cmc>5</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/4</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3131,7 +3132,7 @@ Timeout — You have no cards in hand. (If you discard this card, you may discar
 		<card>
 			<name>Flyby Razer</name>
 			<text>Flying
-Whenever this creature deals combat damage to an opponent, if you have an odd number of cards in hand, return up to one nonland, noncreature permanent to its owner&apos;s hand. Otherwise, this creature deals 3 damage to target creature.</text>
+Whenever this creature deals combat damage to an opponent, if you have an odd number of cards in hand, return up to one creature to its owner&apos;s hand. Otherwise, this creature deals 3 damage to target creature.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/181.png" num="240">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3921,7 +3922,7 @@ Discard a card: This creature deals 1 damage each opponent. Activate only as a s
 		<card>
 			<name>Fight Rigger</name>
 			<text>This creature can&apos;t be blocked by creatures you own.
-At the beginning of combat on your turn, if an opponent controls three or more creatures with more power than this creature, untap this creature. It gets +3/+0 and gains menace until end of turn.
+At the beginning of combat on your turn, if an opponent controls three or more creatures, untap this creature. It gets +3/+0 and gains menace until end of turn.
 {R}, {T}: Target opponent gains control of target creature you control until the beginning of your next turn.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/225.png" num="137">WML</set>
 			<prop>
@@ -3933,7 +3934,7 @@ At the beginning of combat on your turn, if an opponent controls three or more c
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/4</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3941,14 +3942,14 @@ At the beginning of combat on your turn, if an opponent controls three or more c
 			<name>Adaman Nestguard</name>
 			<text>Creatures you control with less power than this creature have haste.
 {1}{R}: Target attacking creature with less power than this creature gets +1/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/226.png" num="121">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/226.png" num="121">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Dinosaur</type>
 				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>4/4</pt>

@@ -1,4 +1,56 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+
+
+Shadowy Remnant
+rules_text: Flying
+Whenever you discard one or more nonland, noncreature cards, put a -1/-1 counter on up to one target creature. => Flying
+Whenever you discard one or more nonland, noncreature cards, target creature an opponent controls gets -1/-1 until end of turn.
+
+Lightning-Breathing Dragon
+rules_text: Flying, haste
+Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, this creature deals 3 damage to target creature. => Flying, haste
+Whenever you cast an instant or sorcery spell, you may pay {1}{R}. If you do, this creature deals 3 damage to target creature.
+
+Adaman Screecher
+rules_text: When this creature attacks, it gains +X/+0 until end of turn, where X is the number of face-down creatures you control.
+This creature can't be blocked by creatures with less power than it. => When this creature attacks, it gets +X/+0 until end of turn, where X is the number of face-down creatures you control.
+This creature can't be blocked by creatures with less power than it.
+
+Mine To Burn
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards. Up to two target creatures you control get +1/+0 and can't be blocked until end of turn. => As an additional cost to cast this spell, discard a card.
+Draw two cards. Up to two target creatures you control get +1/+0 and gain menace until end of turn.
+
+Competitive Headbutter
+
+Adaman Rockstomper
+cost: {4}{R} => {1}{R}
+rules_text: You may cast this spell for {1}{R}. If you do, it enters with three additional -1/-1 counters on it.
+Menace, trample => Kicker {3} [i](You may pay an additional {3} as you cast this spell.)[/i]
+When this creature enters, if it was kicked, put three +1/+1 counters on it.
+Menace, trample
+pt: 5/4 => 2/1
+
+Flyby Razer
+rules_text: Flying
+Whenever this creature deals combat damage to an opponent, if you have an odd number of cards in hand, return up to one nonland, noncreature permanent to its owner's hand. Otherwise, this creature deals 3 damage to target creature. => Flying
+Whenever this creature deals combat damage to an opponent, if you have an odd number of cards in hand, return up to one creature to its owner's hand. Otherwise, this creature deals 3 damage to target creature.
+
+Fight Rigger
+rules_text: This creature can't be blocked by creatures you own.
+At the beginning of combat on your turn, if an opponent controls three or more creatures with more power than this creature, untap this creature. It gets +3/+0 and gains menace until end of turn.
+{R}, {T}: Target opponent gains control of target creature you control until the beginning of your next turn. => This creature can't be blocked by creatures you own.
+At the beginning of combat on your turn, if an opponent controls three or more creatures, untap this creature. It gets +3/+0 and gains menace until end of turn.
+{R}, {T}: Target opponent gains control of target creature you control until the beginning of your next turn.
+pt: 1/4 => 1/3
+
+Adaman Nestguard
+cost: {3}{R} => {4}{R}
+
+
+VERSION 28 CHANGELOG
 ====================
 
 Adaman Screecher added.
