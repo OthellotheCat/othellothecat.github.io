@@ -5,7 +5,7 @@
 			<name>WML</name>
 			<longname>Whimsaland: World of Wonder</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-12</releasedate>
+			<releasedate>2026-08-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -346,7 +346,7 @@ Create two 2/2 green Dinosaur creature tokens.</text>
 			<name>Party Popper</name>
 			<text>When this creature enters or leaves the battlefield, tap or untap up to one target creature or artifact.
 Surprise {1}{U} (You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/19.png" num="64">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/19.png" num="63">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -382,7 +382,7 @@ Surprise {1}{U} (You may pay {1}{U} to put this card onto the battlefield from y
 			<text>Enchant target creature
 When this Aura enters, tap enchanted creature and remove all counters from it.
 Enchanted creature loses all abilities, can&apos;t gain counters, and can&apos;t attack or block.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/21.png" num="71">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/21.png" num="70">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -415,7 +415,7 @@ When this creature enters or leaves the battlefield, target opponent mills five 
 		</card>
 		<card>
 			<name>Inspired Symphonist</name>
-			<text>Whenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on this creature. It gains hexproof until end of turn.</text>
+			<text>Whenever you cast a spell with mana value 4 or greater, you may put a +1/+1 counter on this creature. If you do, that spell can&apos;t be countered. Do this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/23.png" num="56">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -502,7 +502,7 @@ Whenever enchanted creature becomes tapped, you may discard a card. If you do, s
 			<name>Puddle Diver</name>
 			<text>As an additional cost to cast this spell, tap an untapped creature you control.
 When this creature enters, Nurture a Fish. (Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/28.png" num="66">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/28.png" num="65">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -520,7 +520,7 @@ When this creature enters, Nurture a Fish. (Put a +1/+1 counter on target Fish y
 			<name>Muddy Mystic</name>
 			<text>Flash
 When this creature enters, you may tap target creature and put two stun counters on it. If you control an untapped land, Nurture a Fish. (Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/29.png" num="61">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/29.png" num="60">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -553,7 +553,7 @@ When this creature enters, you may tap target creature and put two stun counters
 		<card>
 			<name>Role-Call Leader</name>
 			<text>The first time a creature you control enters on each of your turns, you may pay {1}. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/31.png" num="70">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/31.png" num="69">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -600,10 +600,9 @@ When this creature enters, you may tap target creature and put two stun counters
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Leaping Muckfry</name>
-			<text>Flying
-When this creature leaves the battlefield, tap or untap up to two target lands.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/34.png" num="59">WML</set>
+			<name>Slimy Muckfry</name>
+			<text>When this creature leaves the battlefield, tap or untap up to two target lands.</text>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/34.png" num="73">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -613,7 +612,7 @@ When this creature leaves the battlefield, tap or untap up to two target lands.<
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -622,7 +621,7 @@ When this creature leaves the battlefield, tap or untap up to two target lands.<
 			<text>Choose one — 
 • Counter target spell, activated ability, or triggered ability.
 • Target player can&apos;t draw more than one card until end of turn.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/35.png" num="72">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/35.png" num="71">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -866,7 +865,7 @@ When this creature dies, create a 1/2 black and green Spider creature token with
 		<card>
 			<name>Entree Course</name>
 			<text>When this enchantment enters, create a 3/3 black and green Insect creature token with lifelink.
-{T}, Sacrifice this enchantment: You gain 4 life.</text>
+Sacrifice this enchantment: You gain 4 life.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/49.png" num="89">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1454,7 +1453,7 @@ When this creature enters, the next land you tap for mana this turn adds an addi
 		<card>
 			<name>Appetizer Course</name>
 			<text>When this enchantment enters, create a 1/1 black and green Insect creature token.
-{T}, Sacrifice this enchantment: You gain 2 life.</text>
+Sacrifice this enchantment: You gain 2 life.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/83.png" num="162">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1598,7 +1597,7 @@ When this creature becomes blocked, you may put a +1/+1 counter on it.</text>
 			<text>Vigilance
 When this creature enters, create a Food token.
 {T}, Sacrifice this creature: If your life total changed this turn, you gain 5 life and draw a card.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/91.png" num="193">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/91.png" num="192">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1698,7 +1697,7 @@ Equip {1}</text>
 			<name>Unlucky Kite-Flier</name>
 			<text>Flying
 {1}, {T}, Sacrifice this creature: This creature deals 3 damage to target creature with flying.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/97.png" num="260">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/97.png" num="261">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1714,7 +1713,7 @@ Equip {1}</text>
 			<name>Telekaleidoscope</name>
 			<text>{T}: Add one mana of any color.
 {3}, {T}: Scry 2.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/98.png" num="259">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/98.png" num="260">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2170,7 +2169,7 @@ When this creature attacks, if you control an artifact, creatures you control ge
 		<card>
 			<name>Pleasant Surprise</name>
 			<text>Exile target nonland permanent you control, then return it to the battlefield under its owner&apos;s control tapped. If the permanent has surprise, draw a card.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/125.png" num="65">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/125.png" num="64">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2201,9 +2200,9 @@ When this creature attacks, if you control an artifact, creatures you control ge
 		</card>
 		<card>
 			<name>Put In Timeout</name>
-			<text>Exile target creature. Its owner may cast it for as long as it remains in exile.
+			<text>Exile target creature. Its owner may cast it as long as it remains in exile.
 Until end of turn, spells cast from anywhere other than a player&apos;s hand cost {1} more.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/127.png" num="67">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/127.png" num="66">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2220,7 +2219,7 @@ Until end of turn, spells cast from anywhere other than a player&apos;s hand cos
 			<name>Octopunk</name>
 			<text>When this creature enters, draw a card.
 At the beginning of combat on your turn, if you have an odd number of cards in hand, tap target creature an opponent controls and put a stun counter on it. Otherwise, this creature gains vigilance until end of turn.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/128.png" num="63">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/128.png" num="62">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2271,7 +2270,7 @@ Gain control of target creature an opponent controls with mana value X or less u
 			<name>Refresh</name>
 			<text>If a land you control entered this turn, you may cast this spell without paying its mana cost.
 Target permanent gains hexproof and indestructible until end of turn. Untap it.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/131.png" num="68">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/131.png" num="67">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2287,7 +2286,7 @@ Target permanent gains hexproof and indestructible until end of turn. Untap it.<
 		<card>
 			<name>Sky-High Recon</name>
 			<text>Scry 2. If you shuffled your library this turn, draw two cards. Otherwise, draw a card.</text>
-			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/132.png" num="73">WML</set>
+			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/132.png" num="72">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2304,7 +2303,7 @@ Target permanent gains hexproof and indestructible until end of turn. Untap it.<
 			<name>Mine To Keep</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards. At the beginning of the next upkeep, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/133.png" num="60">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/133.png" num="59">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2371,7 +2370,7 @@ Whenever one or more players discards one or more cards, put a +1/+1 counter on 
 		<card>
 			<name>Mine To Break</name>
 			<text>As an additional cost to cast this spell, discard a card.
-Draw two cards, then destroy target creature or artifact.</text>
+Draw two cards, then target opponent discards a card.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/137.png" num="106">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2387,7 +2386,7 @@ Draw two cards, then destroy target creature or artifact.</text>
 		</card>
 		<card>
 			<name>Shadowy Remnant</name>
-			<text>Menace
+			<text>Flying
 Whenever you discard one or more nonland, noncreature cards, put a -1/-1 counter on up to one target creature.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/138.png" num="112">WML</set>
 			<prop>
@@ -2399,7 +2398,7 @@ Whenever you discard one or more nonland, noncreature cards, put a -1/-1 counter
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/3</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2825,7 +2824,7 @@ The first time another creature you control dies each turn, Nurture a Forest. (P
 			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
 {2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/163.png" num="194">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/163.png" num="193">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2922,9 +2921,9 @@ Surprise {0} (You may pay {0} to put this card onto the battlefield from your ha
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Weathered Portal</name>
+			<name>Portal to Whimsy</name>
 			<text>{2}, {T}, Sacrifice this artifact: Exile cards from the top of your library until you exile a land card. Put that card onto the battlefield tapped. Put the remaining cards exiled this way on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/169.png" num="261">WML</set>
+			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/169.png" num="259">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3616,8 +3615,8 @@ When this creature leaves the battlefield, put the top card of target player&apo
 		</card>
 		<card>
 			<name>Regifting Guest</name>
-			<text>{4}{U}, {T}: Return up to one target artifact or enchantment card from your graveyard to the top of your library. At the beginning of your next end step, draw a card.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/208.png" num="69">WML</set>
+			<text>When this creature enters, you may return a nonland permanent you control to your hand. If you do, create a copy of it.</text>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/208.png" num="68">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3627,7 +3626,7 @@ When this creature leaves the battlefield, put the top card of target player&apo
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/3</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3670,17 +3669,17 @@ Timeout — You have not cast any spells this turn.</text>
 		</card>
 		<card>
 			<name>Gunk Swimmer</name>
-			<text>Ward {1}
+			<text>Ward {3}
 Whenever you cast a spell with mana value 4 or greater, Nurture a Fish.
-Whenever a creature you control with mana value 4 or greater enters, Nurture a Fish.</text>
+Whenever another creature you control with mana value 4 or greater enters, Nurture a Fish.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/211.png" num="52">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Elemental Fish</type>
 				<maintype>Creature</maintype>
-				<manacost>4U</manacost>
-				<cmc>5</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>1/1</pt>
@@ -3708,7 +3707,7 @@ If this creature would leave the battlefield, exile it instead. You may cast it 
 		</card>
 		<card>
 			<name>Fond Memory</name>
-			<text>When this creature enters, create a tapped copy of another creature you control not named Fond Memory, except it&apos;s a Figment creature in addition to its types.</text>
+			<text>When this creature enters, create a copy of a non-Figment creature you control, except it&apos;s a Figment in addition to its types.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/213.png" num="50">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3883,8 +3882,8 @@ Sacrifice this enchantment: Create X Treasure tokens, where X is the number of f
 		</card>
 		<card>
 			<name>Harold, the Un-Forgotten</name>
-			<text>When this creature enters, Harold deals 2 damage to each player.
-When this creature leaves the battlefield, you may sacrifice a creature. If you do, exile Harold. When you do, draw a card and put Harold on the top of your library.
+			<text>When Harold enters, each player loses 2 life.
+When Harold leaves the battlefield, you may sacrifice a creature. If you do, exile Harold. When you do, draw a card and put Harold on the top of your library.
 Surprise {B}</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/223.png" num="100">WML</set>
 			<prop>
@@ -4019,8 +4018,8 @@ Timeout — You have fewer lands than your opponent.</text>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>5RR</manacost>
-				<cmc>7</cmc>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -4156,14 +4155,14 @@ When this creature dies, you gain life equal to its toughness.</text>
 		<card>
 			<name>Rising Chorus</name>
 			<text>Untap all permanents you control.</text>
-			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/238.png" num="192">WML</set>
+			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/238.png" num="191">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -4589,7 +4588,7 @@ Activated abilities of artifacts and enchantments your opponents control can&apo
 		<card>
 			<name>Mudslide</name>
 			<text>Return each creature you don&apos;t control to its owner&apos;s hand. Then, put any number of creature cards from your hand onto the battlefield.</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/262.png" num="62">WML</set>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/262.png" num="61">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4749,10 +4748,10 @@ As long as this creature is tapped, other creatures you control get +1/+0.</text
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Rampant Restoration</name>
+			<name>Song of Treehome</name>
 			<text>When you cast this spell, copy it for each untapped land you control.
 Draw a card, then you may put a land from your hand onto the battlefield tapped.</text>
-			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/271.png" num="191">WML</set>
+			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/271.png" num="194">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4862,9 +4861,9 @@ Remove three collection counters from Carla: Target player gets an emblem with &
 		</card>
 		<card>
 			<name>Gene, Surrounded by Terror</name>
-			<text>Vigilance, lifelink
+			<text>Indestructible, lifelink
 At the beginning of each end step, if your life total changed this turn, you may put a +1/+1 counter on Gene.
-Gene can&apos;t attack or block if an opponent controls a creature with greater or equal power than him.</text>
+Gene can&apos;t attack or block as long as an opponent controls a creature with power greater than or equal to his.</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/277.png" num="211">WML</set>
 			<prop>
 				<layout>normal</layout>

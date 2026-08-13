@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Cat Reveler",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/19.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/21.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Elemental Fish",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/29.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/31.png"
 			}
@@ -341,11 +341,11 @@
 			}
 		},
 		{
-			"name": "Leaping Muckfry",
+			"name": "Slimy Muckfry",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elemental Fish",
-			"collector_number": "59",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/35.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Figment",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/91.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Creature — Figment",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/97.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/98.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/125.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/127.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Octopus Pirate",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/128.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/131.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/132.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/133.png"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "194",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/163.png"
 			}
@@ -1691,11 +1691,11 @@
 			}
 		},
 		{
-			"name": "Weathered Portal",
+			"name": "Portal to Whimsy",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "261",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/169.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Reveler",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/208.png"
 			}
@@ -2113,7 +2113,7 @@
 		{
 			"name": "Gunk Swimmer",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Elemental Fish",
 			"collector_number": "52",
 			"image_uris": {
@@ -2303,7 +2303,7 @@
 		{
 			"name": "Energizing Cheer",
 			"rarity": "rare",
-			"mana_cost": "{5}{R}{R}",
+			"mana_cost": "{4}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
@@ -2383,9 +2383,9 @@
 		{
 			"name": "Rising Chorus",
 			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/238.png"
 			}
@@ -2625,7 +2625,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/262.png"
 			}
@@ -2711,11 +2711,11 @@
 			}
 		},
 		{
-			"name": "Rampant Restoration",
+			"name": "Song of Treehome",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "191",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/271.png"
 			}
@@ -2934,7 +2934,7 @@
 	1 Immersion Therapist
 	1 Concept of the Playmate
 	1 Iron Stomach
-	1 Rampant Restoration
+	1 Song of Treehome
 	1 Concept of the Caretaker
 	1 Tsukon, Prideful Monarch
 	1 Sean, Caroling Protector
@@ -2949,7 +2949,7 @@
 	4 Aggressive Calming
 	4 Caring Company
 	4 Inspired Symphonist
-	4 Leaping Muckfry
+	4 Slimy Muckfry
 	4 Shut Up
 	4 Jeering Backup
 	4 Roughhouser's Revel
@@ -2999,7 +2999,7 @@
 	4 Figmatog
 	4 Cardboard Fortress
 	4 Pocket Sand
-	4 Weathered Portal
+	4 Portal to Whimsy
 	4 Scaredy Kitten
 	4 Party Planner
 	4 Tumbling Porcelain
@@ -3297,7 +3297,7 @@
 	12 Role-Call Leader
 	12 Sweet Dreams
 	12 Treehome Lullaby
-	6 Leaping Muckfry
+	6 Slimy Muckfry
 	6 Shut Up
 	6 Jeering Backup
 	12 Antagonizing Acquaintance
@@ -3432,7 +3432,7 @@
 	6 Figmatog
 	6 Cardboard Fortress
 	6 Pocket Sand
-	6 Weathered Portal
+	6 Portal to Whimsy
 	6 Scaredy Kitten
 	6 Party Planner
 	6 Tumbling Porcelain
@@ -3534,7 +3534,7 @@
 	1 Immersion Therapist
 	1 Concept of the Playmate
 	1 Iron Stomach
-	1 Rampant Restoration
+	1 Song of Treehome
 	1 Concept of the Caretaker
 	1 Tsukon, Prideful Monarch
 	1 Sean, Caroling Protector
@@ -3579,7 +3579,7 @@
 	6 Role-Call Leader
 	6 Sweet Dreams
 	6 Treehome Lullaby
-	15 Leaping Muckfry
+	15 Slimy Muckfry
 	15 Shut Up
 	15 Jeering Backup
 	6 Antagonizing Acquaintance
@@ -3714,7 +3714,7 @@
 	15 Figmatog
 	15 Cardboard Fortress
 	15 Pocket Sand
-	15 Weathered Portal
+	15 Portal to Whimsy
 	15 Scaredy Kitten
 	15 Party Planner
 	15 Tumbling Porcelain
@@ -3816,7 +3816,7 @@
 	4 Immersion Therapist
 	4 Concept of the Playmate
 	4 Iron Stomach
-	4 Rampant Restoration
+	4 Song of Treehome
 	4 Concept of the Caretaker
 	4 Tsukon, Prideful Monarch
 	4 Sean, Caroling Protector
