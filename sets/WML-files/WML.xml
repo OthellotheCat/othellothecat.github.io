@@ -2528,8 +2528,9 @@ Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, this 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Adaman Scrounger</name>
-			<text>This creature&apos;s power is equal to the number of instant and sorcery cards in your graveyard.</text>
+			<name>Adaman Screecher</name>
+			<text>When this creature attacks, it gains +X/+0 until end of turn, where X is the number of face-down creatures you control.
+This creature can&apos;t be blocked by creatures with less power than it.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/146.png" num="123">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2540,7 +2541,7 @@ Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, this 
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>*/3</pt>
+				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2667,7 +2668,7 @@ When this creature becomes blocked, until end of turn, it gets +1/+1 and gains t
 		</card>
 		<card>
 			<name>Headway</name>
-			<text>Target creature gains &quot;When this creature deals combat damage to an opponent, it deals damage equal to its power to any other target&quot; until end of turn.</text>
+			<text>Target creature you control gains &quot;When this creature deals combat damage to an opponent, it deals damage equal to its power to any other target&quot; until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/154.png" num="139">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3633,7 +3634,7 @@ When this creature leaves the battlefield, put the top card of target player&apo
 		<card>
 			<name>Formaldehyde Soak</name>
 			<text>When this enchantment enters, if it was cast from exile, put target creature on the top of its owner&apos;s library. Otherwise, return target creature to its owner&apos;s hand.
-{2}{U}: Target creature gets -4/-0 until end of turn. Its controller mills three cards.
+At the start of combat each turn, tap target creature an opponent controls.
 Timeout — One or more opponents control more creatures than you.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/209.png" num="51">WML</set>
 			<prop>

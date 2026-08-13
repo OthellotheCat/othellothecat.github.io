@@ -1,4 +1,22 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+Adaman Screecher added.
+
+Adaman Scrounger removed.
+
+Headway
+rules_text: Target creature gains “When this creature deals combat damage to an opponent, it deals damage equal to its power to any other target” until end of turn. => Target creature you control gains “When this creature deals combat damage to an opponent, it deals damage equal to its power to any other target” until end of turn.
+
+Formaldehyde Soak
+rules_text: When this enchantment enters, if it was cast from exile, put target creature on the top of its owner's library. Otherwise, return target creature to its owner's hand.
+{2}{U}: Target creature gets -4/-0 until end of turn. Its controller mills three cards.
+Timeout — One or more opponents control more creatures than you. => When this enchantment enters, if it was cast from exile, put target creature on the top of its owner's library. Otherwise, return target creature to its owner's hand.
+At the start of combat each turn, tap target creature an opponent controls.
+Timeout — One or more opponents control more creatures than you.
+
+
+VERSION 27 CHANGELOG
 ====================
 
 Slimy Muckfry added.

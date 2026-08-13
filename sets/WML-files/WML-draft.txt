@@ -1461,7 +1461,7 @@
 			}
 		},
 		{
-			"name": "Adaman Scrounger",
+			"name": "Adaman Screecher",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Dinosaur",
@@ -2980,7 +2980,7 @@
 	4 Carla's Backup
 	4 Face Your Fears
 	4 Lightning-Breathing Dragon
-	4 Adaman Scrounger
+	4 Adaman Screecher
 	4 Mine To Burn
 	4 Competitive Headbutter
 	4 Face the Flames
@@ -3409,7 +3409,7 @@
 	6 Carla's Backup
 	6 Face Your Fears
 	6 Lightning-Breathing Dragon
-	6 Adaman Scrounger
+	6 Adaman Screecher
 	6 Mine To Burn
 	12 Desperate Brawl
 	6 Competitive Headbutter
@@ -3691,7 +3691,7 @@
 	15 Carla's Backup
 	15 Face Your Fears
 	15 Lightning-Breathing Dragon
-	15 Adaman Scrounger
+	15 Adaman Screecher
 	15 Mine To Burn
 	6 Desperate Brawl
 	15 Competitive Headbutter
