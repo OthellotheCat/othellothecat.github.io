@@ -1,4 +1,293 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+Carnivorous Crawly added.
+
+Food-Driven Centipede removed.
+
+Clueless Tax Collector
+cost: {2}{W} => {1}{W}
+pt: 2/2 => 1/2
+
+Prim Pal
+cost: {W} => {2}{W}
+pt: 1/2 => 2/3
+
+Party Popper
+rules_text: When this creature enters or leaves the battlefield, tap or untap up to one target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => Flying 
+When this creature enters or leaves the battlefield, tap or untap up to one target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+pt: 3/4 => 3/3
+
+Behavioral Analysis
+rules_text: Up to two different target creatures get -2/-0 until end of turn.
+Then if you targeted one or fewer creatures this way, draw a card. => Up to two different target creatures get -2/-0 until end of turn. Then if you targeted one or fewer creatures this way, draw a card.
+
+Swell Rider
+rules_text: If you have an odd number of cards in hand, this creature can't be blocked. Otherwise, it has +1/+1. [i](Zero is even.)[/i][i][/i] => If you have an odd number of cards in hand, this creature can't be blocked. Otherwise, it has hexproof. [i](Zero is even.)[/i]
+pt: 1/2 => 2/2
+
+Careless Wayfaring
+rules_text: Enchant creature you control
+Whenever enchanted creature becomes tapped, you may discard a card. If you do, scry 1 and draw a card. => Enchant creature you control
+Whenever enchanted creature becomes tapped, you may scry 1 and draw a card. If you do, discard a card.
+
+Versatile Matey
+pt: 0/3 => 1/3
+
+Puddle Diver
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Nurture a Fish. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)[/i] => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Nurture a Fish. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)[/i]
+
+Muddy Mystic
+rules_text: Flash
+When this creature enters, you may tap target creature and put two stun counters on it. If you control an untapped land, Nurture a Fish. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)[/i] => Flash
+When this creature enters, you may tap target creature and put two stun counters on it. If you control an untapped land, Nurture a Fish. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)[/i]
+
+Dazzling Opulence
+rules_text: Reveal the top card of your library, then choose target artifact, creature or enchantment spell. If the revealed card costs more than the target spell, counter it. Otherwise, counter target spell unless its controller pays {1}. => Choose target permanent spell, then reveal the top card of your library. If the revealed card costs more than the target spell, counter it. Otherwise, counter target spell unless its controller pays {2}.
+
+Role-Call Leader
+rules_text: The first time a creature you control enters on each of your turns, you may pay {1}. If you do, draw a card. => The first time you put a counter on a creature you control each turn, you may pay {1}. If you do, draw a card.
+
+Sweet Dreams
+cost: {1}{U} => {U}
+rules_text: Counter target creature spell. Scry 1. => Counter target creature spell with mana value 3 or less. Scry 1.
+
+Treehome Lullaby
+rules_text: Tap up to X target creatures, where X is the number of creature tokens you control. Put a stun counter on up to one of them. => Tap up to X target creatures, where X is the number of creatures with counter on them you control. Put a stun counter on up to one of them.
+
+Frightening Friend
+pt: 2/3 => 2/2
+
+Leafage Lineup
+pt: 2/3 => 1/2
+
+Leafy Launcher
+pt: 3/5 => 4/4
+
+Earthen Admiration
+rules_text: Choose one —
+• Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
+• Put a +1/+1 counter on each creature token you control. => Choose one —
+• Search your library for up to three basic lands, reveal them, put them into your hand and shuffle.
+• Create two 1/1 green Forest Elemental land creature tokens.
+
+Growing Trike
+rules_text: {T}: Add one mana of any color.
+{2}{G}, {T}: Put two +1/+1 counters on this creature. Activate only if you control one or more creatures with counter on them and only once. => {T}: Add one mana of any color.
+{2}{G}, {T}: Put three +1/+1 counters on this creature. Activate only if you control a creature with power 4 or greater and only once.
+
+Camouflaged Squad
+rules_text: When this creature enters, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i]
+{3}{G}: Toys you control get +1/+1 until end of turn. => When this creature enters, Nurture a Toy. [i](Create a 1/1 white and green Toy artifact creature token. If you already control one, instead, put a +1/+1 counter on target Toy you control.)[/i]
+{3}{G}: Toys you control get +1/+1 until end of turn.
+
+Pristine Collector
+rules_text: Whenever a nontoken creature you control leaves the battlefield without dying, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i] => Whenever a nontoken creature you control leaves the battlefield without dying, Nurture a Toy. [i](Create a 1/1 white and green Toy artifact creature token. If you already control one, instead, put a +1/+1 counter on target Toy you control.)[/i]
+
+Treehome Troopers
+rules_text: Vigilance
+When this creature enters, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i] => Vigilance
+When this creature enters, Nurture a Toy. [i](Create a 1/1 white and green Toy artifact creature token. If you already control one, instead, put a +1/+1 counter on target Toy you control.)[/i]
+
+Head In The Clouds
+cost: {2}{W} => {1}{W}
+rules_text: Creature tokens you control gain flying until end of turn. If you control four or more creature token, instead, put a flying counter on each creature token you control. => Creature you control with counters on them gain flying until end of turn. If you control four or more creatures with counters on them, instead, put a flying counter on each of those creatures.
+
+Insidious Idea
+cost: {U}{U} => {1}{U}
+
+Put In Timeout
+rules_text: Exile target creature. Its owner may cast it as long as it remains in exile.
+Until end of turn, spells cast from anywhere other than a player's hand cost {1} more. => Exile target creature. Its owner may cast it as long as it remains in exile.
+Until end of turn, spells opponents cast from anywhere other than their hand cost {1} more.
+
+Blatant Bribery
+rules_text: When casting this spell, you may discard any number of cards. Each card you discard while casting this spell pays for {1}. 
+Gain control of target creature an opponent controls with mana value X or less unless its controller pays {X}. => When casting this spell, you may discard any number of cards. Each card you discard while casting this spell pays for {1}.
+Gain control of target creature an opponent controls with mana value X or less unless its controller pays {X}.
+
+Head In The Mud
+cost: {2}{U} => {1}{U}
+rules_text: Creature tokens you control have hexproof until end of turn. If you control four or more creature tokens, instead, put a hexproof counter on each creature token you control. => Creature you control with counters on them gain hexproof until end of turn. If you control four or more creatures with counters on them, instead, put a hexproof counter on each of those creatures.
+
+Refresh
+cost: {2}{U} => {1}{U}
+rules_text: If a land you control entered this turn, you may cast this spell without paying its mana cost.
+Target permanent gains hexproof and indestructible until end of turn. Untap it. => This spell costs {1} less if it targets a permanent with a counter on it.
+Target permanent gains hexproof and indestructible until end of turn. Untap it.
+
+Sky-High Recon
+cost: {2}{U} => {U}
+rules_text: Scry 2. If you shuffled your library this turn, draw two cards. Otherwise, draw a card. => Scry 3.
+Whenever a creature you control enters, you may pay {1}. If you do, return this card from your graveyard to your hand.
+
+Water The Roots
+rules_text: Put a basic land from your hand onto the battlefield tapped and put a +1/+1 counter on it. It's a 1/1 green Elemental creature in addition to its types. It gains haste until end of turn. => Put a basic land from your hand onto the battlefield and put a +1/+1 counter on it. It's a 1/1 green Elemental creature in addition to its types. It gains haste until end of turn.
+
+Face the Feast
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• You gain 3 life.
+• You gain X life, where X is the number of creatures you control. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Create a 1/2 black and green Spider creature token with reach.
+• You gain X life, where X is the number of creatures you control.
+
+Golodoff Glutton
+rules_text: Reach, deathtouch
+When this creature enters, if your life total changed this turn, it fights up to one target creature you don't control. => Reach
+When this creature enters, it fights up to one target creature an opponent controls.
+{1}, Sacrifice a token: This creature gains deathtouch until end of turn.
+pt: 1/6 => 2/5
+
+Head In The Trees
+cost: {2}{G} => {1}{G}
+rules_text: Creature tokens you control gain trample until end of turn. If you control four or more creature tokens, instead, put a trample counter on each creature token you control. => Creature you control with counters on them gain trample until end of turn. If you control four or more creatures with counters on them, instead, put a trample counter on each of those creatures.
+
+Treehome Sunreacher
+rules_text: Reach
+The first time another creature you control dies each turn, Nurture a Forest. [i](Put a +1/+1 counter on target Forest you control, or create a 1/1 green Forest Elemental land creature token.)[/i] => Reach
+The first time another creature you control dies each turn, Nurture a Forest Elemental. [i](Create a 1/1 green Forest Elemental creature token. If you already control one, instead, put a +1/+1 counter on target Forest Elemental you control.)[/i]
+pt: 3/7 => 3/5
+
+Sneaky Beetle
+pt: 1/2 => 2/2
+
+Scaredy Kitten
+rules_text: When this creature enters, you may pay {2}. If you do, return target creature to its owner's hand.
+The first time each turn another nonland, nontoken permanent you control enters without being cast, you may exile this creature. If you do, return it to the battlefield tapped under its owner's control. => When this creature enters, you may pay {W}{U}. If you do, return target creature to its owner's hand.
+The first time each turn another nonland, nontoken permanent you control enters without being cast, you may exile this creature. If you do, return it to the battlefield tapped under its owner's control.
+pt: 3/2 => 2/3
+
+Party Planner
+rules_text: Whenever a creature you control enters from exile or you cast a spell from exile, scry 1, then draw a card. => Whenever a creature you control enters from exile or you cast a spell from exile, draw a card.
+
+Toy Catapult
+rules_text: Affinity for creature tokens.
+Trample, vigilance
+When this creature attacks, put a +1/+1 counter on each creature that crewed it this turn.
+Crew 4 => Affinity for creature tokens
+Trample, vigilance
+When this creature attacks, put a +1/+1 counter on each creature that crewed it this turn.
+Crew 4
+
+Scattered Thought
+rules_text: Menace
+Whenever you discard one or more cards, target creature can't block until end of turn. => Menace
+Whenever you discard one or more cards, target creature an opponent controls can't block until end of turn.
+
+Mudsculptor
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, choose one —
+• You may play an additional land this turn.
+• Nurture a Fish. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token.)[/i] => As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, choose one —
+• You may play an additional land this turn.
+• Nurture a Fish. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)[/i]
+
+Muckspitter
+rules_text: This spell costs {2} less if you control a creature with mana value 4 or greater.
+When this creature enters, shuffle target creature into its owner's library, then its controller draws a card. => This spell costs {2} less if you cast a spell with mana value 4 or greater this turn.
+When this creature enters, shuffle target creature into its owner's library.
+
+Lost Hatchling
+cost: {2}{RG}{RG} => {3}{RG}{RG}
+rules_text: When this creature enters, choose one —
+• Create two 2/2 green Dinosaur creature tokens.
+• Put three +1/+1 counters on another target creature you control. => When this creature enters, choose one —
+• Create two 2/2 green Dinosaur creature tokens.
+• Put four +1/+1 counters on another target creature you control.
+
+Site Surveyor
+rules_text: {4}, {T}: Nurture a Toy. This ability costs {3} less if a land entered under your control this turn. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i] => {4}, {T}: Nurture a Toy. This ability costs {3} less if a land entered under your control this turn. [i](Create a 1/1 white and green Toy artifact creature token. If you already control one, instead, put a +1/+1 counter on target Toy you control.)[/i]
+
+Treehome Streamfisher
+rules_text: Affinity for creature tokens.
+When this creature enters, choose one —
+• Untap up to two target lands.
+• Nurture a Fish twice. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token. Then do it again.)[/i] => Affinity for creature tokens
+When this creature enters, choose one —
+• Untap up to two target lands.
+• Nurture a Fish twice. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control. Then do it again.)[/i]
+
+Push Yourself
+rules_text: As an additional cost to cast this spell, pay X life.
+Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Put a +1/+1 counter on up to X creatures you control. Then if you have beaten the dare, creatures you control with counters on them gain menace until end of turn. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Creatures you control get +1/+1 until end of turn. If you've beaten the dare, whenever a creature you control dies this turn, target opponent loses 1 life.
+
+Golodoff Wanderer
+rules_text: When this creature enters, you gain 2 life.
+This creature has hexproof and lifelink as long as your life total has changed this turn. => Flash
+When this creature enters, you gain 2 life.
+This creature has hexproof and lifelink as long as your life total has changed this turn.
+pt: 3/3 => 2/2
+
+Augusta, Vigilant Chaperone
+rules_text: Vigilance
+Players play with the top card of their library revealed.
+When this creature leaves the battlefield, put the top card of target player's library on the bottom of their library.
+{W}, {T}, Sacrifice this creature: Draw a card. => Vigilance
+Players play with the top card of their library revealed.
+When this creature leaves the battlefield, target player shuffles.
+{W}, {T}, Sacrifice this creature: Draw a card.
+
+Regifting Guest
+rules_text: When this creature enters, you may return a nonland permanent you control to your hand. If you do, create a copy of it. => Flash
+When this creature enters, you may return a nonland permanent you control to your hand. If you do, create a copy of it.
+pt: 1/2 => 1/1
+
+Formaldehyde Soak
+cost: {1}{U} => {2}{U}
+
+Energizing Cheer
+cost: {4}{R}{R} => {5}{R}{R}
+
+Megamuckfish
+rules_text: Trample
+Creatures you control with mana value 2 or less get +3/+3 and have trample.
+Whenever a noncreature land you control enters, Nurture a Forest. => Trample
+Creatures you control with mana value 2 or less get +3/+3 and have trample.
+Whenever a noncreature land you control enters, Nurture a Forest Elemental.
+
+Rising Chorus
+cost: {3}{G}{G} => {4}{G}{G}
+
+Stephen, Toybox Commander
+rules_text: First strike
+At the beginning of combat on your turn, for each creature that entered this turn, Nurture a Toy. [i](Put a +1/+1 counter on target Toy you control, or create a 1/1 white and green Toy artifact creature token.)[/i] => First strike
+At the beginning of combat on your turn, for each creature that entered this turn, Nurture a Toy. [i](Create a 1/1 white and green Toy artifact creature token. If you already control one, instead, put a +1/+1 counter on target Toy you control.)[/i]
+
+Mahaba, Gentle Yet Giant
+rules_text: Flash
+When Mahaba enters, Nurture a Forest.
+At the beginning of your end step, create X copies of target creature you control with mana value 2 or less, where X is the number of spells with mana value 4 or greater you've cast this turn. => Flash
+When Mahaba enters, Nurture a Forest Elemental.
+At the beginning of your end step, create X copies of target creature you control with mana value 2 or less, where X is the number of spells with mana value 4 or greater you've cast this turn.
+
+Tsukon, Prideful Monarch
+rules_text: Ward {2}
+At the beginning of each upkeep, scry 2.
+Whenever an opponent draws their second card each turn, you draw a card.
+{3}: Put a nonland permanent card from your hand onto the battlefield. When you do, shuffle it into your library. => Ward {2}
+At the beginning of each upkeep, scry 1.
+Whenever an opponent draws their second card each turn, you draw a card.
+{3}: Put a nonland permanent card from your hand onto the battlefield. It gains haste until end of turn. When you do, shuffle it into your library.
+
+Quintorious, Mind Alight
+rules_text: You have no maximum hand size.
+Draw a card. If you control a Figment, instead, draw two.
+Put up to one target noncreature card from your graveyard on top of your library. Then, Imagine 2.
+Imagine X X times, where X is the number of cards in your hand. => Shuffle target instant or sorcery card in your graveyard into your library. Then, Imagine 2.
+Draw a card. If you control a Figment, instead, draw two.
+Exile all Figments you control. You may cast those cards without paying their mana costs until end of turn.
+
+
+VERSION 30 CHANGELOG
 ====================
 
 Adaman Nestguards added.

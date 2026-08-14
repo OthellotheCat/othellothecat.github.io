@@ -1750,7 +1750,7 @@
     },
     {
         "card_name": "Explosive Entrance",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1917,15 +1917,15 @@
     },
     {
         "card_name": "Flyby Razer",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
         "position": "181"
     },
     {
-        "card_name": "Food-Driven Centipede",
-        "number": 241,
+        "card_name": "Carnivorous Crawly",
+        "number": 238,
         "shape": "normal",
         "set": "WML",
         "rotated": false,
@@ -1958,7 +1958,7 @@
     },
     {
         "card_name": "Exuberant Orator",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "WML",
         "rotated": false,

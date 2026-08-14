@@ -123,7 +123,7 @@
 		{
 			"name": "Clueless Tax Collector",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Figment",
 			"collector_number": "7",
 			"image_uris": {
@@ -183,7 +183,7 @@
 		{
 			"name": "Prim Pal",
 			"rarity": "common",
-			"mana_cost": "{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Figment",
 			"collector_number": "26",
 			"image_uris": {
@@ -323,7 +323,7 @@
 		{
 			"name": "Sweet Dreams",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
@@ -1213,7 +1213,7 @@
 		{
 			"name": "Head In The Clouds",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
@@ -1263,7 +1263,7 @@
 		{
 			"name": "Insidious Idea",
 			"rarity": "common",
-			"mana_cost": "{U}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "55",
 			"image_uris": {
@@ -1303,7 +1303,7 @@
 		{
 			"name": "Head In The Mud",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
@@ -1313,7 +1313,7 @@
 		{
 			"name": "Refresh",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
@@ -1323,7 +1323,7 @@
 		{
 			"name": "Sky-High Recon",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
@@ -1613,7 +1613,7 @@
 		{
 			"name": "Head In The Trees",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "176",
 			"image_uris": {
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U/R}{U/R}",
 			"type": "Creature — Dragon Pirate",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/181.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Instant",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/185.png"
 			}
@@ -1871,11 +1871,11 @@
 			}
 		},
 		{
-			"name": "Food-Driven Centipede",
+			"name": "Carnivorous Crawly",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Insect",
-			"collector_number": "241",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/187.png"
 			}
@@ -1883,7 +1883,7 @@
 		{
 			"name": "Lost Hatchling",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R/G}{R/G}",
+			"mana_cost": "{3}{R/G}{R/G}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "244",
 			"image_uris": {
@@ -1955,7 +1955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Creature — Human",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/195.png"
 			}
@@ -2093,7 +2093,7 @@
 		{
 			"name": "Formaldehyde Soak",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
 			"collector_number": "51",
 			"image_uris": {
@@ -2303,7 +2303,7 @@
 		{
 			"name": "Energizing Cheer",
 			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{5}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
@@ -2383,7 +2383,7 @@
 		{
 			"name": "Rising Chorus",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "191",
 			"image_uris": {
@@ -3016,7 +3016,7 @@
 	4 Taunting Jockey
 	4 Explosive Entrance
 	4 Plump Bloatfly
-	4 Food-Driven Centipede
+	4 Carnivorous Crawly
 	4 Lost Hatchling
 	4 Adaman Tyrannosaur
 	4 Improvising Accountant
@@ -3450,7 +3450,7 @@
 	6 Taunting Jockey
 	6 Explosive Entrance
 	6 Plump Bloatfly
-	6 Food-Driven Centipede
+	6 Carnivorous Crawly
 	6 Lost Hatchling
 	6 Adaman Tyrannosaur
 	6 Improvising Accountant
@@ -3732,7 +3732,7 @@
 	15 Taunting Jockey
 	15 Explosive Entrance
 	15 Plump Bloatfly
-	15 Food-Driven Centipede
+	15 Carnivorous Crawly
 	15 Lost Hatchling
 	15 Adaman Tyrannosaur
 	15 Improvising Accountant
