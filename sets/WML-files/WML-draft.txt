@@ -1863,7 +1863,7 @@
 		{
 			"name": "Plump Bloatfly",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{B}{G}",
 			"type": "Creature — Insect",
 			"collector_number": "223",
 			"image_uris": {
@@ -1923,7 +1923,7 @@
 		{
 			"name": "Site Surveyor",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{W}",
+			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Kithkin Scout",
 			"collector_number": "231",
 			"image_uris": {
@@ -1973,7 +1973,7 @@
 		{
 			"name": "Cajoled Accomplice",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{R}",
+			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human",
 			"collector_number": "205",
 			"image_uris": {
@@ -1983,7 +1983,7 @@
 		{
 			"name": "Push Yourself",
 			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Instant",
 			"collector_number": "224",
 			"image_uris": {
@@ -1993,7 +1993,7 @@
 		{
 			"name": "Golodoff Wanderer",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Human Ranger",
 			"collector_number": "212",
 			"image_uris": {
@@ -2113,7 +2113,7 @@
 		{
 			"name": "Gunk Swimmer",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Creature — Elemental Fish",
 			"collector_number": "52",
 			"image_uris": {

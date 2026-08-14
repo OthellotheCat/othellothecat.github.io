@@ -1,4 +1,88 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+
+
+Inspired Symphonist
+rules_text: Whenever you cast a spell with mana value 4 or greater, you may put a +1/+1 counter on this creature. If you do, that spell can't be countered. Do this only once each turn. => As long as there are three or more counters on creatures you control, the first creature spell you cast each turn costs {2} less.
+pt: 1/3 => 2/3
+
+Head In The Clouds
+rules_text: Creature you control with counters on them gain flying until end of turn. If you control four or more creatures with counters on them, instead, put a flying counter on each of those creatures. => Creatures you control with counters on them gain flying until end of turn. If you control four or more creatures with counters on them, instead, put a flying counter on each of those creatures.
+
+Head In The Mud
+rules_text: Creature you control with counters on them gain hexproof until end of turn. If you control four or more creatures with counters on them, instead, put a hexproof counter on each of those creatures. => Creatures you control with counters on them gain hexproof until end of turn. If you control four or more creatures with counters on them, instead, put a hexproof counter on each of those creatures.
+
+Head In The Trees
+rules_text: Creature you control with counters on them gain trample until end of turn. If you control four or more creatures with counters on them, instead, put a trample counter on each of those creatures. => Creatures you control with counters on them gain trample until end of turn. If you control four or more creatures with counters on them, instead, put a trample counter on each of those creatures.
+
+Muckspitter
+rules_text: This spell costs {2} less if you cast a spell with mana value 4 or greater this turn.
+When this creature enters, shuffle target creature into its owner's library. => When this creature enters, Nurture a Fish. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)[/i]
+Creatures you control with counters on them get +1/+1.
+pt: 1/2 => 3/3
+
+Plump Bloatfly
+cost: {1}{B}{G} => {B}{G}
+rules_text: Flying, lifelink
+When this creature dies, you gain life equal to its toughness. => Flying, lifelink
+When this creature dies, create a 1/1 black and green Insect creature token.
+pt: 1/3 => 1/2
+
+Site Surveyor
+cost: {2}{G}{W} => {1}{G}{W}
+pt: 3/5 => 3/3
+
+Treehome Streamfisher
+rules_text: Affinity for creature tokens
+When this creature enters, choose one —
+• Untap up to two target lands.
+• Nurture a Fish twice. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control. Then do it again.)[/i] => Affinity for creature tokens
+When this creature enters, put a +1/+1 counter on up to two other creatures you control.
+
+Cajoled Accomplice
+cost: {2}{U}{R} => {1}{U}{R}
+pt: 3/4 => 3/3
+
+Push Yourself
+cost: {B}{R} => {2}{B}{R}
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Creatures you control get +1/+1 until end of turn. If you've beaten the dare, whenever a creature you control dies this turn, target opponent loses 1 life. => Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Creatures you control get +2/+1 until end of turn. If you've beaten the dare, whenever a creature you control dies this turn, target opponent loses 1 life.
+
+Golodoff Wanderer
+cost: {1}{B}{G} => {2}{B}{G}
+rules_text: Flash
+When this creature enters, you gain 2 life.
+This creature has hexproof and lifelink as long as your life total has changed this turn. => This creature doesn't untap during your untap step.
+Whenever your life total changes, untap this creature.
+Sacrifice a token: This creature gains lifelink until end of turn.
+pt: 2/2 => 5/5
+
+Gunk Swimmer
+cost: {3}{U} => {4}{U}
+rules_text: Ward {3}
+Whenever you cast a spell with mana value 4 or greater, Nurture a Fish twice. => When this creature enters, Nurture a Fish.
+Creatures you control with counters on them can't be blocked.
+pt: 1/1 => 2/2
+
+Megamuckfish
+rules_text: Trample
+Creatures you control with mana value 2 or less get +3/+3 and have trample.
+Whenever a noncreature land you control enters, Nurture a Forest Elemental. => Trample
+Creatures you control with mana value 2 or less get +3/+3 and have trample.
+Whenever a noncreature land you control enters, create a 1/1 green Forest Elemental land creature token.
+
+Mahaba, Gentle Yet Giant
+rules_text: Flash
+When Mahaba enters, Nurture a Forest Elemental.
+At the beginning of your end step, create X copies of target creature you control with mana value 2 or less, where X is the number of spells with mana value 4 or greater you've cast this turn. => Flash
+When Mahaba enters, Nurture a Forest Elemental.
+At the beginning of combat on your turn, for each creature you control with mana value 2 or less, set their base power and toughness to Mahaba's stats until end of turn.
+pt: 4/3 => 3/3
+
+
+VERSION 31 CHANGELOG
 ====================
 
 Carnivorous Crawly added.

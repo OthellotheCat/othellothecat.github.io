@@ -5,7 +5,7 @@
 			<name>WML</name>
 			<longname>Whimsaland: World of Wonder</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-13</releasedate>
+			<releasedate>2026-08-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -416,7 +416,7 @@ When this creature enters or leaves the battlefield, target opponent mills five 
 		</card>
 		<card>
 			<name>Inspired Symphonist</name>
-			<text>Whenever you cast a spell with mana value 4 or greater, you may put a +1/+1 counter on this creature. If you do, that spell can&apos;t be countered. Do this only once each turn.</text>
+			<text>As long as there are three or more counters on creatures you control, the first creature spell you cast each turn costs {2} less.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/23.png" num="56">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -427,7 +427,7 @@ When this creature enters or leaves the battlefield, target opponent mills five 
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/3</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2101,7 +2101,7 @@ When this creature enters, Nurture a Toy. (Create a 1/1 white and green Toy arti
 		</card>
 		<card>
 			<name>Head In The Clouds</name>
-			<text>Creature you control with counters on them gain flying until end of turn. If you control four or more creatures with counters on them, instead, put a flying counter on each of those creatures.</text>
+			<text>Creatures you control with counters on them gain flying until end of turn. If you control four or more creatures with counters on them, instead, put a flying counter on each of those creatures.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/121.png" num="19">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2252,7 +2252,7 @@ Gain control of target creature an opponent controls with mana value X or less u
 		</card>
 		<card>
 			<name>Head In The Mud</name>
-			<text>Creature you control with counters on them gain hexproof until end of turn. If you control four or more creatures with counters on them, instead, put a hexproof counter on each of those creatures.</text>
+			<text>Creatures you control with counters on them gain hexproof until end of turn. If you control four or more creatures with counters on them, instead, put a hexproof counter on each of those creatures.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/130.png" num="53">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2791,7 +2791,7 @@ When this creature enters, it fights up to one target creature an opponent contr
 		</card>
 		<card>
 			<name>Head In The Trees</name>
-			<text>Creature you control with counters on them gain trample until end of turn. If you control four or more creatures with counters on them, instead, put a trample counter on each of those creatures.</text>
+			<text>Creatures you control with counters on them gain trample until end of turn. If you control four or more creatures with counters on them, instead, put a trample counter on each of those creatures.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/161.png" num="176">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3171,8 +3171,8 @@ When this creature enters, choose one —
 		</card>
 		<card>
 			<name>Muckspitter</name>
-			<text>This spell costs {2} less if you cast a spell with mana value 4 or greater this turn.
-When this creature enters, shuffle target creature into its owner&apos;s library.</text>
+			<text>When this creature enters, Nurture a Fish. (Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)
+Creatures you control with counters on them get +1/+1.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/183.png" num="221">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3183,7 +3183,7 @@ When this creature enters, shuffle target creature into its owner&apos;s library
 				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>1/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3225,18 +3225,18 @@ Until end of turn, target attacking creature gets +3/+0 and trample.</text>
 		<card>
 			<name>Plump Bloatfly</name>
 			<text>Flying, lifelink
-When this creature dies, you gain life equal to its toughness.</text>
+When this creature dies, create a 1/1 black and green Insect creature token.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/186.png" num="223">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Insect</type>
 				<maintype>Creature</maintype>
-				<manacost>1BG</manacost>
-				<cmc>3</cmc>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>1/3</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3341,20 +3341,18 @@ Whenever you scry or surveil, put a +1/+1 counter on this creature.</text>
 				<side>front</side>
 				<type>Creature — Kithkin Scout</type>
 				<maintype>Creature</maintype>
-				<manacost>2GW</manacost>
-				<cmc>4</cmc>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
-				<pt>3/5</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Treehome Streamfisher</name>
 			<text>Affinity for creature tokens
-When this creature enters, choose one —
-• Untap up to two target lands.
-• Nurture a Fish twice. (Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control. Then do it again.)</text>
+When this creature enters, put a +1/+1 counter on up to two other creatures you control.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/193.png" num="247">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3431,26 +3429,26 @@ This creature&apos;s power is equal to the number of creature tokens and/or face
 				<side>front</side>
 				<type>Creature — Human</type>
 				<maintype>Creature</maintype>
-				<manacost>2UR</manacost>
-				<cmc>4</cmc>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Push Yourself</name>
 			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
-Creatures you control get +1/+1 until end of turn. If you&apos;ve beaten the dare, whenever a creature you control dies this turn, target opponent loses 1 life.</text>
+Creatures you control get +2/+1 until end of turn. If you&apos;ve beaten the dare, whenever a creature you control dies this turn, target opponent loses 1 life.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/198.png" num="224">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
@@ -3458,20 +3456,20 @@ Creatures you control get +1/+1 until end of turn. If you&apos;ve beaten the dar
 		</card>
 		<card>
 			<name>Golodoff Wanderer</name>
-			<text>Flash
-When this creature enters, you gain 2 life.
-This creature has hexproof and lifelink as long as your life total has changed this turn.</text>
+			<text>This creature doesn&apos;t untap during your untap step.
+Whenever your life total changes, untap this creature.
+Sacrifice a token: This creature gains lifelink until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/199.png" num="212">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Ranger</type>
 				<maintype>Creature</maintype>
-				<manacost>1BG</manacost>
-				<cmc>3</cmc>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>2/2</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3674,19 +3672,19 @@ Timeout — You have not cast any spells this turn.</text>
 		</card>
 		<card>
 			<name>Gunk Swimmer</name>
-			<text>Ward {3}
-Whenever you cast a spell with mana value 4 or greater, Nurture a Fish twice.</text>
+			<text>When this creature enters, Nurture a Fish.
+Creatures you control with counters on them can&apos;t be blocked.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/211.png" num="52">WML</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Elemental Fish</type>
 				<maintype>Creature</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4070,7 +4068,7 @@ During your postcombat main phase, instant and sorcery spells you cast cost {X} 
 			<name>Megamuckfish</name>
 			<text>Trample
 Creatures you control with mana value 2 or less get +3/+3 and have trample.
-Whenever a noncreature land you control enters, Nurture a Forest Elemental.</text>
+Whenever a noncreature land you control enters, create a 1/1 green Forest Elemental land creature token.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/233.png" num="185">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4352,7 +4350,7 @@ Whenever Jodie deals combat damage to a player, choose one that hasn&apos;t been
 			<name>Mahaba, Gentle Yet Giant</name>
 			<text>Flash
 When Mahaba enters, Nurture a Forest Elemental.
-At the beginning of your end step, create X copies of target creature you control with mana value 2 or less, where X is the number of spells with mana value 4 or greater you&apos;ve cast this turn.</text>
+At the beginning of combat on your turn, for each creature you control with mana value 2 or less, set their base power and toughness to Mahaba&apos;s stats until end of turn.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/249.png" num="219">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4363,7 +4361,7 @@ At the beginning of your end step, create X copies of target creature you contro
 				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>4/3</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
