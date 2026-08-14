@@ -4070,7 +4070,7 @@
             "cost": "{3}{GU}{GU}",
             "rules_text": "Affinity for creature tokens.\nWhen this creature enters, choose one \u2014\n\u2022 Untap up to two target lands.\n\u2022 Nurture a Fish twice. [i](Put a +1/+1 counter on target Fish you control, or create a 1/1 green and blue Fish creature token. Then do it again.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "WML",
@@ -4446,7 +4446,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Ward {3}\nWhenever you cast a spell with mana value 4 or greater, Nurture a Fish.\nWhenever another creature you control with mana value 4 or greater enters, Nurture a Fish.",
+            "rules_text": "Ward {3}\nWhenever you cast a spell with mana value 4 or greater, Nurture a Fish twice.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4754,14 +4754,14 @@
             "notes": ""
         },
         {
-            "card_name": "Adaman Nestguard",
+            "card_name": "Adaman Nestguards",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Dinosaur",
             "number": 121,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Creatures you control with less power than this creature have haste.\n{1}{R}: Target attacking creature with less power than this creature gets +1/+1 until end of turn.",
+            "rules_text": "Menace\nOther creatures you control with power 4 or greater have menace.\n{1}{R}: Each other creature you control gets +1/+1 until end of turn. Activate only once each turn and only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5244,7 +5244,7 @@
             "number": 219,
             "color_identity": "UG",
             "cost": "{1}{G}{U}{U}",
-            "rules_text": "Flash\nWhen Mahaba enters, Nurture a Forest. [i](Put a +1/+1 counter on target Forest you control, or create a 1/1 green Forest Elemental land creature token.)[/i]\nAt the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater.",
+            "rules_text": "Flash\nWhen Mahaba enters, Nurture a Forest.\nAt the beginning of your end step, create X copies of target creature you control with mana value 2 or less, where X is the number of spells with mana value 4 or greater you've cast this turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -6014,5 +6014,5 @@
             "notes": ""
         }
     ],
-    "version": 29
+    "version": 30
 }

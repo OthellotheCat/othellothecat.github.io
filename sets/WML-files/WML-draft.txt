@@ -2261,7 +2261,7 @@
 			}
 		},
 		{
-			"name": "Adaman Nestguard",
+			"name": "Adaman Nestguards",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Dinosaur",
@@ -3029,7 +3029,7 @@
 	4 Cajoled Accomplice
 	4 Push Yourself
 	4 Golodoff Wanderer
-	4 Adaman Nestguard
+	4 Adaman Nestguards
 [common(6)]
 	8 Silly Goose
 	8 Sneak a Peek
@@ -3489,7 +3489,7 @@
 	2 Harold, the Un-Forgotten
 	2 Pestering Fiddler
 	2 Fight Rigger
-	6 Adaman Nestguard
+	6 Adaman Nestguards
 	2 Dreaming Dino
 	2 Imagine Anything
 	2 Ruthless Exploiter
@@ -3771,7 +3771,7 @@
 	7 Harold, the Un-Forgotten
 	7 Pestering Fiddler
 	7 Fight Rigger
-	15 Adaman Nestguard
+	15 Adaman Nestguards
 	7 Dreaming Dino
 	7 Imagine Anything
 	7 Ruthless Exploiter

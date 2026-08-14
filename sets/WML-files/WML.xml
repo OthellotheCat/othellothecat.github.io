@@ -3363,7 +3363,7 @@ When this creature enters, choose one —
 				<cmc>5</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3672,8 +3672,7 @@ Timeout — You have not cast any spells this turn.</text>
 		<card>
 			<name>Gunk Swimmer</name>
 			<text>Ward {3}
-Whenever you cast a spell with mana value 4 or greater, Nurture a Fish.
-Whenever another creature you control with mana value 4 or greater enters, Nurture a Fish.</text>
+Whenever you cast a spell with mana value 4 or greater, Nurture a Fish twice.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/211.png" num="52">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3939,9 +3938,10 @@ At the beginning of combat on your turn, if an opponent controls three or more c
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Adaman Nestguard</name>
-			<text>Creatures you control with less power than this creature have haste.
-{1}{R}: Target attacking creature with less power than this creature gets +1/+1 until end of turn.</text>
+			<name>Adaman Nestguards</name>
+			<text>Menace
+Other creatures you control with power 4 or greater have menace.
+{1}{R}: Each other creature you control gets +1/+1 until end of turn. Activate only once each turn and only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/226.png" num="121">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4348,8 +4348,8 @@ Whenever Jodie deals combat damage to a player, choose one that hasn&apos;t been
 		<card>
 			<name>Mahaba, Gentle Yet Giant</name>
 			<text>Flash
-When Mahaba enters, Nurture a Forest. (Put a +1/+1 counter on target Forest you control, or create a 1/1 green Forest Elemental land creature token.)
-At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater.</text>
+When Mahaba enters, Nurture a Forest.
+At the beginning of your end step, create X copies of target creature you control with mana value 2 or less, where X is the number of spells with mana value 4 or greater you&apos;ve cast this turn.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/249.png" num="219">WML</set>
 			<prop>
 				<layout>normal</layout>

@@ -1,4 +1,28 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Adaman Nestguards added.
+
+Adaman Nestguard removed.
+
+Treehome Streamfisher
+pt: 2/1 => 2/2
+
+Gunk Swimmer
+rules_text: Ward {3}
+Whenever you cast a spell with mana value 4 or greater, Nurture a Fish.
+Whenever another creature you control with mana value 4 or greater enters, Nurture a Fish. => Ward {3}
+Whenever you cast a spell with mana value 4 or greater, Nurture a Fish twice.
+
+Mahaba, Gentle Yet Giant
+rules_text: Flash
+When Mahaba enters, Nurture a Forest. [i](Put a +1/+1 counter on target Forest you control, or create a 1/1 green Forest Elemental land creature token.)[/i]
+At the beginning of your upkeep, create X copies of target creature you control with mana value 2 or less, where X is the number of creatures you control with mana value 4 or greater. => Flash
+When Mahaba enters, Nurture a Forest.
+At the beginning of your end step, create X copies of target creature you control with mana value 2 or less, where X is the number of spells with mana value 4 or greater you've cast this turn.
+
+
+VERSION 29 CHANGELOG
 ====================
 
 
