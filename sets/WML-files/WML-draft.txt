@@ -1491,6 +1491,16 @@
 			}
 		},
 		{
+			"name": "Competitive Headbutter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/149.png"
+			}
+		},
+		{
 			"name": "Face the Flames",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
@@ -1991,6 +2001,266 @@
 			}
 		},
 		{
+			"name": "Artsy Giftmaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elephant Artificer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/200.png"
+			}
+		},
+		{
+			"name": "Hulking Repairdoll",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Toy Golem",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/201.png"
+			}
+		},
+		{
+			"name": "Play-Worn Soldier",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Toy Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/202.png"
+			}
+		},
+		{
+			"name": "Enduring Superstition",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/203.png"
+			}
+		},
+		{
+			"name": "Each Treehouse A Home",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/204.png"
+			}
+		},
+		{
+			"name": "Reassuring Pat",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/205.png"
+			}
+		},
+		{
+			"name": "Isolating Decree",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/206.png"
+			}
+		},
+		{
+			"name": "Augusta, Vigilant Chaperone",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Spirit Advisor",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/207.png"
+			}
+		},
+		{
+			"name": "Regifting Guest",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Reveler",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/208.png"
+			}
+		},
+		{
+			"name": "Formaldehyde Soak",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/209.png"
+			}
+		},
+		{
+			"name": "Envious Windsailor",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/210.png"
+			}
+		},
+		{
+			"name": "Gunk Swimmer",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elemental Fish",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/211.png"
+			}
+		},
+		{
+			"name": "Kukkyonan Moatguard",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Figment Knight",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/212.png"
+			}
+		},
+		{
+			"name": "Fond Memory",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Figment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/213.png"
+			}
+		},
+		{
+			"name": "Humiliating Demand",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/214.png"
+			}
+		},
+		{
+			"name": "Toothy, Consuming Thought",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Figment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/215.png"
+			}
+		},
+		{
+			"name": "Clumsy Admirer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Figment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/216.png"
+			}
+		},
+		{
+			"name": "Sadistic Assistant",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror Figment Scientist",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/217.png"
+			}
+		},
+		{
+			"name": "Watch The Explosions",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/218.png"
+			}
+		},
+		{
+			"name": "Squish The Guts",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/219.png"
+			}
+		},
+		{
+			"name": "Excessive Wealth",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/220.png"
+			}
+		},
+		{
+			"name": "Overcoming Fear",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/221.png"
+			}
+		},
+		{
+			"name": "Life-Saving Warning",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/222.png"
+			}
+		},
+		{
+			"name": "Harold, the Un-Forgotten",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Figment Warlock Villain",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/223.png"
+			}
+		},
+		{
+			"name": "Pestering Fiddler",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Crab Pirate Bard",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/224.png"
+			}
+		},
+		{
+			"name": "Fight Rigger",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior Performer",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/225.png"
+			}
+		},
+		{
 			"name": "Adaman Nestguards",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
@@ -1999,10 +2269,681 @@
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/226.png"
 			}
+		},
+		{
+			"name": "Dreaming Dino",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/227.png"
+			}
+		},
+		{
+			"name": "Imagine Anything",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/228.png"
+			}
+		},
+		{
+			"name": "Ruthless Exploiter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Devil",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/229.png"
+			}
+		},
+		{
+			"name": "Energizing Cheer",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/230.png"
+			}
+		},
+		{
+			"name": "Plargg, Still Spry",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Orc Shaman",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/231.png"
+			}
+		},
+		{
+			"name": "Mesmerizing Fractal",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fractal",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/232.png"
+			}
+		},
+		{
+			"name": "Megamuckfish",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elemental Fish",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/233.png"
+			}
+		},
+		{
+			"name": "Golodoff Broodmother",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/234.png"
+			}
+		},
+		{
+			"name": "Thoughtful Triceratops",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/235.png"
+			}
+		},
+		{
+			"name": "Toybox Training",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/236.png"
+			}
+		},
+		{
+			"name": "Lasting Trauma",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Horror Figment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/237.png"
+			}
+		},
+		{
+			"name": "Rising Chorus",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/238.png"
+			}
+		},
+		{
+			"name": "Pir, Wielder Of Whimsy",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/239.png"
+			}
+		},
+		{
+			"name": "Creative Block",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Toy",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/240.png"
+			}
+		},
+		{
+			"name": "Bottled Possibility",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/241.png"
+			}
+		},
+		{
+			"name": "Flags of Whimsy",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/242.png"
+			}
+		},
+		{
+			"name": "Yelena, Gift-Giver",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Reveler",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/243.png"
+			}
+		},
+		{
+			"name": "Austrin, Perfectionist",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/244.png"
+			}
+		},
+		{
+			"name": "Jaax, Excitable Prodigy",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Orc Sorcerer",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/245.png"
+			}
+		},
+		{
+			"name": "Stephen, Toybox Commander",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/246.png"
+			}
+		},
+		{
+			"name": "Catherine, Too Curious",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/247.png"
+			}
+		},
+		{
+			"name": "Jodie, Flashy Plunderer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Scorpion Dragon Pirate",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/248.png"
+			}
+		},
+		{
+			"name": "Mahaba, Gentle Yet Giant",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{U}",
+			"type": "Legendary Creature — Giant Shaman",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/249.png"
+			}
+		},
+		{
+			"name": "Minia, Crashing Through",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Azra Berserker Performer",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/250.png"
+			}
+		},
+		{
+			"name": "Darren, Bug Gourmand",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/251.png"
+			}
+		},
+		{
+			"name": "Salvatore, Wild Rancher",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/252.png"
+			}
+		},
+		{
+			"name": "Regal Realm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/253.png"
+			}
+		},
+		{
+			"name": "Verdant Realm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/254.png"
+			}
+		},
+		{
+			"name": "Torrential Realm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/255.png"
+			}
+		},
+		{
+			"name": "Untamed Realm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/256.png"
+			}
+		},
+		{
+			"name": "Ravenous Realm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/257.png"
+			}
+		},
+		{
+			"name": "Grand Stampede Leader",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/258.png"
+			}
+		},
+		{
+			"name": "Distractible Regimen",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Dog Knight",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/259.png"
+			}
+		},
+		{
+			"name": "Concept of the Protector",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cat Figment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/260.png"
+			}
+		},
+		{
+			"name": "Warden of the Gift Pile",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Figment Knight",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/261.png"
+			}
+		},
+		{
+			"name": "Mudslide",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/262.png"
+			}
+		},
+		{
+			"name": "Concept of the Bully",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Serpent Figment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/263.png"
+			}
+		},
+		{
+			"name": "Emboldening Coach",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Figment Advisor",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/264.png"
+			}
+		},
+		{
+			"name": "Cruel Prankster",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Devil",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/265.png"
+			}
+		},
+		{
+			"name": "Concept of the Monster",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror Figment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/266.png"
+			}
+		},
+		{
+			"name": "Remember Everything",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/267.png"
+			}
+		},
+		{
+			"name": "Immersion Therapist",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Creature — Figment Advisor",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/268.png"
+			}
+		},
+		{
+			"name": "Concept of the Playmate",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dinosaur Figment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/269.png"
+			}
+		},
+		{
+			"name": "Iron Stomach",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/270.png"
+			}
+		},
+		{
+			"name": "Song of Treehome",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/271.png"
+			}
+		},
+		{
+			"name": "Concept of the Caretaker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Treefolk Figment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/272.png"
+			}
+		},
+		{
+			"name": "Tsukon, Prideful Monarch",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/273.png"
+			}
+		},
+		{
+			"name": "Sean, Caroling Protector",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Kithkin Bard",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/274.png"
+			}
+		},
+		{
+			"name": "Shavida, Friend-Maker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human Ally",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/275.png"
+			}
+		},
+		{
+			"name": "Carla, Head of the Cliques",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Human Devil Advisor",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/276.png"
+			}
+		},
+		{
+			"name": "Gene, Surrounded by Terror",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Creature — Human Coward",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/277.png"
+			}
+		},
+		{
+			"name": "Quintorious, Mind Alight",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Planeswalker — Quintorious",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/278.png"
+			}
+		},
+		{
+			"name": "Figmata, Bringer of Whimsy",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Figment God",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/279.png"
+			}
+		},
+		{
+			"name": "The Forgetting",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Enchantment",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/280.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/281.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/282.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/283.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/284.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/WML-files/img/285.png"
+			}
 		}
 	]
 
 [rare(1)]
+	2 Competitive Headbutter
+	2 Artsy Giftmaker
+	2 Hulking Repairdoll
+	2 Play-Worn Soldier
+	2 Enduring Superstition
+	2 Each Treehouse A Home
+	2 Reassuring Pat
+	2 Isolating Decree
+	2 Augusta, Vigilant Chaperone
+	2 Regifting Guest
+	2 Formaldehyde Soak
+	2 Envious Windsailor
+	2 Gunk Swimmer
+	2 Kukkyonan Moatguard
+	2 Fond Memory
+	2 Humiliating Demand
+	2 Toothy, Consuming Thought
+	2 Clumsy Admirer
+	2 Sadistic Assistant
+	2 Watch The Explosions
+	2 Squish The Guts
+	2 Excessive Wealth
+	2 Overcoming Fear
+	2 Life-Saving Warning
+	2 Harold, the Un-Forgotten
+	2 Pestering Fiddler
+	2 Fight Rigger
+	2 Dreaming Dino
+	2 Imagine Anything
+	2 Ruthless Exploiter
+	2 Energizing Cheer
+	2 Plargg, Still Spry
+	2 Mesmerizing Fractal
+	2 Megamuckfish
+	2 Golodoff Broodmother
+	2 Thoughtful Triceratops
+	2 Toybox Training
+	2 Lasting Trauma
+	2 Rising Chorus
+	2 Pir, Wielder Of Whimsy
+	2 Creative Block
+	2 Bottled Possibility
+	2 Flags of Whimsy
+	2 Yelena, Gift-Giver
+	2 Austrin, Perfectionist
+	2 Jaax, Excitable Prodigy
+	2 Stephen, Toybox Commander
+	2 Catherine, Too Curious
+	2 Jodie, Flashy Plunderer
+	2 Mahaba, Gentle Yet Giant
+	2 Minia, Crashing Through
+	2 Darren, Bug Gourmand
+	2 Salvatore, Wild Rancher
+	2 Regal Realm
+	2 Verdant Realm
+	2 Torrential Realm
+	2 Untamed Realm
+	2 Ravenous Realm
+	1 Grand Stampede Leader
+	1 Distractible Regimen
+	1 Concept of the Protector
+	1 Warden of the Gift Pile
+	1 Mudslide
+	1 Concept of the Bully
+	1 Emboldening Coach
+	1 Cruel Prankster
+	1 Concept of the Monster
+	1 Remember Everything
+	1 Immersion Therapist
+	1 Concept of the Playmate
+	1 Iron Stomach
+	1 Song of Treehome
+	1 Concept of the Caretaker
+	1 Tsukon, Prideful Monarch
+	1 Sean, Caroling Protector
+	1 Shavida, Friend-Maker
+	1 Carla, Head of the Cliques
+	1 Gene, Surrounded by Terror
+	1 Quintorious, Mind Alight
+	1 Figmata, Bringer of Whimsy
+	1 The Forgetting
 [uncommon(3)]
 	4 Eager Cake Smasher
 	4 Aggressive Calming
@@ -2471,6 +3412,7 @@
 	6 Adaman Screecher
 	6 Mine To Burn
 	12 Desperate Brawl
+	2 Competitive Headbutter
 	6 Face the Flames
 	6 Adaman Rockstomper
 	6 Make It Faster
@@ -2521,7 +3463,87 @@
 	6 Cajoled Accomplice
 	6 Push Yourself
 	6 Golodoff Wanderer
+	2 Artsy Giftmaker
+	2 Hulking Repairdoll
+	2 Play-Worn Soldier
+	2 Enduring Superstition
+	2 Each Treehouse A Home
+	2 Reassuring Pat
+	2 Isolating Decree
+	2 Augusta, Vigilant Chaperone
+	2 Regifting Guest
+	2 Formaldehyde Soak
+	2 Envious Windsailor
+	2 Gunk Swimmer
+	2 Kukkyonan Moatguard
+	2 Fond Memory
+	2 Humiliating Demand
+	2 Toothy, Consuming Thought
+	2 Clumsy Admirer
+	2 Sadistic Assistant
+	2 Watch The Explosions
+	2 Squish The Guts
+	2 Excessive Wealth
+	2 Overcoming Fear
+	2 Life-Saving Warning
+	2 Harold, the Un-Forgotten
+	2 Pestering Fiddler
+	2 Fight Rigger
 	6 Adaman Nestguards
+	2 Dreaming Dino
+	2 Imagine Anything
+	2 Ruthless Exploiter
+	2 Energizing Cheer
+	2 Plargg, Still Spry
+	2 Mesmerizing Fractal
+	2 Megamuckfish
+	2 Golodoff Broodmother
+	2 Thoughtful Triceratops
+	2 Toybox Training
+	2 Lasting Trauma
+	2 Rising Chorus
+	2 Pir, Wielder Of Whimsy
+	2 Creative Block
+	2 Bottled Possibility
+	2 Flags of Whimsy
+	2 Yelena, Gift-Giver
+	2 Austrin, Perfectionist
+	2 Jaax, Excitable Prodigy
+	2 Stephen, Toybox Commander
+	2 Catherine, Too Curious
+	2 Jodie, Flashy Plunderer
+	2 Mahaba, Gentle Yet Giant
+	2 Minia, Crashing Through
+	2 Darren, Bug Gourmand
+	2 Salvatore, Wild Rancher
+	2 Regal Realm
+	2 Verdant Realm
+	2 Torrential Realm
+	2 Untamed Realm
+	2 Ravenous Realm
+	1 Grand Stampede Leader
+	1 Distractible Regimen
+	1 Concept of the Protector
+	1 Warden of the Gift Pile
+	1 Mudslide
+	1 Concept of the Bully
+	1 Emboldening Coach
+	1 Cruel Prankster
+	1 Concept of the Monster
+	1 Remember Everything
+	1 Immersion Therapist
+	1 Concept of the Playmate
+	1 Iron Stomach
+	1 Song of Treehome
+	1 Concept of the Caretaker
+	1 Tsukon, Prideful Monarch
+	1 Sean, Caroling Protector
+	1 Shavida, Friend-Maker
+	1 Carla, Head of the Cliques
+	1 Gene, Surrounded by Terror
+	1 Quintorious, Mind Alight
+	1 Figmata, Bringer of Whimsy
+	1 The Forgetting
 [wildcard(1)]
 	15 Eager Cake Smasher
 	6 Silly Goose
@@ -2672,6 +3694,7 @@
 	15 Adaman Screecher
 	15 Mine To Burn
 	6 Desperate Brawl
+	7 Competitive Headbutter
 	15 Face the Flames
 	15 Adaman Rockstomper
 	15 Make It Faster
@@ -2722,4 +3745,84 @@
 	15 Cajoled Accomplice
 	15 Push Yourself
 	15 Golodoff Wanderer
+	7 Artsy Giftmaker
+	7 Hulking Repairdoll
+	7 Play-Worn Soldier
+	7 Enduring Superstition
+	7 Each Treehouse A Home
+	7 Reassuring Pat
+	7 Isolating Decree
+	7 Augusta, Vigilant Chaperone
+	7 Regifting Guest
+	7 Formaldehyde Soak
+	7 Envious Windsailor
+	7 Gunk Swimmer
+	7 Kukkyonan Moatguard
+	7 Fond Memory
+	7 Humiliating Demand
+	7 Toothy, Consuming Thought
+	7 Clumsy Admirer
+	7 Sadistic Assistant
+	7 Watch The Explosions
+	7 Squish The Guts
+	7 Excessive Wealth
+	7 Overcoming Fear
+	7 Life-Saving Warning
+	7 Harold, the Un-Forgotten
+	7 Pestering Fiddler
+	7 Fight Rigger
 	15 Adaman Nestguards
+	7 Dreaming Dino
+	7 Imagine Anything
+	7 Ruthless Exploiter
+	7 Energizing Cheer
+	7 Plargg, Still Spry
+	7 Mesmerizing Fractal
+	7 Megamuckfish
+	7 Golodoff Broodmother
+	7 Thoughtful Triceratops
+	7 Toybox Training
+	7 Lasting Trauma
+	7 Rising Chorus
+	7 Pir, Wielder Of Whimsy
+	7 Creative Block
+	7 Bottled Possibility
+	7 Flags of Whimsy
+	7 Yelena, Gift-Giver
+	7 Austrin, Perfectionist
+	7 Jaax, Excitable Prodigy
+	7 Stephen, Toybox Commander
+	7 Catherine, Too Curious
+	7 Jodie, Flashy Plunderer
+	7 Mahaba, Gentle Yet Giant
+	7 Minia, Crashing Through
+	7 Darren, Bug Gourmand
+	7 Salvatore, Wild Rancher
+	7 Regal Realm
+	7 Verdant Realm
+	7 Torrential Realm
+	7 Untamed Realm
+	7 Ravenous Realm
+	4 Grand Stampede Leader
+	4 Distractible Regimen
+	4 Concept of the Protector
+	4 Warden of the Gift Pile
+	4 Mudslide
+	4 Concept of the Bully
+	4 Emboldening Coach
+	4 Cruel Prankster
+	4 Concept of the Monster
+	4 Remember Everything
+	4 Immersion Therapist
+	4 Concept of the Playmate
+	4 Iron Stomach
+	4 Song of Treehome
+	4 Concept of the Caretaker
+	4 Tsukon, Prideful Monarch
+	4 Sean, Caroling Protector
+	4 Shavida, Friend-Maker
+	4 Carla, Head of the Cliques
+	4 Gene, Surrounded by Terror
+	4 Quintorious, Mind Alight
+	4 Figmata, Bringer of Whimsy
+	4 The Forgetting

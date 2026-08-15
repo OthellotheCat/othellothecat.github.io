@@ -1,4 +1,91 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+Competitive Headbutter added.
+Artsy Giftmaker added.
+Hulking Repairdoll added.
+Play-Worn Soldier added.
+Enduring Superstition added.
+Each Treehouse A Home added.
+Reassuring Pat added.
+Isolating Decree added.
+Augusta, Vigilant Chaperone added.
+Regifting Guest added.
+Formaldehyde Soak added.
+Envious Windsailor added.
+Gunk Swimmer added.
+Kukkyonan Moatguard added.
+Fond Memory added.
+Humiliating Demand added.
+Toothy, Consuming Thought added.
+Clumsy Admirer added.
+Sadistic Assistant added.
+Watch The Explosions added.
+Squish The Guts added.
+Excessive Wealth added.
+Overcoming Fear added.
+Life-Saving Warning added.
+Harold, the Un-Forgotten added.
+Pestering Fiddler added.
+Fight Rigger added.
+Dreaming Dino added.
+Imagine Anything added.
+Ruthless Exploiter added.
+Energizing Cheer added.
+Plargg, Still Spry added.
+Mesmerizing Fractal added.
+Megamuckfish added.
+Golodoff Broodmother added.
+Thoughtful Triceratops added.
+Toybox Training added.
+Lasting Trauma added.
+Rising Chorus added.
+Pir, Wielder Of Whimsy added.
+Creative Block added.
+Bottled Possibility added.
+Flags of Whimsy added.
+Yelena, Gift-Giver added.
+Austrin, Perfectionist added.
+Jaax, Excitable Prodigy added.
+Stephen, Toybox Commander added.
+Catherine, Too Curious added.
+Jodie, Flashy Plunderer added.
+Mahaba, Gentle Yet Giant added.
+Minia, Crashing Through added.
+Darren, Bug Gourmand added.
+Salvatore, Wild Rancher added.
+Regal Realm added.
+Verdant Realm added.
+Torrential Realm added.
+Untamed Realm added.
+Ravenous Realm added.
+Grand Stampede Leader added.
+Distractible Regimen added.
+Concept of the Protector added.
+Warden of the Gift Pile added.
+Mudslide added.
+Concept of the Bully added.
+Emboldening Coach added.
+Cruel Prankster added.
+Concept of the Monster added.
+Remember Everything added.
+Immersion Therapist added.
+Concept of the Playmate added.
+Iron Stomach added.
+Song of Treehome added.
+Concept of the Caretaker added.
+Tsukon, Prideful Monarch added.
+Sean, Caroling Protector added.
+Shavida, Friend-Maker added.
+Carla, Head of the Cliques added.
+Gene, Surrounded by Terror added.
+Quintorious, Mind Alight added.
+Figmata, Bringer of Whimsy added.
+The Forgetting added.
+
+
+
+VERSION 34 CHANGELOG
 ====================
 
 
