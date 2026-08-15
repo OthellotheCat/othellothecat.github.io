@@ -1,4 +1,91 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+
+Competitive Headbutter removed.
+Artsy Giftmaker removed.
+Hulking Repairdoll removed.
+Play-Worn Soldier removed.
+Enduring Superstition removed.
+Each Treehouse A Home removed.
+Reassuring Pat removed.
+Isolating Decree removed.
+Augusta, Vigilant Chaperone removed.
+Regifting Guest removed.
+Formaldehyde Soak removed.
+Envious Windsailor removed.
+Gunk Swimmer removed.
+Kukkyonan Moatguard removed.
+Fond Memory removed.
+Humiliating Demand removed.
+Toothy, Consuming Thought removed.
+Clumsy Admirer removed.
+Sadistic Assistant removed.
+Watch The Explosions removed.
+Squish The Guts removed.
+Excessive Wealth removed.
+Overcoming Fear removed.
+Life-Saving Warning removed.
+Harold, the Un-Forgotten removed.
+Pestering Fiddler removed.
+Fight Rigger removed.
+Dreaming Dino removed.
+Imagine Anything removed.
+Ruthless Exploiter removed.
+Energizing Cheer removed.
+Plargg, Still Spry removed.
+Mesmerizing Fractal removed.
+Megamuckfish removed.
+Golodoff Broodmother removed.
+Thoughtful Triceratops removed.
+Toybox Training removed.
+Lasting Trauma removed.
+Rising Chorus removed.
+Pir, Wielder Of Whimsy removed.
+Creative Block removed.
+Bottled Possibility removed.
+Flags of Whimsy removed.
+Yelena, Gift-Giver removed.
+Austrin, Perfectionist removed.
+Jaax, Excitable Prodigy removed.
+Stephen, Toybox Commander removed.
+Catherine, Too Curious removed.
+Jodie, Flashy Plunderer removed.
+Mahaba, Gentle Yet Giant removed.
+Minia, Crashing Through removed.
+Darren, Bug Gourmand removed.
+Salvatore, Wild Rancher removed.
+Regal Realm removed.
+Verdant Realm removed.
+Torrential Realm removed.
+Untamed Realm removed.
+Ravenous Realm removed.
+Grand Stampede Leader removed.
+Distractible Regimen removed.
+Concept of the Protector removed.
+Warden of the Gift Pile removed.
+Mudslide removed.
+Concept of the Bully removed.
+Emboldening Coach removed.
+Cruel Prankster removed.
+Concept of the Monster removed.
+Remember Everything removed.
+Immersion Therapist removed.
+Concept of the Playmate removed.
+Iron Stomach removed.
+Song of Treehome removed.
+Concept of the Caretaker removed.
+Tsukon, Prideful Monarch removed.
+Sean, Caroling Protector removed.
+Shavida, Friend-Maker removed.
+Carla, Head of the Cliques removed.
+Gene, Surrounded by Terror removed.
+Quintorious, Mind Alight removed.
+Figmata, Bringer of Whimsy removed.
+The Forgetting removed.
+
+
+VERSION 33 CHANGELOG
 ====================
 
 
