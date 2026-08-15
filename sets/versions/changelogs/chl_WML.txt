@@ -1,4 +1,27 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+
+
+Pull At The Legs
+rules_text: Target player mills X cards. Then, you may put up to one target nonland permanent card from a graveyard with mana value 3 or less onto the battlefield under your control. => Target player mills X cards. Then, you may return up to one target creature card from your graveyard with mana value 3 or less to the battlefield.
+
+Megamuckfish
+rules_text: Trample
+Creatures you control with mana value 2 or less get +3/+3 and have trample.
+Whenever a noncreature land you control enters, create a 1/1 green Forest Elemental land creature token. => Trample
+Land creatures you control get +3/+3 and have trample.
+Whenever a noncreature land you control enters, create a 1/1 green Forest Elemental land creature token.
+
+Mahaba, Gentle Yet Giant
+rules_text: Flash
+When Mahaba enters, Nurture a Forest Elemental.
+At the beginning of combat on your turn, for each creature you control with mana value 2 or less, set their base power and toughness to Mahaba's stats until end of turn. => Flash
+When Mahaba enters, Nurture a Forest Elemental.
+When Mahaba attacks, for each creature you control with mana value 2 or less, set their base power and toughness to Mahaba's stats until end of turn.
+
+
+VERSION 32 CHANGELOG
 ====================
 
 
