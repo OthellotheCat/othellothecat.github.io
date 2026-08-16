@@ -1,4 +1,238 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+Carla's Extortionist added.
+
+Carla's Backup removed.
+
+Sneak a Peek
+
+Threadbare Dolly
+
+Bump the Shelf
+
+Rethink
+
+Kick Sand
+rules_text: Kick Sand deals 3 damage to target attacking or blocking creature. If it would die this turn, exile it instead. => Kick Sand deals 2 damage to target attacking or blocking creature. If it would die this turn, exile it instead.
+
+Collaborate
+
+Clueless Tax Collector
+
+Aggressive Calming
+
+Party Popper
+rules_text: Flying 
+When this creature enters or leaves the battlefield, tap or untap up to one target creature or artifact.
+Surprise {1}{U} [i](You may pay {1}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i] => Flying 
+When this creature enters or leaves the battlefield, tap or untap up to one target creature or artifact.
+Surprise {2}{U} [i](You may pay {2}{U} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Cake Inspector
+
+Scold
+rules_text: Enchant target creature
+When this Aura enters, tap enchanted creature and remove all counters from it.
+Enchanted creature loses all abilities, can't gain counters, and can't attack or block. => Enchant creature
+When this Aura enters, tap enchanted creature and remove all counters from it.
+Enchanted creature loses all abilities, can't gain counters, and can't attack or block.
+
+Behavioral Analysis
+
+Role-Call Leader
+
+Sweet Dreams
+
+Slimy Muckfry
+
+Hamfisted Hogger
+
+Ungrateful Snob
+
+Forced to Forget
+
+Bug Burps
+rules_text: The first time your life total changes each turn, create a 1/2 black and green Spider creature token with reach.
+{B}, Sacrifice a token: You gain 3 life. => The first time your life total changes on each of your turns, create a 1/2 black and green Spider creature token with reach.
+{1}{B}, Sacrifice a token: You gain 3 life. Activate only as a sorcery.
+
+Slap
+
+Gossip Girl
+
+Unsettling Phobia
+
+A Little Too Loud
+type: Sorcery => Instant
+cost: {1}{R} => {R}
+rules_text: Target creature you control gets +3/+0 until end of turn and deals 1 damage to target creature. => Target blocked creature you control gets +4/+0 until end of turn.
+
+Titan Goader
+
+Whirling Knifestorm
+
+Aspiring Tyrant
+rules_text: When this creature enters, imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => When this creature enters, you may discard a card. If you do, imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Bonk!
+
+Grind the Heel
+rules_text: Grind the Heel deals 3 damage to target creature or planeswalker. If that permanent dies this turn, you may draw a card. If you do, discard a card. => Target creature must attack each combat this turn if able. If that creature dies this turn, you may draw a card. If you do, discard a card.
+
+Scarred Braggart
+type: Creature — Goblin => Creature — Goblin Berserker Performer
+
+Rad Stunts
+
+Natural Green Thumb
+
+Fragrant Stinkbug
+
+Honeypot
+rules_text: Choose one—
+• Draw a card and gain 2 life.
+• Create a 1/1 black and green Insect creature token. => Choose one—
+• Draw a card and you gain 2 life.
+• Create a 1/1 black and green Insect creature token.
+
+Oblivious Brontosaur
+
+Adaman Charger
+
+Bursting Sac
+
+Great Stick
+
+Telekaleidoscope
+
+Gift-Wrapped
+
+Make It Louder
+rules_text: Imagine 3. Then, creatures you control get +2/+0 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Imagine 2. Then, creatures you control get +1/+0 until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Blueprint Messenger
+
+Huggable Goofball
+
+Insidious Idea
+
+Put In Timeout
+
+Refresh
+
+Amused Onlooker
+
+Shadowy Remnant
+
+Deceitful Generosity
+rules_text: {1}{B}: Each player loses 1 life and draws a card. Activate only once each turn. => {1}: Each player loses 1 life and draws a card. Activate only once each turn.
+
+Lightning-Breathing Dragon
+rules_text: Flying, haste
+Whenever you cast an instant or sorcery spell, you may pay {1}{R}. If you do, this creature deals 3 damage to target creature. => Flying, haste
+Whenever you cast an instant or sorcery spell, you may pay {R}. If you do, this creature deals 3 damage to target creature.
+
+Desperate Brawl
+
+Competitive Headbutter
+
+Make It Faster
+rules_text: Imagine 3. Then, creatures you control gain first strike until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Imagine 2. Then, creatures you control gain first strike until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Knock Some Sense Into You
+
+Make It Bigger
+rules_text: Imagine 3. Then, creatures you control get +0/+3 until end of turn. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Imagine 2. Then, creatures you control get +0/+2 until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Unwanted Reminder
+
+Figmatog
+
+Cardboard Fortress
+
+Scaredy Kitten
+pt: 2/3 => 1/3
+
+Party Planner
+
+Campfire Mystic
+
+Scattered Thought
+
+Taunting Jockey
+pt: 3/2 => 3/1
+
+Explosive Entrance
+
+Plump Bloatfly
+
+Improvising Accountant
+
+Treehome Streamfisher
+
+Hand Smasher
+
+Cajoled Accomplice
+
+Play-Worn Soldier
+
+Enduring Superstition
+rules_text: Flash
+Enchant creature
+When this Aura becomes attached to a creature, enchanted creature gains indestructible until end of turn.
+Remove a counter from enchanted creature: Attach this Aura to another target creature. Activate only as a sorcery. => Flash
+Enchant creature you control
+When this Aura becomes attached to a creature, enchanted creature gains indestructible until end of turn.
+Remove a counter from enchanted creature: Attach this Aura to another target creature you control. Activate only as a sorcery.
+
+Each Treehouse A Home
+cost: {3}{W} => {2}{W}
+
+Reassuring Pat
+
+Regifting Guest
+
+Gunk Swimmer
+
+Watch The Explosions
+
+Pestering Fiddler
+
+Dreaming Dino
+
+Mesmerizing Fractal
+
+Toybox Training
+
+Lasting Trauma
+
+Flags of Whimsy
+rules_text: When this artifact enters, choose a creature type.
+{T}: Add two mana of any color. Spend this only to cast spells or activate abilities of permanents of the chosen type. => When this artifact enters, choose a card type.
+{T}: Add two mana of any color. Spend this only to cast spells of the chosen type.
+
+Catherine, Too Curious
+
+Immersion Therapist
+
+Iron Stomach
+
+Tsukon, Prideful Monarch
+rules_text: Ward {2}
+At the beginning of each upkeep, scry 1.
+Whenever an opponent draws their second card each turn, you draw a card.
+{3}: Put a nonland permanent card from your hand onto the battlefield. It gains haste until end of turn. When you do, shuffle it into your library. => Ward {2}
+At the beginning of each upkeep, scry 1.
+Whenever an opponent draws their second card each turn, you draw a card.
+{2}: Put a nonland permanent card from your hand onto the battlefield. It gains haste until end of turn. When you do, shuffle it into your library.
+pt: 1/4 => 2/4
+
+Gene, Surrounded by Terror
+pt: 0/5 => 0/3
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Competitive Headbutter added.
