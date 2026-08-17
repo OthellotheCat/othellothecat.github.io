@@ -1,4 +1,273 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+
+
+Slippery Streamfish
+rules_text: {2}{W}, {T}: Imagine 4. Shuffle this creature into its owner's library. Activate only as a sorcery. [i](Put the top card of your library face down as a 4/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => {2}{W}, {T}: Imagine 4. Shuffle this creature into its owner's library. Activate only as a sorcery. [i](Put the top card of your library face down on the battlefield as a 4/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Hamfisted Hogger
+cost: {3}{B} => {2}{B}
+pt: 3/7 => 2/5
+
+Oilbelcher
+cost: {2}{B} => {3}{B}
+pt: 3/1 => 3/3
+
+Antsy Showboater
+rules_text: Deathtouch
+Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+{5}{B}: This creature must be blocked each combat this turn if able. Activate only if you have beaten the dare. => Deathtouch
+Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+{5}{B}: This creature must be blocked each combat this turn if able. Activate only if you have beaten the dare.
+
+Tryharding Tumbler
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +2/+1 if you have beaten the dare. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +2/+1 if you have beaten the dare.
+
+Aspiring Tyrant
+rules_text: When this creature enters, you may discard a card. If you do, imagine 1. [i](Put the top card of your library face down as a 1/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => When this creature enters, you may discard a card. If you do, imagine 1. [i](Put the top card of your library face down on the battlefield as a 1/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Dynamite Dino
+rules_text: Trample
+Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +3/+3 if you have beaten the dare. => Trample
+Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +3/+3 if you have beaten the dare.
+
+Believe In Yourself
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Target creature gets +3/+3 until end of turn. If you have beaten the dare, instead, put three +1/+1 counters on target creature. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Target creature gets +3/+3 until end of turn. If you have beaten the dare, instead, put three +1/+1 counters on target creature.
+
+Make Something New
+rules_text: Destroy target artifact or enchantment. If you were its controller, imagine 3. [i](Put the top card of your library face down as a 3/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Destroy target artifact or enchantment. If you were its controller, imagine 3. [i](Put the top card of your library face down on the battlefield as a 3/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Make It Louder
+rules_text: Imagine 2. Then, creatures you control get +1/+0 until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Imagine 2. Then, creatures you control get +1/+0 until end of turn. [i](Put the top card of your library face down on the battlefield as a 2/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Pleasant Surprise
+rules_text: Exile target nonland permanent you control, then return it to the battlefield under its owner's control tapped. If the permanent has surprise, draw a card. => Exile target creature you control, then return it to the battlefield tapped under its owner's control. If the permanent has surprise, draw a card.
+
+Face Your Fears
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Until end of turn, target creature gains deathtouch and indestructible.
+• Until end of turn, target creature gets +2/+2 and gains lifelink. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Until end of turn, target creature gains deathtouch and indestructible.
+• Until end of turn, target creature gets +2/+2 and gains lifelink.
+
+Face the Flames
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Face the Flames deals 3 damage to target creature.
+• Face the Flames deals 1 damage to up to two different target creatures. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Face the Flames deals 3 damage to target creature.
+• Face the Flames deals 1 damage to up to two different target creatures.
+
+Make It Faster
+rules_text: Imagine 2. Then, creatures you control gain first strike until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Imagine 2. Then, creatures you control gain first strike until end of turn. [i](Put the top card of your library face down on the battlefield as a 2/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Face the Feast
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Create a 1/2 black and green Spider creature token with reach.
+• You gain X life, where X is the number of creatures you control. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Choose one. If you have beaten the dare, you may choose both —
+• Create a 1/2 black and green Spider creature token with reach.
+• You gain X life, where X is the number of creatures you control.
+
+Make It Bigger
+rules_text: Imagine 2. Then, creatures you control get +0/+2 until end of turn. [i](Put the top card of your library face down as a 2/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => Imagine 2. Then, creatures you control get +0/+2 until end of turn. [i](Put the top card of your library face down on the battlefield as a 2/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Sneaky Beetle
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
+{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
+{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.
+
+Scattered Thought
+rules_text: Menace
+Whenever you discard one or more cards, target creature an opponent controls can't block until end of turn. => Vigilance
+Whenever you discard one or more cards, target creature an opponent controls can't attack or block until end of turn.
+
+Ambitious Twins
+rules_text: When this creature enters, create a 2/2 green Dinosaur creature token.
+{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. [i](Put the top card of your library face down as a 6/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i] => When this creature enters, create a 2/2 green Dinosaur creature token.
+{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. [i](Put the top card of your library face down on the battlefield as a 6/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Push Yourself
+rules_text: Dare [i](Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Creatures you control get +2/+1 until end of turn. If you've beaten the dare, whenever a creature you control dies this turn, target opponent loses 1 life. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Creatures you control get +2/+1 until end of turn. If you've beaten the dare, whenever a creature you control dies this turn, target opponent loses 1 life.
+
+Hulking Repairdoll
+rules_text: Lifelink
+When this creature leaves the battlefield, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+{4}{W}, {T}, Sacrifice this creature: Draw cards equal to the amount of life you've gained this turn.
+Surprise {2}{W} => Lifelink
+When this creature leaves the battlefield, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+{4}{W}, {T}, Sacrifice this creature: Draw cards equal to the amount of life you've gained this turn.
+Surprise {2}{W} [i](You may pay {2}{W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Formaldehyde Soak
+rules_text: When this enchantment enters, if it was cast from exile, put target creature on the top of its owner's library. Otherwise, return target creature to its owner's hand.
+At the start of combat each turn, tap target creature an opponent controls.
+Timeout — One or more opponents control more creatures than you. => When this enchantment enters, if it was cast from exile, put target creature on the top of its owner's library. Otherwise, return target creature to its owner's hand.
+At the start of combat each turn, up to one target creature gets -4/-0 and its controller mills three cards.
+Timeout — One or more opponents control more creatures than you. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Envious Windsailor
+rules_text: Flying
+When this creature enters, choose an opponent. If that opponent has more cards in hand than you, draw cards equal to the difference.
+Timeout — You have not cast any spells this turn. => Flying
+When this creature enters, choose an opponent. If that opponent has more cards in hand than you, draw cards equal to the difference.
+Timeout — You have not cast any spells this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Gunk Swimmer
+rules_text: When this creature enters, Nurture a Fish.
+Creatures you control with counters on them can't be blocked. => When this creature enters, Nurture a Fish. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)[/i]
+Creatures you control with counters on them can't be blocked.
+
+Toothy, Consuming Thought
+rules_text: Whenever you discard a nonland card, you may discard it into exile. If you do, it gains “Timeout — A creature you control named Toothy, Consuming Thought has three or more +1/+1 counters.” as long as it is in exile.
+{U}, Discard a card: Put a +1/+1 counter on Toothy.
+{1}{U}, Remove a +1/+1 counter from Toothy: Draw a card. => Whenever you discard a nonland card, you may discard it into exile.
+You may cast any cards you have discarded into exile as long as Toothy has three or more +1/+1 counters.
+{U}, Discard a card: Put a +1/+1 counter on Toothy.
+{1}{U}, Remove a +1/+1 counter from Toothy: Draw a card.
+
+Clumsy Admirer
+rules_text: When this creature leaves the battlefield, if it entered this turn, search your library for an artifact or creature card, reveal it, put it into your hand, then shuffle.
+Surprise {2}{B} => When this creature leaves the battlefield, if it entered this turn, search your library for an artifact or creature card, reveal it, put it into your hand, then shuffle.
+Surprise {2}{B} [i](You may pay {2}{B} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Sadistic Assistant
+rules_text: Deathtouch
+When this creature attacks, you may discard a card. Then if a player has discarded a card this turn, return up to one nonland, noncreature card from your graveyard to your hand.
+Timeout — One or more creatures have died this turn. => Deathtouch
+When this creature attacks, you may discard a card. Then if a player has discarded a card this turn, return up to one nonland, noncreature card from your graveyard to your hand.
+Timeout — One or more creatures have died this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Watch The Explosions
+rules_text: Dare
+Destroy all creatures. If you have beaten the dare, instead, destroy all creatures target player controls. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Destroy all creatures. If you have beaten the dare, instead, destroy all creatures target player controls.
+
+Squish The Guts
+rules_text: Dare
+Target opponent loses 4 life. If you have beaten the dare, instead, target opponent loses life equal to the different between your life total and theirs. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Target opponent loses 4 life. If you have beaten the dare, instead, target opponent loses life equal to the different between your life total and theirs.
+
+Harold, the Un-Forgotten
+rules_text: When Harold enters, each player loses 2 life.
+When Harold leaves the battlefield, you may sacrifice a creature. If you do, exile Harold. When you do, draw a card and put Harold on the top of your library.
+Surprise {B} => When Harold enters, each player loses 2 life.
+When Harold leaves the battlefield, you may sacrifice a creature. If you do, exile Harold. When you do, draw a card and put Harold on the top of your library.
+Surprise {B} [i](You may pay {B} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Dreaming Dino
+rules_text: Whenever you imagine, increase the value you imagine by one.
+{X}{X}, {T}: Imagine X. X can't be 0. => Whenever you imagine, increase the value you imagine by one.
+{X}{X}, {T}: Imagine X. X can't be 0. [i](Put the top card of your library face down on the battlefield as a X/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Imagine Anything
+rules_text: When this enchantment enters, imagine 4.
+Whenever you cast a creature spell for less mana than its mana value, it enters with additional +/+1 counters equal to the difference. => When this enchantment enters, imagine 4. [i](Put the top card of your library face down on the battlefield as a 4/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+Whenever you cast a creature spell for less mana than its mana value, it enters with additional +/+1 counters equal to the difference.
+
+Ruthless Exploiter
+rules_text: When you cast this spell from exile, it enters with haste.
+Whenever damage would be dealt to this creature, you may discard a card. If you do not, the damage is dealt to you instead.
+{T}: Add {R}.
+Timeout — You have fewer lands than your opponent. => Whenever damage would be dealt to this creature, you may discard a card. If you do not, the damage is dealt to you instead.
+{T}: Add {R}.
+Timeout — You have fewer lands than your opponent. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Flags of Whimsy
+rules_text: When this artifact enters, choose a card type.
+{T}: Add two mana of any color. Spend this only to cast spells of the chosen type. => When this artifact enters, choose a card type. [i](Creature, artifact, enchantment, land, instant, sorcery, planeswalker, battle and kindred are all cards types.)[/i]
+{T}: Add two mana of any color. Spend this only to cast spells of the chosen type.
+
+Mahaba, Gentle Yet Giant
+rules_text: Flash
+When Mahaba enters, Nurture a Forest Elemental.
+When Mahaba attacks, for each creature you control with mana value 2 or less, set their base power and toughness to Mahaba's stats until end of turn. => Flash
+When Mahaba enters, Nurture a Forest Elemental. [i](Create a 1/1 green Forest Elemental creature token. If you already control one, instead, put a +1/+1 counter on target Forest Elemental you control.)[/i]
+When Mahaba attacks, for each creature you control with mana value 2 or less, set their base power and toughness to total Mahaba's stats until end of turn.
+
+Minia, Crashing Through
+rules_text: Deathtouch, trample
+Dare
+Minia has indestructible if you have beaten the dare.
+Whenever Minia becomes blocked by one or more creatures with greater power than her, choose a creature she is being blocked by. Minia gets +X/+0 until end of turn, where X is the chosen creature's power. => Deathtouch, trample
+Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Minia has indestructible if you have beaten the dare.
+Whenever Minia becomes blocked by one or more creatures with greater power than her, choose a creature she is being blocked by. Minia gets +X/+0 until end of turn, where X is the chosen creature's power.
+
+Salvatore, Wild Rancher
+rules_text: Trample
+At the beginning of your upkeep, imagine 4. [i](Put the top card of your library face down as a 4/1 Figment creature that's all colors that has “{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+Other creatures you control with power 4 or greater get +0/+3 and have trample. => Trample
+At the beginning of your upkeep, imagine 4. [i](Put the top card of your library face down on the battlefield as a 4/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+Other creatures you control with power 4 or greater get +0/+3 and have trample.
+
+Distractible Regimen
+rules_text: Vigilance
+When this creature enters, create two tapped 2/2 white Dog Knight creature tokens with vigilance and a stun counter.
+Surprise {1}{W} => Vigilance
+When this creature enters, create two tapped 2/2 white Dog Knight creature tokens with vigilance and a stun counter.
+Surprise {1}{W} [i](You may pay {1}{W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Emboldening Coach
+rules_text: Deathtouch
+Dare
+If you have beaten the dare, creatures you control with deathtouch have trample.
+{1}{B}: Until end of turn, target creature you control gets +2/+0 and gains deathtouch. Activate only once each turn and only as a sorcery. => Deathtouch
+Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+If you have beaten the dare, creatures you control with deathtouch have trample.
+{1}{B}: Until end of turn, target creature you control gets +2/+0 and gains deathtouch. Activate only once each turn and only as a sorcery.
+
+Cruel Prankster
+rules_text: When this creature enters, choose target opponent. Until the beginning of your next upkeep, whenever the chosen opponent draws a card, they lose 2 life.
+When this creature leaves the battlefield, each player draws a card.
+Surprise {B} => When this creature enters, choose target opponent. Until the beginning of your next upkeep, whenever the chosen opponent draws a card, they lose 2 life.
+When this creature leaves the battlefield, each player draws a card.
+Surprise {B} [i](You may pay {B} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)[/i]
+
+Immersion Therapist
+rules_text: Dare
+If you have beaten the dare, whenever a creature you control enters, you may discard a card. If you do, draw a card. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+If you have beaten the dare, whenever a creature you control enters, you may discard a card. If you do, draw a card.
+
+Shavida, Friend-Maker
+rules_text: Whenever a Figment you control enters, put a friend counter on Shavida.
+At the beginning of your first postcombat main phase on each of your turns, if Shavida has three or more friend counters, remove them,ntap each creature that attacked this turn, and there is another combat phase and postcombat main phase after this phase.
+{R}{G}{W}, {T}: Imagine 3. Activate only on your turn. => At the beginning of your first postcombat main phase each turn, if three or more Figments you control entered this turn, untap all creatures that attacked this turn. There is another combat phase after this one followed by another main phase.
+{R}{G}{W}, {T}: Imagine 3. Activate only on your turn. [i](Put the top card of your library face down on the battlefield as a 3/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+
+Quintorious, Mind Alight
+rules_text: Shuffle target instant or sorcery card in your graveyard into your library. Then, Imagine 2.
+Draw a card. If you control a Figment, instead, draw two.
+Exile all Figments you control. You may cast those cards without paying their mana costs until end of turn. => Imagine 2. [i](Put the top card of your library face down on the battlefield as a 2/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+Shuffle up to two target instant and/or sorcery cards from your graveyard into your library. Then draw a card.
+Exile all Figments you control. You may cast those cards without paying their mana costs until end of turn.
+
+Figmata, Bringer of Whimsy
+rules_text: Indestructible
+Other Figments you control have indestructible.
+When this creature enters, imagine 10.
+{W}{U}{B}{R}{G}, {T}: Imagine 10. Activate only as a sorcery. => Indestructible
+Other Figments you control have indestructible.
+When this creature enters, imagine 10. [i](Put the top card of your library face down on the battlefield as a 10/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+{W}{U}{B}{R}{G}, {T}: Imagine 10. Activate only as a sorcery.
+
+
+VERSION 36 CHANGELOG
 ====================
 
 Carla's Extortionist added.

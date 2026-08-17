@@ -383,7 +383,7 @@
 		{
 			"name": "Hamfisted Hogger",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Human",
 			"collector_number": "99",
 			"image_uris": {
@@ -433,7 +433,7 @@
 		{
 			"name": "Oilbelcher",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Creature — Lizard Devil Berserker",
 			"collector_number": "107",
 			"image_uris": {

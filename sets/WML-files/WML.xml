@@ -5,7 +5,7 @@
 			<name>WML</name>
 			<longname>Whimsaland: World of Wonder</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-15</releasedate>
+			<releasedate>2026-08-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -276,7 +276,7 @@ Surprise {W} (You may pay {W} to put this card onto the battlefield from your ha
 		</card>
 		<card>
 			<name>Slippery Streamfish</name>
-			<text>{2}{W}, {T}: Imagine 4. Shuffle this creature into its owner&apos;s library. Activate only as a sorcery. (Put the top card of your library face down as a 4/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
+			<text>{2}{W}, {T}: Imagine 4. Shuffle this creature into its owner&apos;s library. Activate only as a sorcery. (Put the top card of your library face down on the battlefield as a 4/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/15.png" num="31">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -680,11 +680,11 @@ When this creature enters, shuffle target creature you control into its owner&ap
 				<side>front</side>
 				<type>Creature — Human</type>
 				<maintype>Creature</maintype>
-				<manacost>3B</manacost>
-				<cmc>4</cmc>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/7</pt>
+				<pt>2/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -768,11 +768,11 @@ Whenever this creature becomes blocked, you may discard a card. If you do, draw 
 				<side>front</side>
 				<type>Creature — Lizard Devil Berserker</type>
 				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/1</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -795,7 +795,7 @@ Whenever this creature becomes blocked, you may discard a card. If you do, draw 
 		<card>
 			<name>Antsy Showboater</name>
 			<text>Deathtouch
-Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 {5}{B}: This creature must be blocked each combat this turn if able. Activate only if you have beaten the dare.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/45.png" num="81">WML</set>
 			<prop>
@@ -1106,7 +1106,7 @@ Timeout — You have three or more cards in hand. (If you discard this card, you
 		</card>
 		<card>
 			<name>Tryharding Tumbler</name>
-			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 This creature gets +2/+1 if you have beaten the dare.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/63.png" num="159">WML</set>
 			<prop>
@@ -1158,7 +1158,7 @@ This creature gets +2/+1 if you have beaten the dare.</text>
 		</card>
 		<card>
 			<name>Aspiring Tyrant</name>
-			<text>When this creature enters, you may discard a card. If you do, imagine 1. (Put the top card of your library face down as a 1/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
+			<text>When this creature enters, you may discard a card. If you do, imagine 1. (Put the top card of your library face down on the battlefield as a 1/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/66.png" num="124">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1192,7 +1192,7 @@ This creature gets +2/+1 if you have beaten the dare.</text>
 		<card>
 			<name>Dynamite Dino</name>
 			<text>Trample
-Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 This creature gets +3/+3 if you have beaten the dare.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/68.png" num="134">WML</set>
 			<prop>
@@ -1523,7 +1523,7 @@ This creature can only block creatures with flying.</text>
 		</card>
 		<card>
 			<name>Believe In Yourself</name>
-			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Target creature gets +3/+3 until end of turn. If you have beaten the dare, instead, put three +1/+1 counters on target creature.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/87.png" num="163">WML</set>
 			<prop>
@@ -1613,7 +1613,7 @@ When this creature enters, create a Food token.
 		</card>
 		<card>
 			<name>Make Something New</name>
-			<text>Destroy target artifact or enchantment. If you were its controller, imagine 3. (Put the top card of your library face down as a 3/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
+			<text>Destroy target artifact or enchantment. If you were its controller, imagine 3. (Put the top card of your library face down on the battlefield as a 3/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/92.png" num="184">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2067,7 +2067,7 @@ When this creature deals combat damage to an opponent, you may pay {2}{W}. If yo
 		</card>
 		<card>
 			<name>Make It Louder</name>
-			<text>Imagine 2. Then, creatures you control get +1/+0 until end of turn. (Put the top card of your library face down as a 2/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
+			<text>Imagine 2. Then, creatures you control get +1/+0 until end of turn. (Put the top card of your library face down on the battlefield as a 2/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/119.png" num="24">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2168,7 +2168,7 @@ When this creature attacks, if you control an artifact, creatures you control ge
 		</card>
 		<card>
 			<name>Pleasant Surprise</name>
-			<text>Exile target nonland permanent you control, then return it to the battlefield under its owner&apos;s control tapped. If the permanent has surprise, draw a card.</text>
+			<text>Exile target creature you control, then return it to the battlefield tapped under its owner&apos;s control. If the permanent has surprise, draw a card.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/125.png" num="64">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2493,7 +2493,7 @@ Timeout — No player has discarded a card this turn. (If you discard this card,
 		</card>
 		<card>
 			<name>Face Your Fears</name>
-			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Choose one. If you have beaten the dare, you may choose both —
 • Until end of turn, target creature gains deathtouch and indestructible.
 • Until end of turn, target creature gets +2/+2 and gains lifelink.</text>
@@ -2598,7 +2598,7 @@ Draw two cards. Up to two target creatures you control get +1/+0 and gain menace
 		</card>
 		<card>
 			<name>Face the Flames</name>
-			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Choose one. If you have beaten the dare, you may choose both —
 • Face the Flames deals 3 damage to target creature.
 • Face the Flames deals 1 damage to up to two different target creatures.</text>
@@ -2636,7 +2636,7 @@ Menace, trample</text>
 		</card>
 		<card>
 			<name>Make It Faster</name>
-			<text>Imagine 2. Then, creatures you control gain first strike until end of turn. (Put the top card of your library face down as a 2/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
+			<text>Imagine 2. Then, creatures you control gain first strike until end of turn. (Put the top card of your library face down on the battlefield as a 2/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/152.png" num="145">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2737,7 +2737,7 @@ Enchanted creature must be blocked each combat if able.
 		</card>
 		<card>
 			<name>Face the Feast</name>
-			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Choose one. If you have beaten the dare, you may choose both —
 • Create a 1/2 black and green Spider creature token with reach.
 • You gain X life, where X is the number of creatures you control.</text>
@@ -2775,7 +2775,7 @@ When this creature enters, it fights up to one target creature an opponent contr
 		</card>
 		<card>
 			<name>Make It Bigger</name>
-			<text>Imagine 2. Then, creatures you control get +0/+2 until end of turn. (Put the top card of your library face down as a 2/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
+			<text>Imagine 2. Then, creatures you control get +0/+2 until end of turn. (Put the top card of your library face down on the battlefield as a 2/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/160.png" num="183">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -2825,7 +2825,7 @@ The first time another creature you control dies each turn, Nurture a Forest Ele
 		</card>
 		<card>
 			<name>Sneaky Beetle</name>
-			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
 {2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/163.png" num="193">WML</set>
@@ -3098,8 +3098,8 @@ Crew 4</text>
 		</card>
 		<card>
 			<name>Scattered Thought</name>
-			<text>Menace
-Whenever you discard one or more cards, target creature an opponent controls can&apos;t block until end of turn.</text>
+			<text>Vigilance
+Whenever you discard one or more cards, target creature an opponent controls can&apos;t attack or block until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/179.png" num="228">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3370,7 +3370,7 @@ When this creature enters, put a +1/+1 counter on up to two other creatures you 
 		<card>
 			<name>Ambitious Twins</name>
 			<text>When this creature enters, create a 2/2 green Dinosaur creature token.
-{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. (Put the top card of your library face down as a 6/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
+{4}{G}{G}, {T}, Tap another untapped Dinosaur you control: Imagine 6. (Put the top card of your library face down on the battlefield as a 6/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/194.png" num="202">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3439,7 +3439,7 @@ This creature&apos;s power is equal to the number of creature tokens and/or face
 		</card>
 		<card>
 			<name>Push Yourself</name>
-			<text>Dare (Start the dare. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Creatures you control get +2/+1 until end of turn. If you&apos;ve beaten the dare, whenever a creature you control dies this turn, target opponent loses 1 life.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/198.png" num="224">WML</set>
 			<prop>
@@ -3496,7 +3496,7 @@ Sacrifice a token: This creature gains lifelink until end of turn.</text>
 			<text>Lifelink
 When this creature leaves the battlefield, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
 {4}{W}, {T}, Sacrifice this creature: Draw cards equal to the amount of life you&apos;ve gained this turn.
-Surprise {2}{W}</text>
+Surprise {2}{W} (You may pay {2}{W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/201.png" num="21">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3636,8 +3636,8 @@ When this creature enters, you may return a nonland permanent you control to you
 		<card>
 			<name>Formaldehyde Soak</name>
 			<text>When this enchantment enters, if it was cast from exile, put target creature on the top of its owner&apos;s library. Otherwise, return target creature to its owner&apos;s hand.
-At the start of combat each turn, tap target creature an opponent controls.
-Timeout — One or more opponents control more creatures than you.</text>
+At the start of combat each turn, up to one target creature gets -4/-0 and its controller mills three cards.
+Timeout — One or more opponents control more creatures than you. (If you discard this card, you may discard it into exile. As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/209.png" num="51">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3655,7 +3655,7 @@ Timeout — One or more opponents control more creatures than you.</text>
 			<name>Envious Windsailor</name>
 			<text>Flying
 When this creature enters, choose an opponent. If that opponent has more cards in hand than you, draw cards equal to the difference.
-Timeout — You have not cast any spells this turn.</text>
+Timeout — You have not cast any spells this turn. (If you discard this card, you may discard it into exile. As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/210.png" num="49">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3672,7 +3672,7 @@ Timeout — You have not cast any spells this turn.</text>
 		</card>
 		<card>
 			<name>Gunk Swimmer</name>
-			<text>When this creature enters, Nurture a Fish.
+			<text>When this creature enters, Nurture a Fish. (Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)
 Creatures you control with counters on them can&apos;t be blocked.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/211.png" num="52">WML</set>
 			<prop>
@@ -3742,7 +3742,8 @@ If this creature would leave the battlefield, exile it instead. You may cast it 
 		</card>
 		<card>
 			<name>Toothy, Consuming Thought</name>
-			<text>Whenever you discard a nonland card, you may discard it into exile. If you do, it gains &quot;Timeout — A creature you control named Toothy, Consuming Thought has three or more +1/+1 counters.&quot; as long as it is in exile.
+			<text>Whenever you discard a nonland card, you may discard it into exile.
+You may cast any cards you have discarded into exile as long as Toothy has three or more +1/+1 counters.
 {U}, Discard a card: Put a +1/+1 counter on Toothy.
 {1}{U}, Remove a +1/+1 counter from Toothy: Draw a card.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/215.png" num="76">WML</set>
@@ -3762,7 +3763,7 @@ If this creature would leave the battlefield, exile it instead. You may cast it 
 		<card>
 			<name>Clumsy Admirer</name>
 			<text>When this creature leaves the battlefield, if it entered this turn, search your library for an artifact or creature card, reveal it, put it into your hand, then shuffle.
-Surprise {2}{B}</text>
+Surprise {2}{B} (You may pay {2}{B} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/216.png" num="84">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3781,7 +3782,7 @@ Surprise {2}{B}</text>
 			<name>Sadistic Assistant</name>
 			<text>Deathtouch
 When this creature attacks, you may discard a card. Then if a player has discarded a card this turn, return up to one nonland, noncreature card from your graveyard to your hand.
-Timeout — One or more creatures have died this turn.</text>
+Timeout — One or more creatures have died this turn. (If you discard this card, you may discard it into exile. As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/217.png" num="110">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3798,7 +3799,7 @@ Timeout — One or more creatures have died this turn.</text>
 		</card>
 		<card>
 			<name>Watch The Explosions</name>
-			<text>Dare
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Destroy all creatures. If you have beaten the dare, instead, destroy all creatures target player controls.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/218.png" num="120">WML</set>
 			<prop>
@@ -3815,7 +3816,7 @@ Destroy all creatures. If you have beaten the dare, instead, destroy all creatur
 		</card>
 		<card>
 			<name>Squish The Guts</name>
-			<text>Dare
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Target opponent loses 4 life. If you have beaten the dare, instead, target opponent loses life equal to the different between your life total and theirs.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/219.png" num="116">WML</set>
 			<prop>
@@ -3886,7 +3887,7 @@ Sacrifice this enchantment: Create X Treasure tokens, where X is the number of f
 			<name>Harold, the Un-Forgotten</name>
 			<text>When Harold enters, each player loses 2 life.
 When Harold leaves the battlefield, you may sacrifice a creature. If you do, exile Harold. When you do, draw a card and put Harold on the top of your library.
-Surprise {B}</text>
+Surprise {B} (You may pay {B} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/223.png" num="100">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3960,7 +3961,7 @@ Other creatures you control with power 4 or greater have menace.
 		<card>
 			<name>Dreaming Dino</name>
 			<text>Whenever you imagine, increase the value you imagine by one.
-{X}{X}, {T}: Imagine X. X can&apos;t be 0.</text>
+{X}{X}, {T}: Imagine X. X can&apos;t be 0. (Put the top card of your library face down on the battlefield as a X/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/227.png" num="133">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3977,7 +3978,7 @@ Other creatures you control with power 4 or greater have menace.
 		</card>
 		<card>
 			<name>Imagine Anything</name>
-			<text>When this enchantment enters, imagine 4.
+			<text>When this enchantment enters, imagine 4. (Put the top card of your library face down on the battlefield as a 4/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)
 Whenever you cast a creature spell for less mana than its mana value, it enters with additional +/+1 counters equal to the difference.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/228.png" num="141">WML</set>
 			<prop>
@@ -3994,10 +3995,9 @@ Whenever you cast a creature spell for less mana than its mana value, it enters 
 		</card>
 		<card>
 			<name>Ruthless Exploiter</name>
-			<text>When you cast this spell from exile, it enters with haste.
-Whenever damage would be dealt to this creature, you may discard a card. If you do not, the damage is dealt to you instead.
+			<text>Whenever damage would be dealt to this creature, you may discard a card. If you do not, the damage is dealt to you instead.
 {T}: Add {R}.
-Timeout — You have fewer lands than your opponent.</text>
+Timeout — You have fewer lands than your opponent. (If you discard this card, you may discard it into exile. As long as you meet the Timeout&apos;s condition, you may cast the card from exile.)</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/229.png" num="153">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4223,7 +4223,7 @@ Cards in your hand can&apos;t leave your hand. (Cards in your hand can&apos;t be
 		</card>
 		<card>
 			<name>Flags of Whimsy</name>
-			<text>When this artifact enters, choose a card type.
+			<text>When this artifact enters, choose a card type. (Creature, artifact, enchantment, land, instant, sorcery, planeswalker, battle and kindred are all cards types.)
 {T}: Add two mana of any color. Spend this only to cast spells of the chosen type.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/242.png" num="254">WML</set>
 			<prop>
@@ -4349,8 +4349,8 @@ Whenever Jodie deals combat damage to a player, choose one that hasn&apos;t been
 		<card>
 			<name>Mahaba, Gentle Yet Giant</name>
 			<text>Flash
-When Mahaba enters, Nurture a Forest Elemental.
-When Mahaba attacks, for each creature you control with mana value 2 or less, set their base power and toughness to Mahaba&apos;s stats until end of turn.</text>
+When Mahaba enters, Nurture a Forest Elemental. (Create a 1/1 green Forest Elemental creature token. If you already control one, instead, put a +1/+1 counter on target Forest Elemental you control.)
+When Mahaba attacks, for each creature you control with mana value 2 or less, set their base power and toughness to total Mahaba&apos;s stats until end of turn.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/249.png" num="219">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4368,7 +4368,7 @@ When Mahaba attacks, for each creature you control with mana value 2 or less, se
 		<card>
 			<name>Minia, Crashing Through</name>
 			<text>Deathtouch, trample
-Dare
+Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 Minia has indestructible if you have beaten the dare.
 Whenever Minia becomes blocked by one or more creatures with greater power than her, choose a creature she is being blocked by. Minia gets +X/+0 until end of turn, where X is the chosen creature&apos;s power.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/250.png" num="220">WML</set>
@@ -4407,7 +4407,7 @@ Whenever you sacrifice an Insect, Spider and/or token, each opponent loses 1 lif
 		<card>
 			<name>Salvatore, Wild Rancher</name>
 			<text>Trample
-At the beginning of your upkeep, imagine 4. (Put the top card of your library face down as a 4/1 Figment creature that&apos;s all colors that has &quot;{0}: Exile this creature. Then, you may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)
+At the beginning of your upkeep, imagine 4. (Put the top card of your library face down on the battlefield as a 4/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)
 Other creatures you control with power 4 or greater get +0/+3 and have trample.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/252.png" num="226">WML</set>
 			<prop>
@@ -4535,7 +4535,7 @@ When this creature deals combat damage to an opponent, create a copy of each att
 			<name>Distractible Regimen</name>
 			<text>Vigilance
 When this creature enters, create two tapped 2/2 white Dog Knight creature tokens with vigilance and a stun counter.
-Surprise {1}{W}</text>
+Surprise {1}{W} (You may pay {1}{W} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/259.png" num="10">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4626,7 +4626,7 @@ When this creature deals combat damage to an opponent, that player mills cards e
 		<card>
 			<name>Emboldening Coach</name>
 			<text>Deathtouch
-Dare
+Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 If you have beaten the dare, creatures you control with deathtouch have trample.
 {1}{B}: Until end of turn, target creature you control gets +2/+0 and gains deathtouch. Activate only once each turn and only as a sorcery.</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/264.png" num="88">WML</set>
@@ -4647,7 +4647,7 @@ If you have beaten the dare, creatures you control with deathtouch have trample.
 			<name>Cruel Prankster</name>
 			<text>When this creature enters, choose target opponent. Until the beginning of your next upkeep, whenever the chosen opponent draws a card, they lose 2 life.
 When this creature leaves the battlefield, each player draws a card.
-Surprise {B}</text>
+Surprise {B} (You may pay {B} to put this card onto the battlefield from your hand. When you do, shuffle it into your library.)</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/265.png" num="86">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4699,7 +4699,7 @@ Whenever another creature dies, target opponent loses 1 life and you gain 1 life
 		</card>
 		<card>
 			<name>Immersion Therapist</name>
-			<text>Dare
+			<text>Dare (Start the dare if you haven&apos;t. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)
 If you have beaten the dare, whenever a creature you control enters, you may discard a card. If you do, draw a card.</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/268.png" num="142">WML</set>
 			<prop>
@@ -4826,9 +4826,8 @@ Whenever an opponent draws their second card each turn, you draw a card.
 		</card>
 		<card>
 			<name>Shavida, Friend-Maker</name>
-			<text>Whenever a Figment you control enters, put a friend counter on Shavida.
-At the beginning of your first postcombat main phase on each of your turns, if Shavida has three or more friend counters, remove them,ntap each creature that attacked this turn, and there is another combat phase and postcombat main phase after this phase.
-{R}{G}{W}, {T}: Imagine 3. Activate only on your turn.</text>
+			<text>At the beginning of your first postcombat main phase each turn, if three or more Figments you control entered this turn, untap all creatures that attacked this turn. There is another combat phase after this one followed by another main phase.
+{R}{G}{W}, {T}: Imagine 3. Activate only on your turn. (Put the top card of your library face down on the battlefield as a 3/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/275.png" num="230">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -4883,8 +4882,8 @@ Gene can&apos;t attack or block as long as an opponent controls a creature with 
 		</card>
 		<card>
 			<name>Quintorious, Mind Alight</name>
-			<text>Shuffle target instant or sorcery card in your graveyard into your library. Then, Imagine 2.
-Draw a card. If you control a Figment, instead, draw two.
+			<text>Imagine 2. (Put the top card of your library face down on the battlefield as a 2/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)
+Shuffle up to two target instant and/or sorcery cards from your graveyard into your library. Then draw a card.
 Exile all Figments you control. You may cast those cards without paying their mana costs until end of turn.</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/278.png" num="225">WML</set>
 			<prop>
@@ -4904,7 +4903,7 @@ Exile all Figments you control. You may cast those cards without paying their ma
 			<name>Figmata, Bringer of Whimsy</name>
 			<text>Indestructible
 Other Figments you control have indestructible.
-When this creature enters, imagine 10.
+When this creature enters, imagine 10. (Put the top card of your library face down on the battlefield as a 10/1 all-color Figment creature with &quot;{0}: Exile this card. You may cast it for {X} less, where X is this creature&apos;s power. Activate only as a sorcery.&quot;.)
 {W}{U}{B}{R}{G}, {T}: Imagine 10. Activate only as a sorcery.</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/279.png" num="210">WML</set>
 			<prop>
