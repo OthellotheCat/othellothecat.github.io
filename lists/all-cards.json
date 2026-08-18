@@ -192,7 +192,7 @@
             "number": 23,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Kick Sand deals 2 damage to target attacking or blocking creature. If it would die this turn, exile it instead.",
+            "rules_text": "Kick Sand deals 3 damage to target attacking or blocking creature. Prevent all damage it would deal until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

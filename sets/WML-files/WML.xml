@@ -5,7 +5,7 @@
 			<name>WML</name>
 			<longname>Whimsaland: World of Wonder</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-17</releasedate>
+			<releasedate>2026-08-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -152,7 +152,7 @@ Surprise {1}{W} (You may pay {1}{W} to put this card onto the battlefield from y
 		</card>
 		<card>
 			<name>Kick Sand</name>
-			<text>Kick Sand deals 2 damage to target attacking or blocking creature. If it would die this turn, exile it instead.</text>
+			<text>Kick Sand deals 3 damage to target attacking or blocking creature. Prevent all damage it would deal until end of turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/8.png" num="23">WML</set>
 			<prop>
 				<layout>normal</layout>

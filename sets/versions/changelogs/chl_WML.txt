@@ -1,4 +1,13 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+
+
+Kick Sand
+rules_text: Kick Sand deals 2 damage to target attacking or blocking creature. If it would die this turn, exile it instead. => Kick Sand deals 3 damage to target attacking or blocking creature. Prevent all damage it would deal until end of turn.
+
+
+VERSION 37 CHANGELOG
 ====================
 
 
