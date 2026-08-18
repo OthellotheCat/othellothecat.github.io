@@ -1,4 +1,42 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+
+
+Sneak a Peek
+rules_text: Target creature gets +1/+0 and gains flying until end of turn. If you control an artifact, scry 1 and draw a card. => Target creature gets +1/+0 and gains flying until end of turn. If you control an artifact, surveil 1 and draw a card.
+
+Careless Wayfaring
+rules_text: Enchant creature you control
+Whenever enchanted creature becomes tapped, you may scry 1 and draw a card. If you do, discard a card. => Enchant creature you control
+Whenever enchanted creature becomes tapped, you may surveil 2 and draw a card. If you do, discard a card.
+
+Gossip Girl
+rules_text: When this creature enters, you may discard a card. Then, scry X, where X is equal to the number of cards you discarded this turn, and draw a card. => When this creature enters, you may discard a card. Then, surveil X, where X is equal to the number of cards you discarded this turn, and draw a card.
+
+Rambunctious Blastfire
+rules_text: {1}{R}, {T}: Target creature you control gains haste until end of turn. If you cast an instant or sorcery spell this turn, that creature also gets +2/+0 until end of turn. => {R}, {T}: Target creature you control gains haste until end of turn. If you cast an instant or sorcery spell this turn, that creature also gets +2/+0 until end of turn.
+
+Exuberant Orator
+rules_text: First strike
+This creature's power is equal to the number of creature tokens and/or face-down creatures you control. => First strike
+This creature gets +1/+0 for each creature token and/or face-down creature you control.
+pt: */3 => 2/3
+
+Augusta, Vigilant Chaperone
+rules_text: Whenever you shuffle, you may scry 2.
+{W}, {T}, Sacrifice this creature: Draw a card. => Whenever you shuffle, you may surveil 2.
+{W}, {T}, Sacrifice this creature: Draw a card.
+
+Tsukon, Prideful Monarch
+rules_text: Ward {2}
+At the beginning of each upkeep, scry 2 and draw a card.
+{2}: Put a nonland permanent card from your hand onto the battlefield. It gains haste until end of turn. When you do, shuffle it into your library. => Ward {2}
+At the beginning of each upkeep, surveil 1 and draw a card.
+{2}: Put a nonland permanent card from your hand onto the battlefield. It gains haste until end of turn. When you do, shuffle it into your library.
+
+
+VERSION 40 CHANGELOG
 ====================
 
 Drooling Chitinbeast added.

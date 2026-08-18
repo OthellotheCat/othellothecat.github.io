@@ -49,7 +49,7 @@ Surprise {1}{W} (You may pay {1}{W} to put this card onto the battlefield from y
 		</card>
 		<card>
 			<name>Sneak a Peek</name>
-			<text>Target creature gets +1/+0 and gains flying until end of turn. If you control an artifact, scry 1 and draw a card.</text>
+			<text>Target creature gets +1/+0 and gains flying until end of turn. If you control an artifact, surveil 1 and draw a card.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/2.png" num="32">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -470,7 +470,7 @@ Draw a card.</text>
 		<card>
 			<name>Careless Wayfaring</name>
 			<text>Enchant creature you control
-Whenever enchanted creature becomes tapped, you may scry 1 and draw a card. If you do, discard a card.</text>
+Whenever enchanted creature becomes tapped, you may surveil 2 and draw a card. If you do, discard a card.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/26.png" num="46">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -936,7 +936,7 @@ Return target creature card from your graveyard to your hand.</text>
 		</card>
 		<card>
 			<name>Gossip Girl</name>
-			<text>When this creature enters, you may discard a card. Then, scry X, where X is equal to the number of cards you discarded this turn, and draw a card.</text>
+			<text>When this creature enters, you may discard a card. Then, surveil X, where X is equal to the number of cards you discarded this turn, and draw a card.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/53.png" num="97">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -1025,7 +1025,7 @@ When this creature enters, if it is your combat phase, it enters tapped and atta
 		</card>
 		<card>
 			<name>Rambunctious Blastfire</name>
-			<text>{1}{R}, {T}: Target creature you control gains haste until end of turn. If you cast an instant or sorcery spell this turn, that creature also gets +2/+0 until end of turn.</text>
+			<text>{R}, {T}: Target creature you control gains haste until end of turn. If you cast an instant or sorcery spell this turn, that creature also gets +2/+0 until end of turn.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/WML-files/img/58.png" num="151">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3396,7 +3396,7 @@ When this creature enters, put a +1/+1 counter on up to two other creatures you 
 		<card>
 			<name>Exuberant Orator</name>
 			<text>First strike
-This creature&apos;s power is equal to the number of creature tokens and/or face-down creatures you control.</text>
+This creature gets +1/+0 for each creature token and/or face-down creature you control.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/WML-files/img/195.png" num="240">WML</set>
 			<prop>
 				<layout>normal</layout>
@@ -3407,7 +3407,7 @@ This creature&apos;s power is equal to the number of creature tokens and/or face
 				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>*/3</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3605,7 +3605,7 @@ Remove a counter from enchanted creature: Attach this Aura to another target cre
 		</card>
 		<card>
 			<name>Augusta, Vigilant Chaperone</name>
-			<text>Whenever you shuffle, you may scry 2.
+			<text>Whenever you shuffle, you may surveil 2.
 {W}, {T}, Sacrifice this creature: Draw a card.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/WML-files/img/207.png" num="3">WML</set>
 			<prop>
@@ -4795,7 +4795,7 @@ If you control five or more other creatures, this creature gets +5/+5 and may at
 		<card>
 			<name>Tsukon, Prideful Monarch</name>
 			<text>Ward {2}
-At the beginning of each upkeep, scry 2 and draw a card.
+At the beginning of each upkeep, surveil 1 and draw a card.
 {2}: Put a nonland permanent card from your hand onto the battlefield. It gains haste until end of turn. When you do, shuffle it into your library.</text>
 			<set rarity="mythic" picurl="https://othellothecat.github.io/sets/WML-files/img/273.png" num="236">WML</set>
 			<prop>
