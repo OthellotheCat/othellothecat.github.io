@@ -1,4 +1,251 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+Drooling Chitinbeast added.
+Trickmaster's Yo-Yo added.
+
+Indecisive Sampler removed.
+Pocket Sand removed.
+
+Sneak a Peek
+rules_text: Target creature gets +1/+0 and gains flying until end of turn. If you control an artifact, draw a card. => Target creature gets +1/+0 and gains flying until end of turn. If you control an artifact, scry 1 and draw a card.
+
+Collaborate
+rules_text: Draw a card.
+Creatures you control get +1/+1 until end of turn for each card you've drawn this turn. => Scry 2 and draw a card.
+Creatures you control get +1/+1 until end of turn for each card you've drawn this turn.
+
+Valiant Protector
+rules_text: Flash
+When this creature enters, this creature and another target creature you control gain indestructible until end of turn. => Flash
+When this creature enters, this creature and another target creature you control gain indestructible until end of turn.
+Basic landcycling {2}
+
+Clueless Tax Collector
+rules_text: When this creature enters, if you control an artifact, draw a card. Otherwise, create a Treasure token. => When this creature enters, if you control an artifact, surveil 1 and draw a card. Otherwise, create a Treasure token.
+
+Unstable Jitterer
+rules_text: Ward {2}
+When this creature enters or leaves the battlefield, target opponent mills five cards. => Ward {2}
+When this creature enters or leaves the battlefield, target opponent mills five cards.
+Basic landcycling {2}
+
+Inspired Symphonist
+pt: 2/3 => 2/2
+
+Behavioral Analysis
+cost: {U} => {1}{U}
+rules_text: Up to two different target creatures get -2/-0 until end of turn. Then if you targeted one or fewer creatures this way, draw a card. => Up to two different target creatures get -2/-0 until end of turn. 
+Draw a card.
+
+Versatile Matey
+cost: {1}{U} => {U}
+pt: 1/3 => 0/1
+
+Puddle Diver
+cost: {U} => {1}{U}
+rules_text: As an additional cost to cast this spell, tap an untapped creature you control.
+When this creature enters, Nurture a Fish. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)[/i] => When this creature enters, Nurture a Fish. [i](Create a 1/1 green and blue Fish creature token. If you already control one, instead, put a +1/+1 counter on target Fish you control.)[/i]
+
+Hamfisted Hogger
+cost: {2}{B} => {5}{B}
+rules_text: Lifelink
+When this creature enters, shuffle target creature you control into its owner's library. => Lifelink
+When this creature enters, shuffle target creature you control into its owner's library.
+Basic landcycling {2}
+pt: 2/5 => 3/8
+
+Gossip Girl
+cost: {5}{B} => {2}{B}
+rules_text: When this creature enters, you may discard a card. Then, scry X, where X is equal to the number of cards you discarded this turn, and draw two cards. => When this creature enters, you may discard a card. Then, scry X, where X is equal to the number of cards you discarded this turn, and draw a card.
+pt: 4/4 => 2/3
+
+Rambunctious Blastfire
+pt: 3/1 => 2/2
+
+A Little Too Loud
+
+Tryharding Tumbler
+rules_text: Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +2/+1 if you have beaten the dare. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +1/+2 if you have beaten the dare.
+pt: 1/2 => 2/1
+
+Titan Goader
+rules_text: When this creature becomes blocked, another attacking creature gets +2/+0 until end of turn. => Haste
+When this creature becomes blocked, another attacking creature gets +2/+0 until end of turn.
+pt: 3/2 => 2/1
+
+Aspiring Tyrant
+pt: 1/1 => 2/1
+
+Dynamite Dino
+rules_text: Trample
+Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +3/+3 if you have beaten the dare. => Trample
+Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+This creature gets +3/+3 if you have beaten the dare.
+Basic landcycling {2}
+pt: 6/6 => 5/5
+
+Grind the Heel
+cost: {1}{R} => {R}
+
+Oblivious Brontosaur
+rules_text: Reach
+This creature can only block creatures with flying. => Reach
+This creature can only block creatures with flying.
+Basic landcycling {2}
+
+Believe In Yourself
+cost: {2}{G} => {1}{G}
+
+Mine To Break
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards, then target opponent discards a card. => As an additional cost to cast this spell, discard a card.
+Draw two cards, then target creature an opponent controls gets -2/-2 until end of turn.
+
+Shadowy Remnant
+rules_text: Flying
+Whenever you discard one or more nonland, noncreature cards, target creature an opponent controls gets -1/-1 until end of turn. => Flying
+Whenever you discard one or more nonland cards, target creature an opponent controls gets -1/-1 until end of turn.
+
+Jagged Memories
+cost: {5}{B} => {4}{B}
+rules_text: As an additional cost to cast this spell, you may discard a card.
+Destroy up to X target creatures, where X is the number of cards you've discarded this turn. => Draw a card, then discard a card.
+Destroy up to X target creatures, where X is the number of cards you've discarded this turn.
+
+Head In The Trees
+rules_text: Creatures you control with counters on them gain trample until end of turn. If you control four or more creatures with counters on them, instead, put a trample counter on each of those creatures. => Creatures you control with counters on them get +1/+1 until end of turn. If you control four or more creatures with counters on them, instead, put a +1/+1 counter on each of those creatures.
+
+Sneaky Beetle
+rules_text: Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Whenever this creature attacks, if you have beaten the dare, you gain life equal to its toughness.
+{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Whenever this creature attacks, you gain life equal to its toughness.
+{3}{G}: This creature gets +2/+2 until end of turn. Activate only if you have beaten the dare.
+
+Unwanted Reminder
+pt: 3/1 => 2/2
+
+Tumbling Porcelain
+cost: {1}{W}{B} => {1}{WB}{WB}
+
+Imperfection Repurposer
+cost: {1}{WB}{WB} => {1}{W}{B}
+
+Improvising Accountant
+rules_text: Whenever a nontoken creature you control enters, if it was not cast, create a Treasure token. => The first time you scry or surveil each turn, create a Treasure token.
+{3}: Scry 2.
+
+Kukkyonan Throneguard
+rules_text: Lifelink
+Whenever a nontoken artifact you control leaves the battlefield, surveil 2.
+Whenever you scry or surveil, put a +1/+1 counter on this creature. => Lifelink
+Whenever an artifact you control leaves the battlefield, surveil 1.
+Whenever you scry or surveil, put a +1/+1 counter on this creature.
+pt: 2/3 => 1/4
+
+Site Surveyor
+rules_text: {4}, {T}: Nurture a Toy. This ability costs {3} less if a land entered under your control this turn. [i](Create a 1/1 white and green Toy artifact creature token. If you already control one, instead, put a +1/+1 counter on target Toy you control.)[/i] => {4}, {T}: Nurture a Toy. This ability costs {2} less if a land entered under your control this turn. [i](Create a 1/1 white and green Toy artifact creature token. If you already control one, instead, put a +1/+1 counter on target Toy you control.)[/i]
+
+Hand Smasher
+rules_text: Each player's maximum hand size is reduced by two. => Discard a card: Target opponent reveals their hand and discards a card that shares one or more types with the card you discarded. Activate only as a sorcery and only once each turn.
+pt: 1/4 => 3/2
+
+Golodoff Wanderer
+cost: {2}{B}{G} => {1}{B}{G}
+pt: 5/5 => 3/5
+
+Augusta, Vigilant Chaperone
+rules_text: Players play with the top card of their library revealed.
+When this creature leaves the battlefield, target player shuffles.
+{W}, {T}, Sacrifice this creature: Draw a card. => Whenever you shuffle, you may scry 2.
+{W}, {T}, Sacrifice this creature: Draw a card.
+
+Regifting Guest
+cost: {1}{U} => {2}{U}
+
+Formaldehyde Soak
+rules_text: When this enchantment enters, if it was cast from exile, put target creature on the top of its owner's library. Otherwise, return target creature to its owner's hand.
+At the start of combat each turn, up to one target creature gets -4/-0 and its controller mills three cards.
+Timeout — One or more opponents control more creatures than you. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => When this enchantment enters, if it was cast from exile, put target creature on the top of its owner's library.
+At the start of combat each turn, up to one target creature gets -4/-0 and its controller mills three cards.
+Timeout — One or more opponents control more creatures than you. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+
+Kukkyonan Moatguard
+rules_text: Vigilance, ward {1}
+Other creatures you control have vigilance and ward {1}.
+If this creature would leave the battlefield, exile it instead. You may cast it as long as it remains in exile. => Abilities you control can't be countered.
+Creatures your opponents control may be targeted as though they did not have hexproof or shroud
+{2}: Return another creature you control to its owner's hand. Tap target creature.
+
+Clumsy Admirer
+pt: 2/3 => 1/3
+
+Sadistic Assistant
+rules_text: Deathtouch
+When this creature attacks, you may discard a card. Then if a player has discarded a card this turn, return up to one nonland, noncreature card from your graveyard to your hand.
+Timeout — One or more creatures have died this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i] => Deathtouch
+When this creature attacks, you may discard a card. Then if a player has discarded a card this turn, return up to one nonland card from your graveyard to your hand.
+Timeout — One or more creatures have died this turn. [i](If you discard this card, you may discard it into exile. As long as you meet the Timeout's condition, you may cast the card from exile.)[/i]
+pt: 1/4 => 1/5
+
+Squish The Guts
+cost: {3}{B}{B} => {X}{B}
+rules_text: Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Target opponent loses 4 life. If you have beaten the dare, instead, target opponent loses life equal to the different between your life total and theirs. => Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Target opponent loses X+3 life. If you have beaten the dare, you gain life equal to the amount lost this way.
+
+Excessive Wealth
+rules_text: Whenever a player draws their second card each turn, put a fortune counter on this enchantment.
+Sacrifice this enchantment: Create X Treasure tokens, where X is the number of fortune counters on this enchantment. => Whenever you scry or surveil, put a fortune counter on this enchantment.
+Sacrifice this enchantment: Create X Treasure tokens, where X is the number of fortune counters on this enchantment.
+
+Life-Saving Warning
+cost: {1}{B}{B} => {2}{B}{B}
+
+Fight Rigger
+rules_text: This creature can't be blocked by creatures you own.
+At the beginning of combat on your turn, if an opponent controls three or more creatures, untap this creature. It gets +3/+0 and gains menace until end of turn.
+{R}, {T}: Target opponent gains control of target creature you control until the beginning of your next turn. => Menace
+This creature can't be blocked by creatures you own.
+{3}{R}: Exchange control of target creature you control with target creature an opponent controls until end of turn.
+pt: 1/3 => 3/2
+
+Imagine Anything
+rules_text: When this enchantment enters, imagine 4. [i](Put the top card of your library face down on the battlefield as a 4/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+Whenever you cast a creature spell for less mana than its mana value, it enters with additional +/+1 counters equal to the difference. => When this enchantment enters, imagine 4. [i](Put the top card of your library face down on the battlefield as a 4/1 all-color Figment creature with “{0}: Exile this card. You may cast it for {X} less, where X is this creature's power. Activate only as a sorcery.”.)[/i]
+Whenever you cast a creature spell for less mana than its mana value, it enters with additional +1/+1 counters equal to the difference.
+
+Ruthless Exploiter
+pt: 3/3 => 2/4
+
+Rising Chorus
+cost: {4}{G}{G} => {1}{G}{G}
+
+Minia, Crashing Through
+rules_text: Deathtouch, trample
+Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Minia has indestructible if you have beaten the dare.
+Whenever Minia becomes blocked by one or more creatures with greater power than her, choose a creature she is being blocked by. Minia gets +X/+0 until end of turn, where X is the chosen creature's power. => Deathtouch, trample
+Dare [i](Start the dare if you haven't. When attacking creatures you control have dealt 8 or more combat damage in a single turn, you have beaten the dare.)[/i]
+Minia has indestructible if you have beaten the dare.
+Whenever Minia becomes blocked, choose a creature she is being blocked by. Minia gets +X/+0 until end of turn, where X is the chosen creature's power.
+
+Tsukon, Prideful Monarch
+cost: {W}{U}{B} => {1}{W}{U}{B}
+rules_text: Ward {2}
+At the beginning of each upkeep, scry 1.
+Whenever an opponent draws their second card each turn, you draw a card.
+{2}: Put a nonland permanent card from your hand onto the battlefield. It gains haste until end of turn. When you do, shuffle it into your library. => Ward {2}
+At the beginning of each upkeep, scry 2 and draw a card.
+{2}: Put a nonland permanent card from your hand onto the battlefield. It gains haste until end of turn. When you do, shuffle it into your library.
+pt: 2/4 => 2/5
+
+
+VERSION 39 CHANGELOG
 ====================
 
 

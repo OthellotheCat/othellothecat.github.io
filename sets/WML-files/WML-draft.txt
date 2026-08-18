@@ -243,7 +243,7 @@
 		{
 			"name": "Behavioral Analysis",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
@@ -273,7 +273,7 @@
 		{
 			"name": "Versatile Matey",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}",
 			"type": "Creature — Figment Pirate",
 			"collector_number": "79",
 			"image_uris": {
@@ -283,7 +283,7 @@
 		{
 			"name": "Puddle Diver",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Elemental Fish",
 			"collector_number": "65",
 			"image_uris": {
@@ -383,9 +383,9 @@
 		{
 			"name": "Hamfisted Hogger",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{5}{B}",
 			"type": "Creature — Human",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/38.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/42.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/46.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/49.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/51.png"
 			}
@@ -533,9 +533,9 @@
 		{
 			"name": "Gossip Girl",
 			"rarity": "common",
-			"mana_cost": "{5}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Orc Advisor",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/53.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Figment",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/56.png"
 			}
@@ -703,7 +703,7 @@
 		{
 			"name": "Grind the Heel",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "138",
 			"image_uris": {
@@ -873,7 +873,7 @@
 		{
 			"name": "Believe In Yourself",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "163",
 			"image_uris": {
@@ -985,7 +985,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/98.png"
 			}
@@ -1393,7 +1393,7 @@
 		{
 			"name": "Jagged Memories",
 			"rarity": "common",
-			"mana_cost": "{5}{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
@@ -1405,17 +1405,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/140.png"
 			}
 		},
 		{
-			"name": "Indecisive Sampler",
+			"name": "Drooling Chitinbeast",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Orc",
-			"collector_number": "101",
+			"type": "Creature — Insect Beast",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/141.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/144.png"
 			}
@@ -1681,11 +1681,11 @@
 			}
 		},
 		{
-			"name": "Pocket Sand",
+			"name": "Trickmaster's Yo-Yo",
 			"rarity": "uncommon",
-			"mana_cost": "{2}",
+			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "258",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/168.png"
 			}
@@ -1695,7 +1695,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/169.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Cat",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/170.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Creature — Figment Advisor Reveler",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/171.png"
 			}
@@ -1723,9 +1723,9 @@
 		{
 			"name": "Tumbling Porcelain",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
+			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Artifact Creature — Toy",
-			"collector_number": "236",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/172.png"
 			}
@@ -1733,9 +1733,9 @@
 		{
 			"name": "Imperfection Repurposer",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W/B}{W/B}",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Figment",
-			"collector_number": "243",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/173.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{G}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/177.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U/B}{U/B}",
 			"type": "Sorcery",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/178.png"
 			}
@@ -1795,7 +1795,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Horror Figment",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/179.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Elemental Fish",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/183.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Figment Warrior Performer",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/184.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/186.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R/G}{R/G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/188.png"
 			}
@@ -1905,7 +1905,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/190.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Figment Knight",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/191.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Kithkin Scout",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/192.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G/U}{G/U}",
 			"type": "Creature — Merfolk",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/193.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Instant",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/198.png"
 			}
@@ -1993,7 +1993,7 @@
 		{
 			"name": "Golodoff Wanderer",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{G}",
+			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Human Ranger",
 			"collector_number": "212",
 			"image_uris": {
@@ -2083,7 +2083,7 @@
 		{
 			"name": "Regifting Guest",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Reveler",
 			"collector_number": "68",
 			"image_uris": {
@@ -2193,7 +2193,7 @@
 		{
 			"name": "Squish The Guts",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{X}{B}",
 			"type": "Sorcery",
 			"collector_number": "116",
 			"image_uris": {
@@ -2205,7 +2205,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/220.png"
 			}
@@ -2223,7 +2223,7 @@
 		{
 			"name": "Life-Saving Warning",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "105",
 			"image_uris": {
@@ -2235,7 +2235,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Figment Warlock Villain",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/223.png"
 			}
@@ -2383,7 +2383,7 @@
 		{
 			"name": "Rising Chorus",
 			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{1}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "191",
 			"image_uris": {
@@ -2455,7 +2455,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Orc Sorcerer",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/245.png"
 			}
@@ -2465,7 +2465,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/246.png"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Scorpion Dragon Pirate",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/248.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}{U}",
 			"type": "Legendary Creature — Giant Shaman",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/249.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Azra Berserker Performer",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/250.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Human Ranger",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/252.png"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Figment Advisor",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/264.png"
 			}
@@ -2733,9 +2733,9 @@
 		{
 			"name": "Tsukon, Prideful Monarch",
 			"rarity": "mythic",
-			"mana_cost": "{W}{U}{B}",
+			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/273.png"
 			}
@@ -2745,7 +2745,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Kithkin Bard",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/274.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Human Ally",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/275.png"
 			}
@@ -2785,7 +2785,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Planeswalker — Quintorious",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://othellothecat.github.io/sets/WML-files/img/278.png"
 			}
@@ -2976,7 +2976,7 @@
 	4 Mine To Break
 	4 Shadowy Remnant
 	4 Gregarious Garcon
-	4 Indecisive Sampler
+	4 Drooling Chitinbeast
 	4 Carla's Extortionist
 	4 Face Your Fears
 	4 Lightning-Breathing Dragon
@@ -2997,7 +2997,7 @@
 	4 Unwanted Reminder
 	4 Figmatog
 	4 Cardboard Fortress
-	4 Pocket Sand
+	4 Trickmaster's Yo-Yo
 	4 Portal to Whimsy
 	4 Scaredy Kitten
 	4 Party Planner
@@ -3404,7 +3404,7 @@
 	6 Shadowy Remnant
 	12 Jagged Memories
 	6 Gregarious Garcon
-	6 Indecisive Sampler
+	6 Drooling Chitinbeast
 	12 Deceitful Generosity
 	6 Carla's Extortionist
 	6 Face Your Fears
@@ -3431,7 +3431,7 @@
 	12 Absent-Minded Acquaintance
 	6 Figmatog
 	6 Cardboard Fortress
-	6 Pocket Sand
+	6 Trickmaster's Yo-Yo
 	6 Portal to Whimsy
 	6 Scaredy Kitten
 	6 Party Planner
@@ -3686,7 +3686,7 @@
 	15 Shadowy Remnant
 	6 Jagged Memories
 	15 Gregarious Garcon
-	15 Indecisive Sampler
+	15 Drooling Chitinbeast
 	6 Deceitful Generosity
 	15 Carla's Extortionist
 	15 Face Your Fears
@@ -3713,7 +3713,7 @@
 	6 Absent-Minded Acquaintance
 	15 Figmatog
 	15 Cardboard Fortress
-	15 Pocket Sand
+	15 Trickmaster's Yo-Yo
 	15 Portal to Whimsy
 	15 Scaredy Kitten
 	15 Party Planner
