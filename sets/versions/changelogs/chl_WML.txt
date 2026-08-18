@@ -1,4 +1,19 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+Augusta, Vigilant Chaperone
+rules_text: Vigilance
+Players play with the top card of their library revealed.
+When this creature leaves the battlefield, target player shuffles.
+{W}, {T}, Sacrifice this creature: Draw a card. => Players play with the top card of their library revealed.
+When this creature leaves the battlefield, target player shuffles.
+{W}, {T}, Sacrifice this creature: Draw a card.
+pt: 2/1 => 1/1
+
+
+VERSION 38 CHANGELOG
 ====================
 
 
