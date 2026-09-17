@@ -1,0 +1,4216 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Runaway Debtor",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/0.png"
+			}
+		},
+		{
+			"name": "Unite the Workers",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/1.png"
+			}
+		},
+		{
+			"name": "Assert Superiority",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/2.png"
+			}
+		},
+		{
+			"name": "Rooftop Watcher",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warlock Soldier",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/3.png"
+			}
+		},
+		{
+			"name": "Powerless Masses",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/4.png"
+			}
+		},
+		{
+			"name": "Overseer Confessor",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/5.png"
+			}
+		},
+		{
+			"name": "Overseer's Mark",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/6.png"
+			}
+		},
+		{
+			"name": "Fist of Steel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/7.png"
+			}
+		},
+		{
+			"name": "Rousing Speech",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/8.png"
+			}
+		},
+		{
+			"name": "Thirst Responder",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/9.png"
+			}
+		},
+		{
+			"name": "Desperate Loner",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/10.png"
+			}
+		},
+		{
+			"name": "Sympathetic Archon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Archon",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/11.png"
+			}
+		},
+		{
+			"name": "Imprisoned Labour",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/12.png"
+			}
+		},
+		{
+			"name": "Depatent",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/13.png"
+			}
+		},
+		{
+			"name": "Sting Policy",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/14.png"
+			}
+		},
+		{
+			"name": "Gullible Guardsman",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Archon",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/15.png"
+			}
+		},
+		{
+			"name": "Daring Protesters",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/16.png"
+			}
+		},
+		{
+			"name": "Riot Boon",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/17.png"
+			}
+		},
+		{
+			"name": "Drained Chattel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/18.png"
+			}
+		},
+		{
+			"name": "Overseer's Eyes",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Archon",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/19.png"
+			}
+		},
+		{
+			"name": "Antique Humiliator",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/20.png"
+			}
+		},
+		{
+			"name": "Fourth Clause",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/21.png"
+			}
+		},
+		{
+			"name": "Celpro Brute",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Homunculus",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/22.png"
+			}
+		},
+		{
+			"name": "Overseer Protection",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/23.png"
+			}
+		},
+		{
+			"name": "Unfavourable Bargain",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/24.png"
+			}
+		},
+		{
+			"name": "Alluring Auditor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/25.png"
+			}
+		},
+		{
+			"name": "Fledgling Arcanist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/26.png"
+			}
+		},
+		{
+			"name": "Arcane Huckster",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/27.png"
+			}
+		},
+		{
+			"name": "Expendable Assistant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Homunculus",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/28.png"
+			}
+		},
+		{
+			"name": "Celpro Policy",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/29.png"
+			}
+		},
+		{
+			"name": "Soul Depository",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/30.png"
+			}
+		},
+		{
+			"name": "Day Off",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/31.png"
+			}
+		},
+		{
+			"name": "Take the Opportunity",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/32.png"
+			}
+		},
+		{
+			"name": "Mindsale Manager",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Homunculus",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/33.png"
+			}
+		},
+		{
+			"name": "Sound Rejection",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/34.png"
+			}
+		},
+		{
+			"name": "Soul Custodian",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Devil Warlock",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/35.png"
+			}
+		},
+		{
+			"name": "Omnipresent Watchers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Homunculus",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/36.png"
+			}
+		},
+		{
+			"name": "Remove From the Public",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/37.png"
+			}
+		},
+		{
+			"name": "Connect the Dots",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/38.png"
+			}
+		},
+		{
+			"name": "Loaner's Shark",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Shark",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/39.png"
+			}
+		},
+		{
+			"name": "Strategic Loan",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/40.png"
+			}
+		},
+		{
+			"name": "Lord Over",
+			"rarity": "common",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/41.png"
+			}
+		},
+		{
+			"name": "Gore Gambler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Sand Zombie Peasant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/42.png"
+			}
+		},
+		{
+			"name": "Veteran Bookkeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Advisor Warlock",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/43.png"
+			}
+		},
+		{
+			"name": "Sharp-Eyed Opportunist",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/44.png"
+			}
+		},
+		{
+			"name": "Fortified Carriage",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/45.png"
+			}
+		},
+		{
+			"name": "Weak Link",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/46.png"
+			}
+		},
+		{
+			"name": "Ruthless Entrepreneur",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Warlock",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/47.png"
+			}
+		},
+		{
+			"name": "Substitute Divester",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Homunculus",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/48.png"
+			}
+		},
+		{
+			"name": "Brand Recognition",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/49.png"
+			}
+		},
+		{
+			"name": "Pawn it Off",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/50.png"
+			}
+		},
+		{
+			"name": "Toiling Away",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/51.png"
+			}
+		},
+		{
+			"name": "Hidden Fee",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/52.png"
+			}
+		},
+		{
+			"name": "Seize Collateral",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/53.png"
+			}
+		},
+		{
+			"name": "Seal the Deal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/54.png"
+			}
+		},
+		{
+			"name": "Dretch Policy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/55.png"
+			}
+		},
+		{
+			"name": "Overseer of the Damned",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Devil",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/56.png"
+			}
+		},
+		{
+			"name": "Reckless Sandcaster",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Sand Zombie Wizard",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/57.png"
+			}
+		},
+		{
+			"name": "Drown in Paperwork",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/58.png"
+			}
+		},
+		{
+			"name": "Dretch Loanmaster",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Devil Warlock",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/59.png"
+			}
+		},
+		{
+			"name": "Glassburn",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/60.png"
+			}
+		},
+		{
+			"name": "Gravewrecker",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Sand Zombie Peasant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/61.png"
+			}
+		},
+		{
+			"name": "Revenant of Greed",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/62.png"
+			}
+		},
+		{
+			"name": "Caffeine Addict",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Sand Zombie Peasant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/63.png"
+			}
+		},
+		{
+			"name": "Reckless Robber",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/64.png"
+			}
+		},
+		{
+			"name": "Distracted by Work",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/65.png"
+			}
+		},
+		{
+			"name": "Overseer's Wrath",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/66.png"
+			}
+		},
+		{
+			"name": "Ignite the Masses",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/67.png"
+			}
+		},
+		{
+			"name": "Veteran Negotiator",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/68.png"
+			}
+		},
+		{
+			"name": "Eager Automaton",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/69.png"
+			}
+		},
+		{
+			"name": "Getaway Vehicle",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/70.png"
+			}
+		},
+		{
+			"name": "Amend the Evidence",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/71.png"
+			}
+		},
+		{
+			"name": "Pounding of Flesh",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/72.png"
+			}
+		},
+		{
+			"name": "Rising Policy",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/73.png"
+			}
+		},
+		{
+			"name": "Unionised Worker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Peasant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/74.png"
+			}
+		},
+		{
+			"name": "Mysterious Saboteur",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Sand Zombie Rogue",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/75.png"
+			}
+		},
+		{
+			"name": "Crumbling Miner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Sand Zombie Peasant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/76.png"
+			}
+		},
+		{
+			"name": "Run the Sands",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/77.png"
+			}
+		},
+		{
+			"name": "Devil's Advocate",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/78.png"
+			}
+		},
+		{
+			"name": "Crackling Powermage",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Sand Zombie Warlock",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/79.png"
+			}
+		},
+		{
+			"name": "Bloodmad Devil",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Devil Warlock",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/80.png"
+			}
+		},
+		{
+			"name": "Colossal Sandlich",
+			"rarity": "common",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Sand Zombie Warlock",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/81.png"
+			}
+		},
+		{
+			"name": "Repository Guardian",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Archon",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/82.png"
+			}
+		},
+		{
+			"name": "Power Test",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/83.png"
+			}
+		},
+		{
+			"name": "Polluted Toad",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Frog",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/84.png"
+			}
+		},
+		{
+			"name": "Aeronautical Sabotague",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/85.png"
+			}
+		},
+		{
+			"name": "Post-Downland Matriarch",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/86.png"
+			}
+		},
+		{
+			"name": "Barlem Policy",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/87.png"
+			}
+		},
+		{
+			"name": "Protest Breaker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/88.png"
+			}
+		},
+		{
+			"name": "Creative Overcoming",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/89.png"
+			}
+		},
+		{
+			"name": "Wild Vigor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/90.png"
+			}
+		},
+		{
+			"name": "Unrestrained Ape",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ape",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/91.png"
+			}
+		},
+		{
+			"name": "Benefit Negotiation",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/92.png"
+			}
+		},
+		{
+			"name": "Barlem Financier",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/93.png"
+			}
+		},
+		{
+			"name": "Shady Realtor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/94.png"
+			}
+		},
+		{
+			"name": "Cheerful Storyteller",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/95.png"
+			}
+		},
+		{
+			"name": "Consumer Outrage",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/96.png"
+			}
+		},
+		{
+			"name": "Invigorating Contract",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/97.png"
+			}
+		},
+		{
+			"name": "Five-Tusked Clobber",
+			"rarity": "common",
+			"mana_cost": "{G}{G}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/98.png"
+			}
+		},
+		{
+			"name": "Disruptive Rabothar",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/99.png"
+			}
+		},
+		{
+			"name": "Nellie's Cashier",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/100.png"
+			}
+		},
+		{
+			"name": "Wage Labour",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/101.png"
+			}
+		},
+		{
+			"name": "Nellie's Manager",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/102.png"
+			}
+		},
+		{
+			"name": "Gro Bears",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Plant Bear",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/103.png"
+			}
+		},
+		{
+			"name": "Big Jack",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Peasant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/104.png"
+			}
+		},
+		{
+			"name": "Boring Manadrill",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/105.png"
+			}
+		},
+		{
+			"name": "Dredger Suit",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/106.png"
+			}
+		},
+		{
+			"name": "Work Boots",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/107.png"
+			}
+		},
+		{
+			"name": "Runic Recycler",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/108.png"
+			}
+		},
+		{
+			"name": "Subscription Thopter",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/109.png"
+			}
+		},
+		{
+			"name": "Inert Obelisk",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/110.png"
+			}
+		},
+		{
+			"name": "Mining Creakarm",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/111.png"
+			}
+		},
+		{
+			"name": "Heating Creakarm",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/112.png"
+			}
+		},
+		{
+			"name": "Charming Creakarm",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/113.png"
+			}
+		},
+		{
+			"name": "Cooling Creakarm",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/114.png"
+			}
+		},
+		{
+			"name": "Distributing Creakarm",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/115.png"
+			}
+		},
+		{
+			"name": "Sting Barracks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/116.png"
+			}
+		},
+		{
+			"name": "Celpro Databank",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/117.png"
+			}
+		},
+		{
+			"name": "Dretch Offices",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/118.png"
+			}
+		},
+		{
+			"name": "Rising Warehouse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/119.png"
+			}
+		},
+		{
+			"name": "Barlem Estate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/120.png"
+			}
+		},
+		{
+			"name": "Sunken-Eyed Maintainer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Homunculus",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/121.png"
+			}
+		},
+		{
+			"name": "Hopeful Revolutionary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/122.png"
+			}
+		},
+		{
+			"name": "Union Militia",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/123.png"
+			}
+		},
+		{
+			"name": "Vampiric Fashionista",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Vampire Performer",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/124.png"
+			}
+		},
+		{
+			"name": "Union Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/125.png"
+			}
+		},
+		{
+			"name": "Sting Procedure",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/126.png"
+			}
+		},
+		{
+			"name": "Angel Investor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/127.png"
+			}
+		},
+		{
+			"name": "Humble the Proud",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/128.png"
+			}
+		},
+		{
+			"name": "Disgraced Debutante",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Vampire Citizen",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/129.png"
+			}
+		},
+		{
+			"name": "Essence Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Vampire",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/130.png"
+			}
+		},
+		{
+			"name": "Oppress",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/131.png"
+			}
+		},
+		{
+			"name": "Archon's Oath",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/132.png"
+			}
+		},
+		{
+			"name": "Sacrosanct Vial",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact — Blood",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/133.png"
+			}
+		},
+		{
+			"name": "Study the Competition",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/134.png"
+			}
+		},
+		{
+			"name": "Runed Crab",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Crab",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/135.png"
+			}
+		},
+		{
+			"name": "Mystic Tinkerer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer Warlock",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/136.png"
+			}
+		},
+		{
+			"name": "Mystic Mechanic",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Artificer Warlock",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/137.png"
+			}
+		},
+		{
+			"name": "Eyes On Every Corner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/138.png"
+			}
+		},
+		{
+			"name": "Honest Devil",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Devil Rogue",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/139.png"
+			}
+		},
+		{
+			"name": "Corporate Drone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/140.png"
+			}
+		},
+		{
+			"name": "Surveillance System",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/141.png"
+			}
+		},
+		{
+			"name": "Homunculi Factory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/142.png"
+			}
+		},
+		{
+			"name": "Celpro Procedure",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/143.png"
+			}
+		},
+		{
+			"name": "Foul Metalcruncher",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/144.png"
+			}
+		},
+		{
+			"name": "Expendable Defenses",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/145.png"
+			}
+		},
+		{
+			"name": "Debt Trap",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/146.png"
+			}
+		},
+		{
+			"name": "Rotten Refurbisher",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/147.png"
+			}
+		},
+		{
+			"name": "High Interest Debt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/148.png"
+			}
+		},
+		{
+			"name": "Market Research",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/149.png"
+			}
+		},
+		{
+			"name": "Unlife Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Sand Zombie Warlock",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/150.png"
+			}
+		},
+		{
+			"name": "Denn, Dretch Reclaimer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Devil Advisor",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/151.png"
+			}
+		},
+		{
+			"name": "Dread Marchers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Sand Zombie",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/152.png"
+			}
+		},
+		{
+			"name": "Gravemaster Devil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Devil Advisor",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/153.png"
+			}
+		},
+		{
+			"name": "Dretch Procedure",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/154.png"
+			}
+		},
+		{
+			"name": "Morgue Restitcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/155.png"
+			}
+		},
+		{
+			"name": "Office Work Horse",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/156.png"
+			}
+		},
+		{
+			"name": "Efficient Observation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/157.png"
+			}
+		},
+		{
+			"name": "Financial Crisis",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/158.png"
+			}
+		},
+		{
+			"name": "Moneyguzzler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/159.png"
+			}
+		},
+		{
+			"name": "Ghostly Propagandist",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/160.png"
+			}
+		},
+		{
+			"name": "Blood Enchanter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warlock",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/161.png"
+			}
+		},
+		{
+			"name": "Demand Payment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/162.png"
+			}
+		},
+		{
+			"name": "Rising Shopbot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/163.png"
+			}
+		},
+		{
+			"name": "Rising Procedure",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/164.png"
+			}
+		},
+		{
+			"name": "Reassemble",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/165.png"
+			}
+		},
+		{
+			"name": "Roffel, Rising Manager",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Sand Zombie Goblin",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/166.png"
+			}
+		},
+		{
+			"name": "Required Taxation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/167.png"
+			}
+		},
+		{
+			"name": "Charismatic Con",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/168.png"
+			}
+		},
+		{
+			"name": "Sadistic Taskmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Sand Zombie Warlock",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/169.png"
+			}
+		},
+		{
+			"name": "Crumbling Firebird",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Sand Zombie Phoenix",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/170.png"
+			}
+		},
+		{
+			"name": "Memento Vivere",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact — Blood",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/171.png"
+			}
+		},
+		{
+			"name": "Bloodguard Judicator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Archon Knight",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/172.png"
+			}
+		},
+		{
+			"name": "Hazemaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/173.png"
+			}
+		},
+		{
+			"name": "New Hire Propagator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/174.png"
+			}
+		},
+		{
+			"name": "Flower of Plenty",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/175.png"
+			}
+		},
+		{
+			"name": "Spirespinner Colony",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/176.png"
+			}
+		},
+		{
+			"name": "Hostility of the Have-Nots",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/177.png"
+			}
+		},
+		{
+			"name": "Overseer's Pathclearer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Chimera",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/178.png"
+			}
+		},
+		{
+			"name": "Fey, Barlem Muscle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Citizen Berserker",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/179.png"
+			}
+		},
+		{
+			"name": "Barlem Procedure",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/180.png"
+			}
+		},
+		{
+			"name": "Bramble Perimeter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/181.png"
+			}
+		},
+		{
+			"name": "Graveborn Hydra",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Zombie Hydra",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/182.png"
+			}
+		},
+		{
+			"name": "Rough Triplets",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/183.png"
+			}
+		},
+		{
+			"name": "Downland Restoration",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/184.png"
+			}
+		},
+		{
+			"name": "Ascetic Tiller",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/185.png"
+			}
+		},
+		{
+			"name": "Phlebotomizing Creakarm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Blood Assembly-Worker",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/186.png"
+			}
+		},
+		{
+			"name": "Information Leak",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/187.png"
+			}
+		},
+		{
+			"name": "Laviella Hiel, Flawless Diva",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Vampire Performer",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/188.png"
+			}
+		},
+		{
+			"name": "Assassination Attempt",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/189.png"
+			}
+		},
+		{
+			"name": "Domine, Loankeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Sand Zombie Advisor",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/190.png"
+			}
+		},
+		{
+			"name": "Heretic's Altar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/191.png"
+			}
+		},
+		{
+			"name": "Vincentia, Sting Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Vampire Knight",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/192.png"
+			}
+		},
+		{
+			"name": "Primal Slumberer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/193.png"
+			}
+		},
+		{
+			"name": "Reggie, Voice for the Silent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}{W}",
+			"type": "Legendary Creature — Human Peasant Rebel",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/194.png"
+			}
+		},
+		{
+			"name": "Expensive Necessities",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{B}",
+			"type": "Instant",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/195.png"
+			}
+		},
+		{
+			"name": "Celpro's Finest",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Homunculus Detective",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/196.png"
+			}
+		},
+		{
+			"name": "Sputtering Compactor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/197.png"
+			}
+		},
+		{
+			"name": "Skreth, Sparking Bootlegger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/198.png"
+			}
+		},
+		{
+			"name": "Spurgefang Cub",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Cat Beast",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/199.png"
+			}
+		},
+		{
+			"name": "Gege, the Guardian Project",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Artifact Creature — Plant Golem",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/200.png"
+			}
+		},
+		{
+			"name": "Shattered Minuteglass",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Artifact Creature — Sand Zombie Warlock",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/201.png"
+			}
+		},
+		{
+			"name": "Crofferos, Stubborn Gambler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Sand Zombie Citizen",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/202.png"
+			}
+		},
+		{
+			"name": "Upon Bodies",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/203.png"
+			}
+		},
+		{
+			"name": "Oarrus Peld, Barlem Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Devil Scientist",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/204.png"
+			}
+		},
+		{
+			"name": "Frightened Titan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Beast Coward",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/205.png"
+			}
+		},
+		{
+			"name": "Zygmunt, Big Spender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/206.png"
+			}
+		},
+		{
+			"name": "Bank Vault",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/207.png"
+			}
+		},
+		{
+			"name": "Lottery Winnings",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/208.png"
+			}
+		},
+		{
+			"name": "Davriel Cane, Debt Collector",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Davriel",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/209.png"
+			}
+		},
+		{
+			"name": "Ashiok, Dream Pyre",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Planeswalker — Ashiok",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/210.png"
+			}
+		},
+		{
+			"name": "High Administrator Davriel",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/211.png"
+			}
+		},
+		{
+			"name": "Amoral Judge",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Archon Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/212.png"
+			}
+		},
+		{
+			"name": "Moro, Hemokineticist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Vampire Artificer Warlock",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/213.png"
+			}
+		},
+		{
+			"name": "The Archons are Watching",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/214.png"
+			}
+		},
+		{
+			"name": "Memory Timeshare",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/215.png"
+			}
+		},
+		{
+			"name": "Long Live the Revolution",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/216.png"
+			}
+		},
+		{
+			"name": "Meeksoul Defendant",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/217.png"
+			}
+		},
+		{
+			"name": "Flagellant of the Golden Chain",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Nymph Warlock",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/218.png"
+			}
+		},
+		{
+			"name": "Revitalized Automaton",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Artifact Creature — Assembly-Worker Golem",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/219.png"
+			}
+		},
+		{
+			"name": "Victim Reawakener",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/220.png"
+			}
+		},
+		{
+			"name": "Throne Miser",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/221.png"
+			}
+		},
+		{
+			"name": "Inherited Debt",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/222.png"
+			}
+		},
+		{
+			"name": "The Fifteenth Conference",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Project",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://othellothecat.github.io/sets/EQU-files/img/223_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/223_front.png"
+			}
+		},
+		{
+			"name": "Singularity Initiator",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Homunculus",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/224.png"
+			}
+		},
+		{
+			"name": "Thinkumajick",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Project",
+			"collector_number": "93",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://othellothecat.github.io/sets/EQU-files/img/225_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/225_front.png"
+			}
+		},
+		{
+			"name": "Rampaging Mutation",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Homunculus Mutant Berserker",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/226.png"
+			}
+		},
+		{
+			"name": "Professor of the Golden Chain",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Nymph Warlock",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/227.png"
+			}
+		},
+		{
+			"name": "Employee of the Millennium",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/228.png"
+			}
+		},
+		{
+			"name": "Charlie, Memory Broker",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Shapeshifter Artificer",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/229.png"
+			}
+		},
+		{
+			"name": "Synpatic Soldering",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/230.png"
+			}
+		},
+		{
+			"name": "Record of Precedents",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/231.png"
+			}
+		},
+		{
+			"name": "Blowout Sale",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/232.png"
+			}
+		},
+		{
+			"name": "Nostalgia",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/233.png"
+			}
+		},
+		{
+			"name": "Command Chains",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/234.png"
+			}
+		},
+		{
+			"name": "Is-Hiden of the Bloodshapers",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Devil Noble Warlock",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/235.png"
+			}
+		},
+		{
+			"name": "Overbearing Pryer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Homunculus",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/236.png"
+			}
+		},
+		{
+			"name": "Vilespawn Researcher",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Devil Warlock",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/237.png"
+			}
+		},
+		{
+			"name": "Colossal Repossessor",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/238.png"
+			}
+		},
+		{
+			"name": "Sandlich Overseer",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Sand Zombie Warlock",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/239.png"
+			}
+		},
+		{
+			"name": "Wretched Signatory",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Sand Zombie Advisor",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/240.png"
+			}
+		},
+		{
+			"name": "Market Crash",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/241.png"
+			}
+		},
+		{
+			"name": "Gravethruster",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/242.png"
+			}
+		},
+		{
+			"name": "Moraine, Traumatized Soul",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/243.png"
+			}
+		},
+		{
+			"name": "Blackmail Folder",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/244.png"
+			}
+		},
+		{
+			"name": "Apostle of the Golden Chain",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Nymph Warlock",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/245.png"
+			}
+		},
+		{
+			"name": "Debt Seeker",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Devil Warlock",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/246.png"
+			}
+		},
+		{
+			"name": "Trapped by the System",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/247.png"
+			}
+		},
+		{
+			"name": "The Dhomaga Succession",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Sand Zombie Noble",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/248.png"
+			}
+		},
+		{
+			"name": "The Aeon Phylactery",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment — Project",
+			"collector_number": "95",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://othellothecat.github.io/sets/EQU-files/img/249_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/249_front.png"
+			}
+		},
+		{
+			"name": "Rust Surge",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/250.png"
+			}
+		},
+		{
+			"name": "Violent Takeover",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/251.png"
+			}
+		},
+		{
+			"name": "Daretti, Union President",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/252.png"
+			}
+		},
+		{
+			"name": "Risky Business Decision",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/253.png"
+			}
+		},
+		{
+			"name": "See What Sticks",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/254.png"
+			}
+		},
+		{
+			"name": "Rising Bloodpress",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/255.png"
+			}
+		},
+		{
+			"name": "Spiteful Machinist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/256.png"
+			}
+		},
+		{
+			"name": "Fanatic of the Golden Chain",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment Creature — Nymph Warlock",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/257.png"
+			}
+		},
+		{
+			"name": "Bloodsoaked Archon",
+			"rarity": "rare",
+			"mana_cost": "{X}{1}{R}",
+			"type": "Creature — Archon",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/258.png"
+			}
+		},
+		{
+			"name": "Investment Guide",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Devil Advisor",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/259.png"
+			}
+		},
+		{
+			"name": "Zebble & Flee",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Goblin Devil Artificer",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/260.png"
+			}
+		},
+		{
+			"name": "Manufactured Sandstorm",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Artifact Creature — Sand Golem",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/261.png"
+			}
+		},
+		{
+			"name": "The Factory Press",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Enchantment — Project",
+			"collector_number": "158",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://othellothecat.github.io/sets/EQU-files/img/262_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/262_front.png"
+			}
+		},
+		{
+			"name": "Extraction Engine",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/263.png"
+			}
+		},
+		{
+			"name": "Wild Magic Harvest",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Project",
+			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://othellothecat.github.io/sets/EQU-files/img/264_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/264_front.png"
+			}
+		},
+		{
+			"name": "Beast's Den",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/265.png"
+			}
+		},
+		{
+			"name": "Hunger for Scraps",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/266.png"
+			}
+		},
+		{
+			"name": "Unstoppable Stampede",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/267.png"
+			}
+		},
+		{
+			"name": "Fauna Elemental",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}{G}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/268.png"
+			}
+		},
+		{
+			"name": "Remnant of the Golden Chain",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Nymph Warlock",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/269.png"
+			}
+		},
+		{
+			"name": "Sap Spreader",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/270.png"
+			}
+		},
+		{
+			"name": "Sludge Spitter",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/271.png"
+			}
+		},
+		{
+			"name": "Runic Refiner",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/272.png"
+			}
+		},
+		{
+			"name": "Arietty, Beast-Caller",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/273.png"
+			}
+		},
+		{
+			"name": "Melisande, Queen Pollinator",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{G}",
+			"type": "Legendary Creature — Insect Noble",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/274.png"
+			}
+		},
+		{
+			"name": "Soul of Equilibria",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Avatar",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/275.png"
+			}
+		},
+		{
+			"name": "Blueprint Manufactor",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Assembly-Worker",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/276.png"
+			}
+		},
+		{
+			"name": "The Unity Tree",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/277.png"
+			}
+		},
+		{
+			"name": "Elias, Keeper of the Lost",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/278.png"
+			}
+		},
+		{
+			"name": "Disturbed Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/279.png"
+			}
+		},
+		{
+			"name": "Polluted Harbor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/280.png"
+			}
+		},
+		{
+			"name": "Harvested Forest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/281.png"
+			}
+		},
+		{
+			"name": "Rotting Boneyard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/282.png"
+			}
+		},
+		{
+			"name": "Smoggy Factory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/283.png"
+			}
+		},
+		{
+			"name": "Toxic Marshland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/284.png"
+			}
+		},
+		{
+			"name": "Nullified Circle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/285.png"
+			}
+		},
+		{
+			"name": "Exploited River",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/286.png"
+			}
+		},
+		{
+			"name": "Monitored Plaza",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/287.png"
+			}
+		},
+		{
+			"name": "Overworked Field",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/288.png"
+			}
+		},
+		{
+			"name": "Downtown, Heart of the Community",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land Creature — Town Dryad",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/289.png"
+			}
+		},
+		{
+			"name": "Shell Company",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/290.png"
+			}
+		},
+		{
+			"name": "The Unflinching Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Archon Vampire Knight",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/291.png"
+			}
+		},
+		{
+			"name": "Twylle, the Final Reminder",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Enchantment Creature — Nymph Warlock",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/292.png"
+			}
+		},
+		{
+			"name": "Gurrex, the Haunted Pollution",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Plant Zombie Horror",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/293.png"
+			}
+		},
+		{
+			"name": "Bennel, Null Magic Stalker",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/294.png"
+			}
+		},
+		{
+			"name": "Factory Baron Dutarch",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Legendary Creature — Vampire Artificer",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/295.png"
+			}
+		},
+		{
+			"name": "Emieris, Renegade Wurmcaller",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/296.png"
+			}
+		},
+		{
+			"name": "Ysra, Eternity Warden",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Sand Zombie Warlock",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/297.png"
+			}
+		},
+		{
+			"name": "Plntr, the Censor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/U}{U}{U/B}",
+			"type": "Legendary Creature — Homunculus",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/298.png"
+			}
+		},
+		{
+			"name": "Judic, Awestruck",
+			"rarity": "rare",
+			"mana_cost": "{R/G}{G}{G/U}",
+			"type": "Legendary Creature — Human Scout Artificer",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/299.png"
+			}
+		},
+		{
+			"name": "Enee, Eye of Yesterday",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Sand Zombie Devil",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/300.png"
+			}
+		},
+		{
+			"name": "File for Bankruptcy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/301.png"
+			}
+		},
+		{
+			"name": "Voris, Harvester of the Souls",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Devil Advisor",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/302.png"
+			}
+		},
+		{
+			"name": "Anton Benta",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Elder Devil",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/303.png"
+			}
+		},
+		{
+			"name": "Plastic Lotus",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/304.png"
+			}
+		},
+		{
+			"name": "Diamond Archangel",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/305.png"
+			}
+		},
+		{
+			"name": "Sunscraper",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{G}{G}{W}{W}{W}{W}",
+			"type": "Legendary Creature — Elder Elemental Beast",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/306.png"
+			}
+		},
+		{
+			"name": "Count Vivian, the Undying",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/307.png"
+			}
+		},
+		{
+			"name": "Zoox, Old Beggar",
+			"rarity": "mythic",
+			"mana_cost": "{2/B}{B}{R}{G}",
+			"type": "Legendary Creature — Goblin Peasant",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/308.png"
+			}
+		},
+		{
+			"name": "Bull Market",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/309.png"
+			}
+		},
+		{
+			"name": "The Wild Magic Rebellion",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Enchantment — Project",
+			"collector_number": "271",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://othellothecat.github.io/sets/EQU-files/img/310_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://othellothecat.github.io/sets/EQU-files/img/310_front.png"
+			}
+		},
+	]
+
+[rare(1)]
+	1 Davriel Cane, Debt Collector
+	2 Ashiok, Dream Pyre
+	2 High Administrator Davriel
+	1 Amoral Judge
+	1 Moro, Hemokineticist
+	2 The Archons are Watching
+	2 Memory Timeshare
+	2 Long Live the Revolution
+	2 Meeksoul Defendant
+	2 Flagellant of the Golden Chain
+	2 Revitalized Automaton
+	2 Victim Reawakener
+	2 Throne Miser
+	2 Inherited Debt
+	1 The Fifteenth Conference
+	2 Singularity Initiator
+	1 Thinkumajick
+	2 Rampaging Mutation
+	2 Professor of the Golden Chain
+	2 Employee of the Millennium
+	2 Charlie, Memory Broker
+	2 Synpatic Soldering
+	2 Record of Precedents
+	2 Blowout Sale
+	2 Nostalgia
+	2 Command Chains
+	1 Is-Hiden of the Bloodshapers
+	1 Overbearing Pryer
+	2 Vilespawn Researcher
+	1 Colossal Repossessor
+	2 Sandlich Overseer
+	2 Wretched Signatory
+	2 Market Crash
+	2 Gravethruster
+	2 Moraine, Traumatized Soul
+	2 Blackmail Folder
+	2 Apostle of the Golden Chain
+	2 Debt Seeker
+	2 Trapped by the System
+	1 The Dhomaga Succession
+	1 The Aeon Phylactery
+	2 Rust Surge
+	2 Violent Takeover
+	1 Daretti, Union President
+	2 Risky Business Decision
+	2 See What Sticks
+	2 Rising Bloodpress
+	2 Spiteful Machinist
+	2 Fanatic of the Golden Chain
+	2 Bloodsoaked Archon
+	2 Investment Guide
+	2 Zebble & Flee
+	1 Manufactured Sandstorm
+	1 The Factory Press
+	2 Extraction Engine
+	1 Wild Magic Harvest
+	2 Beast's Den
+	2 Hunger for Scraps
+	2 Unstoppable Stampede
+	2 Fauna Elemental
+	2 Remnant of the Golden Chain
+	2 Sap Spreader
+	2 Sludge Spitter
+	2 Runic Refiner
+	2 Arietty, Beast-Caller
+	1 Melisande, Queen Pollinator
+	1 Soul of Equilibria
+	2 Blueprint Manufactor
+	2 The Unity Tree
+	2 Elias, Keeper of the Lost
+	2 Disturbed Cavern
+	2 Polluted Harbor
+	2 Harvested Forest
+	2 Rotting Boneyard
+	2 Smoggy Factory
+	2 Toxic Marshland
+	2 Nullified Circle
+	2 Exploited River
+	2 Monitored Plaza
+	2 Overworked Field
+	2 Downtown, Heart of the Community
+	2 Shell Company
+	2 The Unflinching Vanguard
+	2 Twylle, the Final Reminder
+	2 Gurrex, the Haunted Pollution
+	2 Bennel, Null Magic Stalker
+	2 Factory Baron Dutarch
+	2 Emieris, Renegade Wurmcaller
+	2 Ysra, Eternity Warden
+	2 Plntr, the Censor
+	2 Judic, Awestruck
+	2 Enee, Eye of Yesterday
+	2 File for Bankruptcy
+	2 Voris, Harvester of the Souls
+	1 Anton Benta
+	1 Plastic Lotus
+	1 Diamond Archangel
+	1 Sunscraper
+	1 Count Vivian, the Undying
+	1 Zoox, Old Beggar
+	1 Bull Market
+	1 The Wild Magic Rebellion
+[uncommon(3)]
+	4 Sunken-Eyed Maintainer
+	4 Hopeful Revolutionary
+	4 Union Militia
+	4 Vampiric Fashionista
+	4 Union Leader
+	4 Sting Procedure
+	4 Angel Investor
+	4 Humble the Proud
+	4 Disgraced Debutante
+	4 Essence Collector
+	4 Oppress
+	4 Archon's Oath
+	4 Sacrosanct Vial
+	4 Study the Competition
+	4 Runed Crab
+	4 Mystic Tinkerer
+	4 Mystic Mechanic
+	4 Eyes On Every Corner
+	4 Honest Devil
+	4 Corporate Drone
+	4 Surveillance System
+	4 Homunculi Factory
+	4 Celpro Procedure
+	4 Foul Metalcruncher
+	4 Expendable Defenses
+	4 Debt Trap
+	4 Rotten Refurbisher
+	4 High Interest Debt
+	4 Market Research
+	4 Unlife Thief
+	4 Denn, Dretch Reclaimer
+	4 Dread Marchers
+	4 Gravemaster Devil
+	4 Dretch Procedure
+	4 Morgue Restitcher
+	4 Office Work Horse
+	4 Efficient Observation
+	4 Financial Crisis
+	4 Moneyguzzler
+	4 Ghostly Propagandist
+	4 Blood Enchanter
+	4 Demand Payment
+	4 Rising Shopbot
+	4 Rising Procedure
+	4 Reassemble
+	4 Roffel, Rising Manager
+	4 Required Taxation
+	4 Charismatic Con
+	4 Sadistic Taskmaster
+	4 Crumbling Firebird
+	4 Memento Vivere
+	4 Bloodguard Judicator
+	4 Hazemaker
+	4 New Hire Propagator
+	4 Flower of Plenty
+	4 Spirespinner Colony
+	4 Hostility of the Have-Nots
+	4 Overseer's Pathclearer
+	4 Fey, Barlem Muscle
+	4 Barlem Procedure
+	4 Bramble Perimeter
+	4 Graveborn Hydra
+	4 Rough Triplets
+	4 Downland Restoration
+	4 Ascetic Tiller
+	4 Phlebotomizing Creakarm
+	4 Information Leak
+	4 Laviella Hiel, Flawless Diva
+	4 Assassination Attempt
+	4 Domine, Loankeeper
+	4 Heretic's Altar
+	4 Vincentia, Sting Marshal
+	4 Primal Slumberer
+	4 Reggie, Voice for the Silent
+	4 Expensive Necessities
+	4 Celpro's Finest
+	4 Sputtering Compactor
+	4 Skreth, Sparking Bootlegger
+	4 Spurgefang Cub
+	4 Gege, the Guardian Project
+	4 Shattered Minuteglass
+	4 Crofferos, Stubborn Gambler
+	4 Upon Bodies
+	4 Oarrus Peld, Barlem Researcher
+	4 Frightened Titan
+	4 Zygmunt, Big Spender
+	4 Bank Vault
+	4 Lottery Winnings
+[common(6)]
+	8 Runaway Debtor
+	8 Unite the Workers
+	8 Assert Superiority
+	8 Rooftop Watcher
+	8 Powerless Masses
+	8 Overseer Confessor
+	8 Overseer's Mark
+	8 Fist of Steel
+	8 Rousing Speech
+	8 Thirst Responder
+	8 Desperate Loner
+	8 Sympathetic Archon
+	8 Imprisoned Labour
+	8 Depatent
+	8 Sting Policy
+	8 Gullible Guardsman
+	8 Daring Protesters
+	8 Riot Boon
+	8 Drained Chattel
+	8 Overseer's Eyes
+	8 Antique Humiliator
+	8 Fourth Clause
+	8 Celpro Brute
+	8 Overseer Protection
+	8 Unfavourable Bargain
+	8 Alluring Auditor
+	8 Fledgling Arcanist
+	8 Arcane Huckster
+	8 Expendable Assistant
+	8 Celpro Policy
+	8 Soul Depository
+	8 Day Off
+	8 Take the Opportunity
+	8 Mindsale Manager
+	8 Sound Rejection
+	8 Soul Custodian
+	8 Omnipresent Watchers
+	8 Remove From the Public
+	8 Connect the Dots
+	8 Loaner's Shark
+	8 Strategic Loan
+	8 Lord Over
+	8 Gore Gambler
+	8 Veteran Bookkeeper
+	8 Sharp-Eyed Opportunist
+	8 Fortified Carriage
+	8 Weak Link
+	8 Ruthless Entrepreneur
+	8 Substitute Divester
+	8 Brand Recognition
+	8 Pawn it Off
+	8 Toiling Away
+	8 Hidden Fee
+	8 Seize Collateral
+	8 Seal the Deal
+	8 Dretch Policy
+	8 Overseer of the Damned
+	8 Reckless Sandcaster
+	8 Drown in Paperwork
+	8 Dretch Loanmaster
+	8 Glassburn
+	8 Gravewrecker
+	8 Revenant of Greed
+	8 Caffeine Addict
+	8 Reckless Robber
+	8 Distracted by Work
+	8 Overseer's Wrath
+	8 Ignite the Masses
+	8 Veteran Negotiator
+	8 Eager Automaton
+	8 Getaway Vehicle
+	8 Amend the Evidence
+	8 Pounding of Flesh
+	8 Rising Policy
+	8 Unionised Worker
+	8 Mysterious Saboteur
+	8 Crumbling Miner
+	8 Run the Sands
+	8 Devil's Advocate
+	8 Crackling Powermage
+	8 Bloodmad Devil
+	8 Colossal Sandlich
+	8 Repository Guardian
+	8 Power Test
+	8 Polluted Toad
+	8 Aeronautical Sabotague
+	8 Post-Downland Matriarch
+	8 Barlem Policy
+	8 Protest Breaker
+	8 Creative Overcoming
+	8 Wild Vigor
+	8 Unrestrained Ape
+	8 Benefit Negotiation
+	8 Barlem Financier
+	8 Shady Realtor
+	8 Cheerful Storyteller
+	8 Consumer Outrage
+	8 Invigorating Contract
+	8 Five-Tusked Clobber
+	8 Disruptive Rabothar
+	8 Nellie's Cashier
+	8 Wage Labour
+	8 Nellie's Manager
+	8 Gro Bears
+	8 Big Jack
+	8 Boring Manadrill
+	8 Dredger Suit
+	8 Work Boots
+	8 Runic Recycler
+	8 Subscription Thopter
+	8 Inert Obelisk
+	8 Mining Creakarm
+	8 Heating Creakarm
+	8 Charming Creakarm
+	8 Cooling Creakarm
+	8 Distributing Creakarm
+	8 Sting Barracks
+	8 Celpro Databank
+	8 Dretch Offices
+	8 Rising Warehouse
+	8 Barlem Estate
+[common | masterpiece(1)]
+	8 Runaway Debtor
+	8 Unite the Workers
+	8 Assert Superiority
+	8 Rooftop Watcher
+	8 Powerless Masses
+	8 Overseer Confessor
+	8 Overseer's Mark
+	8 Fist of Steel
+	8 Rousing Speech
+	8 Thirst Responder
+	8 Desperate Loner
+	8 Sympathetic Archon
+	8 Imprisoned Labour
+	8 Depatent
+	8 Sting Policy
+	8 Gullible Guardsman
+	8 Daring Protesters
+	8 Riot Boon
+	8 Drained Chattel
+	8 Overseer's Eyes
+	8 Antique Humiliator
+	8 Fourth Clause
+	8 Celpro Brute
+	8 Overseer Protection
+	8 Unfavourable Bargain
+	8 Alluring Auditor
+	8 Fledgling Arcanist
+	8 Arcane Huckster
+	8 Expendable Assistant
+	8 Celpro Policy
+	8 Soul Depository
+	8 Day Off
+	8 Take the Opportunity
+	8 Mindsale Manager
+	8 Sound Rejection
+	8 Soul Custodian
+	8 Omnipresent Watchers
+	8 Remove From the Public
+	8 Connect the Dots
+	8 Loaner's Shark
+	8 Strategic Loan
+	8 Lord Over
+	8 Gore Gambler
+	8 Veteran Bookkeeper
+	8 Sharp-Eyed Opportunist
+	8 Fortified Carriage
+	8 Weak Link
+	8 Ruthless Entrepreneur
+	8 Substitute Divester
+	8 Brand Recognition
+	8 Pawn it Off
+	8 Toiling Away
+	8 Hidden Fee
+	8 Seize Collateral
+	8 Seal the Deal
+	8 Dretch Policy
+	8 Overseer of the Damned
+	8 Reckless Sandcaster
+	8 Drown in Paperwork
+	8 Dretch Loanmaster
+	8 Glassburn
+	8 Gravewrecker
+	8 Revenant of Greed
+	8 Caffeine Addict
+	8 Reckless Robber
+	8 Distracted by Work
+	8 Overseer's Wrath
+	8 Ignite the Masses
+	8 Veteran Negotiator
+	8 Eager Automaton
+	8 Getaway Vehicle
+	8 Amend the Evidence
+	8 Pounding of Flesh
+	8 Rising Policy
+	8 Unionised Worker
+	8 Mysterious Saboteur
+	8 Crumbling Miner
+	8 Run the Sands
+	8 Devil's Advocate
+	8 Crackling Powermage
+	8 Bloodmad Devil
+	8 Colossal Sandlich
+	8 Repository Guardian
+	8 Power Test
+	8 Polluted Toad
+	8 Aeronautical Sabotague
+	8 Post-Downland Matriarch
+	8 Barlem Policy
+	8 Protest Breaker
+	8 Creative Overcoming
+	8 Wild Vigor
+	8 Unrestrained Ape
+	8 Benefit Negotiation
+	8 Barlem Financier
+	8 Shady Realtor
+	8 Cheerful Storyteller
+	8 Consumer Outrage
+	8 Invigorating Contract
+	8 Five-Tusked Clobber
+	8 Disruptive Rabothar
+	8 Nellie's Cashier
+	8 Wage Labour
+	8 Nellie's Manager
+	8 Gro Bears
+	8 Big Jack
+	8 Boring Manadrill
+	8 Dredger Suit
+	8 Work Boots
+	8 Runic Recycler
+	8 Subscription Thopter
+	8 Inert Obelisk
+	8 Mining Creakarm
+	8 Heating Creakarm
+	8 Charming Creakarm
+	8 Cooling Creakarm
+	8 Distributing Creakarm
+	8 Sting Barracks
+	8 Celpro Databank
+	8 Dretch Offices
+	8 Rising Warehouse
+	8 Barlem Estate
+[foil(1)]
+	12 Runaway Debtor
+	12 Unite the Workers
+	12 Assert Superiority
+	12 Rooftop Watcher
+	12 Powerless Masses
+	12 Overseer Confessor
+	12 Overseer's Mark
+	12 Fist of Steel
+	12 Rousing Speech
+	12 Thirst Responder
+	12 Desperate Loner
+	12 Sympathetic Archon
+	12 Imprisoned Labour
+	12 Depatent
+	12 Sting Policy
+	12 Gullible Guardsman
+	12 Daring Protesters
+	12 Riot Boon
+	12 Drained Chattel
+	12 Overseer's Eyes
+	12 Antique Humiliator
+	12 Fourth Clause
+	12 Celpro Brute
+	12 Overseer Protection
+	12 Unfavourable Bargain
+	12 Alluring Auditor
+	12 Fledgling Arcanist
+	12 Arcane Huckster
+	12 Expendable Assistant
+	12 Celpro Policy
+	12 Soul Depository
+	12 Day Off
+	12 Take the Opportunity
+	12 Mindsale Manager
+	12 Sound Rejection
+	12 Soul Custodian
+	12 Omnipresent Watchers
+	12 Remove From the Public
+	12 Connect the Dots
+	12 Loaner's Shark
+	12 Strategic Loan
+	12 Lord Over
+	12 Gore Gambler
+	12 Veteran Bookkeeper
+	12 Sharp-Eyed Opportunist
+	12 Fortified Carriage
+	12 Weak Link
+	12 Ruthless Entrepreneur
+	12 Substitute Divester
+	12 Brand Recognition
+	12 Pawn it Off
+	12 Toiling Away
+	12 Hidden Fee
+	12 Seize Collateral
+	12 Seal the Deal
+	12 Dretch Policy
+	12 Overseer of the Damned
+	12 Reckless Sandcaster
+	12 Drown in Paperwork
+	12 Dretch Loanmaster
+	12 Glassburn
+	12 Gravewrecker
+	12 Revenant of Greed
+	12 Caffeine Addict
+	12 Reckless Robber
+	12 Distracted by Work
+	12 Overseer's Wrath
+	12 Ignite the Masses
+	12 Veteran Negotiator
+	12 Eager Automaton
+	12 Getaway Vehicle
+	12 Amend the Evidence
+	12 Pounding of Flesh
+	12 Rising Policy
+	12 Unionised Worker
+	12 Mysterious Saboteur
+	12 Crumbling Miner
+	12 Run the Sands
+	12 Devil's Advocate
+	12 Crackling Powermage
+	12 Bloodmad Devil
+	12 Colossal Sandlich
+	12 Repository Guardian
+	12 Power Test
+	12 Polluted Toad
+	12 Aeronautical Sabotague
+	12 Post-Downland Matriarch
+	12 Barlem Policy
+	12 Protest Breaker
+	12 Creative Overcoming
+	12 Wild Vigor
+	12 Unrestrained Ape
+	12 Benefit Negotiation
+	12 Barlem Financier
+	12 Shady Realtor
+	12 Cheerful Storyteller
+	12 Consumer Outrage
+	12 Invigorating Contract
+	12 Five-Tusked Clobber
+	12 Disruptive Rabothar
+	12 Nellie's Cashier
+	12 Wage Labour
+	12 Nellie's Manager
+	12 Gro Bears
+	12 Big Jack
+	12 Boring Manadrill
+	12 Dredger Suit
+	12 Work Boots
+	12 Runic Recycler
+	12 Subscription Thopter
+	12 Inert Obelisk
+	12 Mining Creakarm
+	12 Heating Creakarm
+	12 Charming Creakarm
+	12 Cooling Creakarm
+	12 Distributing Creakarm
+	12 Sting Barracks
+	12 Celpro Databank
+	12 Dretch Offices
+	12 Rising Warehouse
+	12 Barlem Estate
+	6 Sunken-Eyed Maintainer
+	6 Hopeful Revolutionary
+	6 Union Militia
+	6 Vampiric Fashionista
+	6 Union Leader
+	6 Sting Procedure
+	6 Angel Investor
+	6 Humble the Proud
+	6 Disgraced Debutante
+	6 Essence Collector
+	6 Oppress
+	6 Archon's Oath
+	6 Sacrosanct Vial
+	6 Study the Competition
+	6 Runed Crab
+	6 Mystic Tinkerer
+	6 Mystic Mechanic
+	6 Eyes On Every Corner
+	6 Honest Devil
+	6 Corporate Drone
+	6 Surveillance System
+	6 Homunculi Factory
+	6 Celpro Procedure
+	6 Foul Metalcruncher
+	6 Expendable Defenses
+	6 Debt Trap
+	6 Rotten Refurbisher
+	6 High Interest Debt
+	6 Market Research
+	6 Unlife Thief
+	6 Denn, Dretch Reclaimer
+	6 Dread Marchers
+	6 Gravemaster Devil
+	6 Dretch Procedure
+	6 Morgue Restitcher
+	6 Office Work Horse
+	6 Efficient Observation
+	6 Financial Crisis
+	6 Moneyguzzler
+	6 Ghostly Propagandist
+	6 Blood Enchanter
+	6 Demand Payment
+	6 Rising Shopbot
+	6 Rising Procedure
+	6 Reassemble
+	6 Roffel, Rising Manager
+	6 Required Taxation
+	6 Charismatic Con
+	6 Sadistic Taskmaster
+	6 Crumbling Firebird
+	6 Memento Vivere
+	6 Bloodguard Judicator
+	6 Hazemaker
+	6 New Hire Propagator
+	6 Flower of Plenty
+	6 Spirespinner Colony
+	6 Hostility of the Have-Nots
+	6 Overseer's Pathclearer
+	6 Fey, Barlem Muscle
+	6 Barlem Procedure
+	6 Bramble Perimeter
+	6 Graveborn Hydra
+	6 Rough Triplets
+	6 Downland Restoration
+	6 Ascetic Tiller
+	6 Phlebotomizing Creakarm
+	6 Information Leak
+	6 Laviella Hiel, Flawless Diva
+	6 Assassination Attempt
+	6 Domine, Loankeeper
+	6 Heretic's Altar
+	6 Vincentia, Sting Marshal
+	6 Primal Slumberer
+	6 Reggie, Voice for the Silent
+	6 Expensive Necessities
+	6 Celpro's Finest
+	6 Sputtering Compactor
+	6 Skreth, Sparking Bootlegger
+	6 Spurgefang Cub
+	6 Gege, the Guardian Project
+	6 Shattered Minuteglass
+	6 Crofferos, Stubborn Gambler
+	6 Upon Bodies
+	6 Oarrus Peld, Barlem Researcher
+	6 Frightened Titan
+	6 Zygmunt, Big Spender
+	6 Bank Vault
+	6 Lottery Winnings
+	1 Davriel Cane, Debt Collector
+	2 Ashiok, Dream Pyre
+	2 High Administrator Davriel
+	1 Amoral Judge
+	1 Moro, Hemokineticist
+	2 The Archons are Watching
+	2 Memory Timeshare
+	2 Long Live the Revolution
+	2 Meeksoul Defendant
+	2 Flagellant of the Golden Chain
+	2 Revitalized Automaton
+	2 Victim Reawakener
+	2 Throne Miser
+	2 Inherited Debt
+	1 The Fifteenth Conference
+	2 Singularity Initiator
+	1 Thinkumajick
+	2 Rampaging Mutation
+	2 Professor of the Golden Chain
+	2 Employee of the Millennium
+	2 Charlie, Memory Broker
+	2 Synpatic Soldering
+	2 Record of Precedents
+	2 Blowout Sale
+	2 Nostalgia
+	2 Command Chains
+	1 Is-Hiden of the Bloodshapers
+	1 Overbearing Pryer
+	2 Vilespawn Researcher
+	1 Colossal Repossessor
+	2 Sandlich Overseer
+	2 Wretched Signatory
+	2 Market Crash
+	2 Gravethruster
+	2 Moraine, Traumatized Soul
+	2 Blackmail Folder
+	2 Apostle of the Golden Chain
+	2 Debt Seeker
+	2 Trapped by the System
+	1 The Dhomaga Succession
+	1 The Aeon Phylactery
+	2 Rust Surge
+	2 Violent Takeover
+	1 Daretti, Union President
+	2 Risky Business Decision
+	2 See What Sticks
+	2 Rising Bloodpress
+	2 Spiteful Machinist
+	2 Fanatic of the Golden Chain
+	2 Bloodsoaked Archon
+	2 Investment Guide
+	2 Zebble & Flee
+	1 Manufactured Sandstorm
+	1 The Factory Press
+	2 Extraction Engine
+	1 Wild Magic Harvest
+	2 Beast's Den
+	2 Hunger for Scraps
+	2 Unstoppable Stampede
+	2 Fauna Elemental
+	2 Remnant of the Golden Chain
+	2 Sap Spreader
+	2 Sludge Spitter
+	2 Runic Refiner
+	2 Arietty, Beast-Caller
+	1 Melisande, Queen Pollinator
+	1 Soul of Equilibria
+	2 Blueprint Manufactor
+	2 The Unity Tree
+	2 Elias, Keeper of the Lost
+	2 Disturbed Cavern
+	2 Polluted Harbor
+	2 Harvested Forest
+	2 Rotting Boneyard
+	2 Smoggy Factory
+	2 Toxic Marshland
+	2 Nullified Circle
+	2 Exploited River
+	2 Monitored Plaza
+	2 Overworked Field
+	2 Downtown, Heart of the Community
+	2 Shell Company
+	2 The Unflinching Vanguard
+	2 Twylle, the Final Reminder
+	2 Gurrex, the Haunted Pollution
+	2 Bennel, Null Magic Stalker
+	2 Factory Baron Dutarch
+	2 Emieris, Renegade Wurmcaller
+	2 Ysra, Eternity Warden
+	2 Plntr, the Censor
+	2 Judic, Awestruck
+	2 Enee, Eye of Yesterday
+	2 File for Bankruptcy
+	2 Voris, Harvester of the Souls
+	1 Anton Benta
+	1 Plastic Lotus
+	1 Diamond Archangel
+	1 Sunscraper
+	1 Count Vivian, the Undying
+	1 Zoox, Old Beggar
+	1 Bull Market
+	1 The Wild Magic Rebellion
+[wildcard(1)]
+	6 Runaway Debtor
+	6 Unite the Workers
+	6 Assert Superiority
+	6 Rooftop Watcher
+	6 Powerless Masses
+	6 Overseer Confessor
+	6 Overseer's Mark
+	6 Fist of Steel
+	6 Rousing Speech
+	6 Thirst Responder
+	6 Desperate Loner
+	6 Sympathetic Archon
+	6 Imprisoned Labour
+	6 Depatent
+	6 Sting Policy
+	6 Gullible Guardsman
+	6 Daring Protesters
+	6 Riot Boon
+	6 Drained Chattel
+	6 Overseer's Eyes
+	6 Antique Humiliator
+	6 Fourth Clause
+	6 Celpro Brute
+	6 Overseer Protection
+	6 Unfavourable Bargain
+	6 Alluring Auditor
+	6 Fledgling Arcanist
+	6 Arcane Huckster
+	6 Expendable Assistant
+	6 Celpro Policy
+	6 Soul Depository
+	6 Day Off
+	6 Take the Opportunity
+	6 Mindsale Manager
+	6 Sound Rejection
+	6 Soul Custodian
+	6 Omnipresent Watchers
+	6 Remove From the Public
+	6 Connect the Dots
+	6 Loaner's Shark
+	6 Strategic Loan
+	6 Lord Over
+	6 Gore Gambler
+	6 Veteran Bookkeeper
+	6 Sharp-Eyed Opportunist
+	6 Fortified Carriage
+	6 Weak Link
+	6 Ruthless Entrepreneur
+	6 Substitute Divester
+	6 Brand Recognition
+	6 Pawn it Off
+	6 Toiling Away
+	6 Hidden Fee
+	6 Seize Collateral
+	6 Seal the Deal
+	6 Dretch Policy
+	6 Overseer of the Damned
+	6 Reckless Sandcaster
+	6 Drown in Paperwork
+	6 Dretch Loanmaster
+	6 Glassburn
+	6 Gravewrecker
+	6 Revenant of Greed
+	6 Caffeine Addict
+	6 Reckless Robber
+	6 Distracted by Work
+	6 Overseer's Wrath
+	6 Ignite the Masses
+	6 Veteran Negotiator
+	6 Eager Automaton
+	6 Getaway Vehicle
+	6 Amend the Evidence
+	6 Pounding of Flesh
+	6 Rising Policy
+	6 Unionised Worker
+	6 Mysterious Saboteur
+	6 Crumbling Miner
+	6 Run the Sands
+	6 Devil's Advocate
+	6 Crackling Powermage
+	6 Bloodmad Devil
+	6 Colossal Sandlich
+	6 Repository Guardian
+	6 Power Test
+	6 Polluted Toad
+	6 Aeronautical Sabotague
+	6 Post-Downland Matriarch
+	6 Barlem Policy
+	6 Protest Breaker
+	6 Creative Overcoming
+	6 Wild Vigor
+	6 Unrestrained Ape
+	6 Benefit Negotiation
+	6 Barlem Financier
+	6 Shady Realtor
+	6 Cheerful Storyteller
+	6 Consumer Outrage
+	6 Invigorating Contract
+	6 Five-Tusked Clobber
+	6 Disruptive Rabothar
+	6 Nellie's Cashier
+	6 Wage Labour
+	6 Nellie's Manager
+	6 Gro Bears
+	6 Big Jack
+	6 Boring Manadrill
+	6 Dredger Suit
+	6 Work Boots
+	6 Runic Recycler
+	6 Subscription Thopter
+	6 Inert Obelisk
+	6 Mining Creakarm
+	6 Heating Creakarm
+	6 Charming Creakarm
+	6 Cooling Creakarm
+	6 Distributing Creakarm
+	6 Sting Barracks
+	6 Celpro Databank
+	6 Dretch Offices
+	6 Rising Warehouse
+	6 Barlem Estate
+	15 Sunken-Eyed Maintainer
+	15 Hopeful Revolutionary
+	15 Union Militia
+	15 Vampiric Fashionista
+	15 Union Leader
+	15 Sting Procedure
+	15 Angel Investor
+	15 Humble the Proud
+	15 Disgraced Debutante
+	15 Essence Collector
+	15 Oppress
+	15 Archon's Oath
+	15 Sacrosanct Vial
+	15 Study the Competition
+	15 Runed Crab
+	15 Mystic Tinkerer
+	15 Mystic Mechanic
+	15 Eyes On Every Corner
+	15 Honest Devil
+	15 Corporate Drone
+	15 Surveillance System
+	15 Homunculi Factory
+	15 Celpro Procedure
+	15 Foul Metalcruncher
+	15 Expendable Defenses
+	15 Debt Trap
+	15 Rotten Refurbisher
+	15 High Interest Debt
+	15 Market Research
+	15 Unlife Thief
+	15 Denn, Dretch Reclaimer
+	15 Dread Marchers
+	15 Gravemaster Devil
+	15 Dretch Procedure
+	15 Morgue Restitcher
+	15 Office Work Horse
+	15 Efficient Observation
+	15 Financial Crisis
+	15 Moneyguzzler
+	15 Ghostly Propagandist
+	15 Blood Enchanter
+	15 Demand Payment
+	15 Rising Shopbot
+	15 Rising Procedure
+	15 Reassemble
+	15 Roffel, Rising Manager
+	15 Required Taxation
+	15 Charismatic Con
+	15 Sadistic Taskmaster
+	15 Crumbling Firebird
+	15 Memento Vivere
+	15 Bloodguard Judicator
+	15 Hazemaker
+	15 New Hire Propagator
+	15 Flower of Plenty
+	15 Spirespinner Colony
+	15 Hostility of the Have-Nots
+	15 Overseer's Pathclearer
+	15 Fey, Barlem Muscle
+	15 Barlem Procedure
+	15 Bramble Perimeter
+	15 Graveborn Hydra
+	15 Rough Triplets
+	15 Downland Restoration
+	15 Ascetic Tiller
+	15 Phlebotomizing Creakarm
+	15 Information Leak
+	15 Laviella Hiel, Flawless Diva
+	15 Assassination Attempt
+	15 Domine, Loankeeper
+	15 Heretic's Altar
+	15 Vincentia, Sting Marshal
+	15 Primal Slumberer
+	15 Reggie, Voice for the Silent
+	15 Expensive Necessities
+	15 Celpro's Finest
+	15 Sputtering Compactor
+	15 Skreth, Sparking Bootlegger
+	15 Spurgefang Cub
+	15 Gege, the Guardian Project
+	15 Shattered Minuteglass
+	15 Crofferos, Stubborn Gambler
+	15 Upon Bodies
+	15 Oarrus Peld, Barlem Researcher
+	15 Frightened Titan
+	15 Zygmunt, Big Spender
+	15 Bank Vault
+	15 Lottery Winnings
+	4 Davriel Cane, Debt Collector
+	7 Ashiok, Dream Pyre
+	7 High Administrator Davriel
+	4 Amoral Judge
+	4 Moro, Hemokineticist
+	7 The Archons are Watching
+	7 Memory Timeshare
+	7 Long Live the Revolution
+	7 Meeksoul Defendant
+	7 Flagellant of the Golden Chain
+	7 Revitalized Automaton
+	7 Victim Reawakener
+	7 Throne Miser
+	7 Inherited Debt
+	4 The Fifteenth Conference
+	7 Singularity Initiator
+	4 Thinkumajick
+	7 Rampaging Mutation
+	7 Professor of the Golden Chain
+	7 Employee of the Millennium
+	7 Charlie, Memory Broker
+	7 Synpatic Soldering
+	7 Record of Precedents
+	7 Blowout Sale
+	7 Nostalgia
+	7 Command Chains
+	4 Is-Hiden of the Bloodshapers
+	4 Overbearing Pryer
+	7 Vilespawn Researcher
+	4 Colossal Repossessor
+	7 Sandlich Overseer
+	7 Wretched Signatory
+	7 Market Crash
+	7 Gravethruster
+	7 Moraine, Traumatized Soul
+	7 Blackmail Folder
+	7 Apostle of the Golden Chain
+	7 Debt Seeker
+	7 Trapped by the System
+	4 The Dhomaga Succession
+	4 The Aeon Phylactery
+	7 Rust Surge
+	7 Violent Takeover
+	4 Daretti, Union President
+	7 Risky Business Decision
+	7 See What Sticks
+	7 Rising Bloodpress
+	7 Spiteful Machinist
+	7 Fanatic of the Golden Chain
+	7 Bloodsoaked Archon
+	7 Investment Guide
+	7 Zebble & Flee
+	4 Manufactured Sandstorm
+	4 The Factory Press
+	7 Extraction Engine
+	4 Wild Magic Harvest
+	7 Beast's Den
+	7 Hunger for Scraps
+	7 Unstoppable Stampede
+	7 Fauna Elemental
+	7 Remnant of the Golden Chain
+	7 Sap Spreader
+	7 Sludge Spitter
+	7 Runic Refiner
+	7 Arietty, Beast-Caller
+	4 Melisande, Queen Pollinator
+	4 Soul of Equilibria
+	7 Blueprint Manufactor
+	7 The Unity Tree
+	7 Elias, Keeper of the Lost
+	7 Disturbed Cavern
+	7 Polluted Harbor
+	7 Harvested Forest
+	7 Rotting Boneyard
+	7 Smoggy Factory
+	7 Toxic Marshland
+	7 Nullified Circle
+	7 Exploited River
+	7 Monitored Plaza
+	7 Overworked Field
+	7 Downtown, Heart of the Community
+	7 Shell Company
+	7 The Unflinching Vanguard
+	7 Twylle, the Final Reminder
+	7 Gurrex, the Haunted Pollution
+	7 Bennel, Null Magic Stalker
+	7 Factory Baron Dutarch
+	7 Emieris, Renegade Wurmcaller
+	7 Ysra, Eternity Warden
+	7 Plntr, the Censor
+	7 Judic, Awestruck
+	7 Enee, Eye of Yesterday
+	7 File for Bankruptcy
+	7 Voris, Harvester of the Souls
+	4 Anton Benta
+	4 Plastic Lotus
+	4 Diamond Archangel
+	4 Sunscraper
+	4 Count Vivian, the Undying
+	4 Zoox, Old Beggar
+	4 Bull Market
+	4 The Wild Magic Rebellion

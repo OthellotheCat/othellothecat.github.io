@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "EQU",
+            "set_name": "",
+            "formats": "Booster Draft"
+        },
+        {
             "set_code": "WML",
             "set_name": "Whimsaland: World of Wonder",
             "formats": "Booster Draft"
