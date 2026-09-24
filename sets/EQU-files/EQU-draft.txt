@@ -863,7 +863,7 @@
 		{
 			"name": "Post-Downland Matriarch",
 			"rarity": "common",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Peasant",
 			"collector_number": "221",
 			"image_uris": {
@@ -983,7 +983,7 @@
 		{
 			"name": "Five-Tusked Clobber",
 			"rarity": "common",
-			"mana_cost": "{G}{G}{G}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "207",
 			"image_uris": {

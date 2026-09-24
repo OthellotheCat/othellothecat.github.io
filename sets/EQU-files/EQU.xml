@@ -5,7 +5,7 @@
 			<name>EQU</name>
 			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-17</releasedate>
+			<releasedate>2026-09-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -298,7 +298,7 @@ When this creature enters, target creature you control gains flying and vigilanc
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>5/2</pt>
+				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -981,7 +981,7 @@ Target opponent discards 2 cards. If you aren&apos;t in debt, create a Blood tok
 		<card>
 			<name>Overseer of the Damned</name>
 			<text>Deathtouch
-Oversee — Whenever a permanent card is put in an opponent&apos;s graveyard from anywhere, that player loses 1 life and you gain 1 life.</text>
+Oversee — Whenever a permanent card is put in an opponent&apos;s graveyard from anywhere, that player loses 1 life.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/EQU-files/img/56.png" num="124">EQU</set>
 			<prop>
 				<layout>normal</layout>
@@ -1234,7 +1234,7 @@ Crew 1</text>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -1514,11 +1514,11 @@ Power Test deals 7 damage to any target. If it was bargained, it instead deals 7
 				<side>front</side>
 				<type>Creature — Human Peasant</type>
 				<maintype>Creature</maintype>
-				<manacost>3GG</manacost>
+				<manacost>4G</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1698,7 +1698,8 @@ Choose target creature you control. If this spell was bargained, you may put a +
 		</card>
 		<card>
 			<name>Invigorating Contract</name>
-			<text>Enchant creature
+			<text>Flash
+Enchant creature
 When this aura enters, untap enchanted creature. It gains hexproof until end of turn.
 Enchanted creature gets +2/+2.</text>
 			<set rarity="common" picurl="https://othellothecat.github.io/sets/EQU-files/img/97.png" num="214">EQU</set>
@@ -1723,11 +1724,11 @@ Enchanted creature gets +2/+2.</text>
 				<side>front</side>
 				<type>Creature — Beast</type>
 				<maintype>Creature</maintype>
-				<manacost>GGGG</manacost>
+				<manacost>2GG</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>5/5</pt>
+				<pt>5/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2628,7 +2629,7 @@ When this creature enters, exile target card from a graveyard. If it was a creat
 		<card>
 			<name>Denn, Dretch Reclaimer</name>
 			<text>{1}: Each player incurs debt 1. Activate this only once each turn.
-Whenever a player mills one or more cards, put a -1/-1 counter on up to one target creature.</text>
+Whenever a player mills one or more cards, target creature gets -1/-1 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://othellothecat.github.io/sets/EQU-files/img/151.png" num="101">EQU</set>
 			<prop>
 				<layout>normal</layout>
@@ -2639,7 +2640,7 @@ Whenever a player mills one or more cards, put a -1/-1 counter on up to one targ
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>0/5</pt>
+				<pt>0/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5376,7 +5377,7 @@ When Judic enters, if she was bargained, create an Everywhere token.
 		<card>
 			<name>Enee, Eye of Yesterday</name>
 			<text>Lifelink
-Oversee — At the beginning of your end step, if a permanent card entered an opponent&apos;s graveyard from anywhere this turn, put X +1/+1 counters on Enee, where X is the amount of life you gained this turn.</text>
+Oversee — At the beginning of your end step, if a permanent card entered an opponent&apos;s graveyard from anywhere this turn, put X +1/+1 counters on Enee, where X is the number of permanents that entered each opponent&apos;s graveyard this way.</text>
 			<set rarity="rare" picurl="https://othellothecat.github.io/sets/EQU-files/img/300.png" num="248">EQU</set>
 			<prop>
 				<layout>normal</layout>

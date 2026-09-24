@@ -1,4 +1,50 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Daring Protesters
+pt: 5/2 => 5/3
+
+Overseer of the Damned
+rules_text: Deathtouch
+[i]Oversee — [/i]Whenever a permanent card is put in an opponent's graveyard from anywhere, that player loses 1 life and you gain 1 life. => Deathtouch
+[i]Oversee — [/i]Whenever a permanent card is put in an opponent's graveyard from anywhere, that player loses 1 life.
+
+Getaway Vehicle
+pt: 1/1 => 2/1
+
+Post-Downland Matriarch
+cost: {3}{G}{G} => {4}{G}
+pt: 3/4 => 4/5
+
+Invigorating Contract
+rules_text: Enchant creature
+When this aura enters, untap enchanted creature. It gains hexproof until end of turn.
+Enchanted creature gets +2/+2. => Flash
+Enchant creature
+When this aura enters, untap enchanted creature. It gains hexproof until end of turn.
+Enchanted creature gets +2/+2.
+
+Five-Tusked Clobber
+cost: {G}{G}{G}{G} => {2}{G}{G}
+pt: 5/5 => 5/6
+
+Denn, Dretch Reclaimer
+rules_text: {1}: Each player incurs debt 1. Activate this only once each turn.
+Whenever a player mills one or more cards, put a -1/-1 counter on up to one target creature. => {1}: Each player incurs debt 1. Activate this only once each turn.
+Whenever a player mills one or more cards, target creature gets -1/-1 until end of turn.
+pt: 0/5 => 0/4
+
+Fauna Elemental
+
+Enee, Eye of Yesterday
+rules_text: Lifelink
+[i]Oversee — [/i]At the beginning of your end step, if a permanent card entered an opponent's graveyard from anywhere this turn, put X +1/+1 counters on Enee, where X is the amount of life you gained this turn. => Lifelink
+[i]Oversee — [/i]At the beginning of your end step, if a permanent card entered an opponent's graveyard from anywhere this turn, put X +1/+1 counters on Enee, where X is the number of permanents that entered each opponent's graveyard this way.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
